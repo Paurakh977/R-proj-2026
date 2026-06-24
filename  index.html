@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TrendSeer – AI-Powered Fashion Prediction Platform</title>
+  <meta name="description" content="Explore fashion trends through intelligent, gender-inclusive prediction. Discover what's rising, fading, or trending in the world of style." />
+  <link rel="stylesheet" href="styles.css" />
+  <!-- Favicon (sparkle emoji as inline SVG) -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✨</text></svg>" />
+</head>
+<body>
+
+<!-- ===== FULL-PAGE BACKGROUND ===== -->
+<div class="page-background"></div>
+
+<!-- ===== FLOATING FASHION ILLUSTRATIONS (SVG line art) ===== -->
+<div class="floating-illustrations">
+  <!-- Dress -->
+  <svg class="fashion-item fi-dress" viewBox="0 0 80 100"><path d="M40 5 L25 35 L15 95 L65 95 L55 35 Z M30 5 Q40 15 50 5"/><path d="M25 35 Q40 40 55 35"/></svg>
+  <!-- Hoodie -->
+  <svg class="fashion-item fi-hoodie" viewBox="0 0 90 90"><path d="M20 30 Q45 15 70 30 L75 85 L15 85 Z"/><path d="M35 20 Q45 10 55 20"/><path d="M30 85 L30 55 Q45 60 60 55 L60 85"/></svg>
+  <!-- Tote Bag -->
+  <svg class="fashion-item fi-bag" viewBox="0 0 70 80"><rect x="10" y="30" width="50" height="45" rx="5"/><path d="M22 30 Q22 10 35 10 Q48 10 48 30"/></svg>
+  <!-- Sneaker -->
+  <svg class="fashion-item fi-sneaker" viewBox="0 0 90 60"><path d="M10 45 Q10 20 35 20 L60 20 Q80 20 82 35 L85 45 Q85 50 75 50 L10 50 Q5 50 10 45Z"/><line x1="35" y1="25" x2="35" y2="45"/><line x1="45" y1="22" x2="45" y2="45"/><line x1="55" y1="22" x2="55" y2="45"/></svg>
+  <!-- High Heel -->
+  <svg class="fashion-item fi-heel" viewBox="0 0 70 70"><path d="M15 15 Q20 10 30 12 L35 30 L25 60 L20 65 L5 65 L15 55 Q10 40 15 15Z"/><path d="M35 30 L60 25 Q70 25 65 35 L35 40Z"/></svg>
+  <!-- Jeans -->
+  <svg class="fashion-item fi-jeans" viewBox="0 0 70 100"><path d="M15 5 L55 5 L55 35 Q55 50 50 55 L50 95 L38 95 L35 50 L32 95 L20 95 L20 55 Q15 50 15 35 Z"/><path d="M15 20 L55 20" stroke-dasharray="3 3"/></svg>
+  <!-- Skirt -->
+  <svg class="fashion-item fi-skirt" viewBox="0 0 80 70"><path d="M25 5 L55 5 L70 65 L10 65 Z"/><path d="M25 5 Q40 15 55 5"/><path d="M30 20 L25 60"/><path d="M50 20 L55 60"/></svg>
+  <!-- Small Tote -->
+  <svg class="fashion-item fi-tote" viewBox="0 0 60 70"><rect x="8" y="25" width="44" height="40" rx="4"/><path d="M18 25 Q18 8 30 8 Q42 8 42 25"/><line x1="8" y1="35" x2="52" y2="35"/></svg>
+  <!-- Hat -->
+  <svg class="fashion-item fi-hat" viewBox="0 0 80 50"><ellipse cx="40" cy="40" rx="38" ry="8"/><path d="M20 40 Q20 15 40 12 Q60 15 60 40"/></svg>
+  <!-- Shirt -->
+  <svg class="fashion-item fi-shirt" viewBox="0 0 80 90"><path d="M25 5 L10 20 L20 30 L25 25 L25 85 L55 85 L55 25 L60 30 L70 20 L55 5 Z"/><path d="M25 5 Q40 15 55 5"/><line x1="40" y1="25" x2="40" y2="70"/></svg>
+</div>
+
+<!-- ===== SPARKLE PARTICLES ===== -->
+<div class="sparkles-container">
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <div class="sparkle"></div>
+  <!-- Pink floating dots (matching Figma) -->
+  <div class="pink-dot"></div>
+  <div class="pink-dot"></div>
+  <div class="pink-dot"></div>
+  <div class="pink-dot"></div>
+  <div class="pink-dot"></div>
+</div>
+
+<!-- ===== NAVIGATION BAR ===== -->
+<nav class="navbar" id="navbar">
+  <a href="#hero" class="nav-brand">
+    <div class="nav-brand-icon">✿</div>
+    <div class="nav-brand-text">
+      <h1>TrendSeer</h1>
+      <span>Fashion AI</span>
+    </div>
+  </a>
+
+  <ul class="nav-links" id="navLinks">
+    <li><a href="#hero" class="active">Home</a></li>
+    <li><a href="#predictions">Predictions</a></li>
+    <li><a href="#categories">Categories</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#predictions" class="nav-cta">Try Now ✦</a></li>
+  </ul>
+
+  <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+</nav>
+
+<!-- ============================================
+     SECTION 1 – HERO
+     ============================================ -->
+<section class="hero" id="hero">
+  <div class="hero-badge">
+    <span class="sparkle-icon">✦</span>
+    AI-Powered Fashion Intelligence
+    <span class="sparkle-icon">✦</span>
+  </div>
+
+  <h2>
+    Want to <span class="gradient-text">Predict</span><br/>Something?
+  </h2>
+
+  <p class="hero-tagline">
+    <span class="sparkle-icon">✦</span>
+    where data meets style
+    <span class="sparkle-icon">✦</span>
+  </p>
+
+  <p class="hero-description">
+    Explore fashion trends through intelligent, gender-inclusive prediction.
+    Discover what's rising, fading, or trending in the world of style.
+  </p>
+
+  <div class="hero-buttons">
+    <a href="#predictions" class="btn-primary">
+      Start Predicting <span>→</span>
+    </a>
+    <a href="#about" class="btn-secondary">
+      Learn How It Works
+    </a>
+  </div>
+
+  <div class="hero-stats">
+    <div class="stat-item">
+      <div class="stat-number">12K<span class="accent">+</span></div>
+      <div class="stat-label">Trend Predictions</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">98<span class="accent">%</span></div>
+      <div class="stat-label">Accuracy Rate</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">50<span class="accent-green">+</span></div>
+      <div class="stat-label">Fashion Categories</div>
+    </div>
+  </div>
+
+  <div class="scroll-indicator">
+    <span>scroll to explore</span>
+    <div class="scroll-mouse"></div>
+  </div>
+</section>
+
+<!-- ============================================
+     SECTION 2 – CHOOSE WHAT TO PREDICT
+     ============================================ -->
+<section class="section-predict" id="predictions">
+  <div class="container">
+    <p class="section-label reveal">choose your focus</p>
+    <h2 class="section-heading reveal">
+      What Do You Want<br/><span class="gradient-text">To Predict?</span>
+    </h2>
+    <p class="section-description reveal">
+      Select a prediction category to begin your fashion intelligence journey.
+    </p>
+
+    <div class="predict-grid reveal">
+      <!-- Card 1 -->
+      <div class="predict-card" data-category="fashion-trends" id="card-fashion-trends">
+        <div class="predict-card-icon">📈</div>
+        <h3>Fashion Trends</h3>
+        <p>Upcoming style movements &amp; micro-trends</p>
+      </div>
+      <!-- Card 2 -->
+      <div class="predict-card" data-category="clothing-demand" id="card-clothing-demand">
+        <div class="predict-card-icon">📦</div>
+        <h3>Clothing Demand</h3>
+        <p>Market demand &amp; inventory forecasting</p>
+      </div>
+      <!-- Card 3 -->
+      <div class="predict-card" data-category="gender-inclusive" id="card-gender-inclusive">
+        <div class="predict-card-icon">👥</div>
+        <h3>Gender-Inclusive Styles</h3>
+        <p>Fluid &amp; inclusive fashion predictions</p>
+      </div>
+      <!-- Card 4 -->
+      <div class="predict-card" data-category="popular-products" id="card-popular-products">
+        <div class="predict-card-icon">⭐</div>
+        <h3>Popular Products</h3>
+        <p>Most wanted items right now</p>
+      </div>
+      <!-- Card 5 -->
+      <div class="predict-card" data-category="price-trends" id="card-price-trends">
+        <div class="predict-card-icon">💎</div>
+        <h3>Price Trends</h3>
+        <p>Smart pricing &amp; value predictions</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SECTION 3 – GENDER-INCLUSIVE CATEGORIES
+     ============================================ -->
+<section class="section-gender" id="categories">
+  <div class="container">
+    <p class="section-label reveal">explore by style</p>
+    <h2 class="section-heading reveal">
+      Gender-Inclusive<br/><span class="gradient-text">Fashion Categories</span>
+    </h2>
+    <p class="section-description reveal">
+      Every style matters. Choose a fashion world to explore and find your trend.
+    </p>
+
+    <div class="gender-grid reveal">
+      <!-- Female Fashion Card -->
+      <div class="gender-card" id="card-female" data-gender="female">
+        <div class="gender-card-header">
+          <div class="gender-card-header-left">
+            <div class="gender-icon">♡</div>
+            <div>
+              <h3>Female Fashion</h3>
+              <p>Explore feminine &amp; fluid styles</p>
+            </div>
+          </div>
+          <div class="gender-arrow">›</div>
+        </div>
+        <div class="gender-tags">
+          <span class="gender-tag" data-item="Dresses">Dresses</span>
+          <span class="gender-tag" data-item="Skirts">Skirts</span>
+          <span class="gender-tag" data-item="Jeans">Jeans</span>
+          <span class="gender-tag" data-item="Shirts">Shirts</span>
+          <span class="gender-tag more-tag" id="female-more">+5 more</span>
+        </div>
+        <div class="gender-card-expanded">
+          <div class="expanded-grid">
+            <div class="expanded-item" data-item="Dresses">Dresses</div>
+            <div class="expanded-item" data-item="Skirts">Skirts</div>
+            <div class="expanded-item" data-item="Jeans">Jeans</div>
+            <div class="expanded-item" data-item="Shirts">Shirts</div>
+            <div class="expanded-item" data-item="Hoodies">Hoodies</div>
+            <div class="expanded-item" data-item="Jackets">Jackets</div>
+            <div class="expanded-item" data-item="Sneakers">Sneakers</div>
+            <div class="expanded-item" data-item="Accessories">Accessories</div>
+            <div class="expanded-item" data-item="High Heels">High Heels</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Male Fashion Card -->
+      <div class="gender-card" id="card-male" data-gender="male">
+        <div class="gender-card-header">
+          <div class="gender-card-header-left">
+            <div class="gender-icon">⚡</div>
+            <div>
+              <h3>Male Fashion</h3>
+              <p>Discover masculine &amp; modern styles</p>
+            </div>
+          </div>
+          <div class="gender-arrow">›</div>
+        </div>
+        <div class="gender-tags">
+          <span class="gender-tag" data-item="Jeans">Jeans</span>
+          <span class="gender-tag" data-item="Shirts">Shirts</span>
+          <span class="gender-tag" data-item="Hoodies">Hoodies</span>
+          <span class="gender-tag" data-item="Jackets">Jackets</span>
+          <span class="gender-tag more-tag" id="male-more">+4 more</span>
+        </div>
+        <div class="gender-card-expanded">
+          <div class="expanded-grid">
+            <div class="expanded-item" data-item="Jeans">Jeans</div>
+            <div class="expanded-item" data-item="Shirts">Shirts</div>
+            <div class="expanded-item" data-item="Hoodies">Hoodies</div>
+            <div class="expanded-item" data-item="Jackets">Jackets</div>
+            <div class="expanded-item" data-item="Sneakers">Sneakers</div>
+            <div class="expanded-item" data-item="T-Shirts">T-Shirts</div>
+            <div class="expanded-item" data-item="Shorts">Shorts</div>
+            <div class="expanded-item" data-item="Accessories">Accessories</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SECTION 4 – PRODUCT SELECTION & FILTERS
+     ============================================ -->
+<section class="section-product" id="product-section">
+  <div class="container">
+    <p class="section-label reveal">refine your search</p>
+    <h2 class="section-heading reveal">
+      Product <span class="gradient-text">Selection</span>
+    </h2>
+    <p class="section-description reveal">
+      Configure your prediction parameters for tailored fashion insights.
+    </p>
+
+    <div class="product-panel reveal">
+      <div class="product-header">
+        <div class="product-selected">
+          <div class="product-selected-icon">👖</div>
+          <div class="product-selected-info">
+            <h4 id="selected-product-name">Jeans</h4>
+            <span id="selected-product-category">Female Fashion</span>
+          </div>
+        </div>
+        <button class="product-change-btn" onclick="document.getElementById('categories').scrollIntoView({behavior: 'smooth'})">
+          Change Selection
+        </button>
+      </div>
+
+      <div class="filters-grid">
+        <!-- Price Range Slider -->
+        <div class="filter-group full-width">
+          <label for="price-range">Price Range</label>
+          <div class="range-slider-container">
+            <input type="range" class="range-slider" id="price-range" min="0" max="500" value="150" />
+            <div class="range-labels">
+              <span>$0</span>
+              <span>$500</span>
+            </div>
+            <div class="range-value" id="range-display">Up to $150</div>
+          </div>
+        </div>
+
+        <!-- Budget Category -->
+        <div class="filter-group">
+          <label for="budget-category">Budget Category</label>
+          <select id="budget-category">
+            <option value="">Select budget range</option>
+            <option value="budget">Budget Friendly</option>
+            <option value="mid">Mid Range</option>
+            <option value="premium">Premium</option>
+            <option value="luxury">Luxury</option>
+          </select>
+        </div>
+
+        <!-- Brand Preference -->
+        <div class="filter-group">
+          <label for="brand-pref">Brand Preference</label>
+          <select id="brand-pref">
+            <option value="">Any brand</option>
+            <option value="zara">Zara</option>
+            <option value="hm">H&amp;M</option>
+            <option value="uniqlo">Uniqlo</option>
+            <option value="nike">Nike</option>
+            <option value="gucci">Gucci</option>
+            <option value="levi">Levi's</option>
+          </select>
+        </div>
+
+        <!-- Style Type -->
+        <div class="filter-group">
+          <label for="style-type">Style Type</label>
+          <select id="style-type">
+            <option value="">Any style</option>
+            <option value="casual">Casual</option>
+            <option value="streetwear">Streetwear</option>
+            <option value="formal">Formal</option>
+            <option value="athleisure">Athleisure</option>
+            <option value="bohemian">Bohemian</option>
+            <option value="minimalist">Minimalist</option>
+          </select>
+        </div>
+
+        <!-- Seasonal Preference -->
+        <div class="filter-group">
+          <label for="season-pref">Seasonal Preference</label>
+          <select id="season-pref">
+            <option value="">All seasons</option>
+            <option value="spring">Spring / Summer</option>
+            <option value="fall">Fall / Autumn</option>
+            <option value="winter">Winter</option>
+            <option value="year-round">Year Round</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SECTION 5 – PREDICTION PANEL
+     ============================================ -->
+<section class="section-prediction" id="prediction-panel">
+  <div class="container">
+    <div class="prediction-container">
+      <p class="section-label reveal">make your prediction</p>
+      <h2 class="section-heading reveal" style="margin-bottom: 40px;">
+        Prediction <span class="gradient-text">Panel</span>
+      </h2>
+
+      <div class="prediction-card reveal">
+        <div class="prediction-summary">
+          <div class="prediction-detail">
+            <div class="prediction-detail-label">Product</div>
+            <div class="prediction-detail-value" id="pred-product">Jeans</div>
+          </div>
+          <div class="prediction-detail">
+            <div class="prediction-detail-label">Category</div>
+            <div class="prediction-detail-value" id="pred-category">Female Fashion</div>
+          </div>
+          <div class="prediction-detail">
+            <div class="prediction-detail-label">Price Range</div>
+            <div class="prediction-detail-value" id="pred-price">Up to $150</div>
+          </div>
+        </div>
+
+        <button class="btn-predict" id="btn-predict" onclick="runPrediction()">
+          <span class="btn-text">✦ Predict Trend</span>
+          <span class="spinner"></span>
+        </button>
+      </div>
+
+      <!-- ===== RESULTS ===== -->
+      <div class="results-panel" id="results-panel">
+        <div class="results-header">
+          <h3>✦ Prediction Results</h3>
+          <p>AI-powered fashion intelligence insights</p>
+        </div>
+
+        <div class="results-grid">
+          <!-- Trend Confidence -->
+          <div class="result-card">
+            <div class="result-card-header">
+              <h4>Trend Confidence</h4>
+              <div class="result-icon" style="background: rgba(255,143,172,0.12); color: var(--pink-500);">📊</div>
+            </div>
+            <div class="result-value" id="res-confidence">87<span class="unit">%</span></div>
+            <div class="progress-bar-container">
+              <div class="progress-bar">
+                <div class="progress-fill pink" id="prog-confidence" style="width: 87%;"></div>
+              </div>
+              <div class="progress-label">
+                <span>Low</span>
+                <span>High</span>
+              </div>
+            </div>
+            <div style="margin-top: 12px;">
+              <span class="trend-indicator trend-up" id="trend-direction">↑ Trending Up</span>
+            </div>
+          </div>
+
+          <!-- Popularity Forecast -->
+          <div class="result-card">
+            <div class="result-card-header">
+              <h4>Popularity Forecast</h4>
+              <div class="result-icon" style="background: rgba(106,154,86,0.12); color: var(--sage-500);">🔮</div>
+            </div>
+            <div class="result-value" id="res-popularity">Rising</div>
+            <div class="mini-chart" id="mini-chart">
+              <!-- Bars generated by JS -->
+            </div>
+          </div>
+
+          <!-- Demand Score -->
+          <div class="result-card">
+            <div class="result-card-header">
+              <h4>Demand Score</h4>
+              <div class="result-icon" style="background: rgba(255,179,198,0.15); color: var(--pink-400);">🛍️</div>
+            </div>
+            <div class="result-value" id="res-demand">92<span class="unit">/100</span></div>
+            <div class="progress-bar-container">
+              <div class="progress-bar">
+                <div class="progress-fill green" id="prog-demand" style="width: 92%;"></div>
+              </div>
+              <div class="progress-label">
+                <span>Low Demand</span>
+                <span>High Demand</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Recommended Audience -->
+          <div class="result-card">
+            <div class="result-card-header">
+              <h4>Recommended Audience</h4>
+              <div class="result-icon" style="background: rgba(168,237,234,0.2); color: #5bb5b0;">👤</div>
+            </div>
+            <div class="result-value" style="font-size: 22px;" id="res-audience-label">Gen Z &amp; Millennials</div>
+            <div class="audience-tags" id="audience-tags">
+              <span class="audience-tag">Ages 18-34</span>
+              <span class="audience-tag green">Streetwear Lovers</span>
+              <span class="audience-tag">Trend Setters</span>
+              <span class="audience-tag green">Social Media Active</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     FOOTER
+     ============================================ -->
+<footer class="footer" id="about">
+  <div class="container">
+    <div class="footer-grid">
+      <!-- Brand Column -->
+      <div class="footer-brand">
+        <div class="footer-logo">
+          <div class="footer-logo-icon">✿</div>
+          <h3>TrendSeer</h3>
+        </div>
+        <p>
+          An AI-powered fashion prediction platform developed as a university
+          project exploring the intersection of machine learning and style
+          intelligence.
+        </p>
+        <span class="footer-tagline">
+          <span class="sparkle-icon">✦</span>
+          Fashion meets intelligence
+          <span class="sparkle-icon">✦</span>
+        </span>
+      </div>
+
+      <!-- Project Links -->
+      <div class="footer-column">
+        <h4>Project</h4>
+        <ul>
+          <li><a href="#about">About Project</a></li>
+          <li><a href="#predictions">Methodology</a></li>
+          <li><a href="#">Data Sources</a></li>
+          <li><a href="#predictions">Predictions</a></li>
+          <li><a href="#categories">Categories</a></li>
+        </ul>
+      </div>
+
+      <!-- Team & University -->
+      <div class="footer-column">
+        <h4>Team &amp; University</h4>
+        <div class="footer-team-info">
+          <div class="team-block">
+            <h5>Research Team</h5>
+            <p>Fashion AI Lab · 2026</p>
+          </div>
+          <div class="team-block">
+            <h5>TEAM 6</h5>
+            <p>Department of Data Science</p>
+          </div>
+          <a href="#" class="footer-contact-link">Contact the Team →</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>© 2024 TrendSeer · Fashion AI Prediction Platform</p>
+      <div class="footer-bottom-right">
+        Built with <span class="sparkle-icon">✦</span> for academic excellence
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- ============================================
+     JAVASCRIPT – Interactions & Animations
+     ============================================ -->
+<script src="script.js"></script>
+
+</body>
+</html>
