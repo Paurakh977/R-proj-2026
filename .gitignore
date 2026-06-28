@@ -44,3 +44,7 @@ next-env.d.ts
 .Rhistory
 .RData
 .Ruserdata
+.RDataTmp
+.Rhistory
+.Ruserdata
+.Rproj.user/
