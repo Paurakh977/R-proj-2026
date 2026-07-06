@@ -1,0 +1,16 @@
+feature,importance
+brand_grouped,0.20545651
+individual_category,0.10447936
+source_market_IN,0.09429328
+gender_Men,0.06592457
+log_rating_count,0.0641487
+source_market_US,0.06265325
+kw_women,0.053746425
+kw_men,0.05209838
+gender_Women,0.050861627
+log_price,0.0477028
+kw_kids,0.047526266
+price_usd,0.04380641
+title_length,0.038741313
+title_word_count,0.035868503
+gender_Youth,0.03269265
