@@ -1,0 +1,17 @@
+[project]
+name = "r-proj-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.1",
+    "pandas>=3.0.3",
+    "scikit-learn>=1.9.0",
+    "matplotlib>=3.7",
+    "seaborn>=0.12",
+    "category_encoders>=2.6",
+    "xgboost>=1.7",
+    "lightgbm>=4.0",
+   " joblib>=1.3",
+]
