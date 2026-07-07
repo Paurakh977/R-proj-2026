@@ -1,0 +1,36 @@
+Document Theme Specification
+Page setup
+
+Size: US Letter — 12240 × 15840 DXA (8.5" × 11")
+Margins: Top/Bottom 1080 DXA (0.75"), Left/Right 1200 DXA (0.833")
+No cover page — content starts directly with heading "3. Data"
+
+Font
+
+Family: Calibri (entire document, including tables)
+Base body text: 10.5pt (size: 21 half-points)
+Table body text: 9.5pt (size: 19 half-points)
+Table header text: 9.5pt, bold, white
+Captions (table titles below each table): 9pt, italic, color #555555
+
+Colors
+ElementColorHeadings (H1/H2/H3)Navy #1F3864, boldTable header row fillNavy #1F3864Table header textWhite #FFFFFF, boldAlternating table row shadingLight grey-blue #F2F5FBTable bordersLight grey #B7BFCB, single line, 2ptCaption textGrey #555555
+Headings
+
+H1: e.g. "3. Data", "3.1 Dataset 1 — ..." — Navy, bold, larger size (section title ~16pt/32 half-pt; subsection headings use Word's built-in HEADING_1/2/3 styles)
+H3 used for sub-labels like column names (e.g. "gender", "price_usd")
+Spacing: 300 twips before / 150 after each heading
+
+Tables
+
+Header row: navy fill, white bold text, repeats on page break (tableHeader: true)
+Body rows: alternating white / #F2F5FB shading
+Column widths specified explicitly in DXA (not percentage — percentage breaks in Google Docs)
+Cell margins: ~55–60 twips top/bottom, 100 twips left/right
+Every caption formatted as: "Table X.Y — description." directly beneath its table, italic, grey, 9pt
+
+General formatting rules
+
+Paragraph text: 10.5pt, line spacing 276 (1.15x), 160 twips spacing after
+No literal bullet characters — use Word's native bullet numbering if lists are needed
+No "\n" line breaks — separate Paragraph elements only
