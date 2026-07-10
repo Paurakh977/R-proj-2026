@@ -32,13 +32,12 @@ interface PredictionStore {
 }
 
 const DEFAULT_FILTERS: PredictionFilters = {
-  product: "Jeans",
-  category: "Female Fashion",
-  priceRange: 150,
-  budgetCategory: "",
-  brand: "",
-  styleType: "",
-  season: "",
+  title: "Casual Cotton Top",
+  price: 29.99,
+  category: "tops",
+  gender: "Women",
+  market: "IN",
+  brand: "Alcis",
 };
 
 let globalFilters: PredictionFilters = { ...DEFAULT_FILTERS };
