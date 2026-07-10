@@ -1,0 +1,7217 @@
+{
+  "brands": [
+    {
+      "brand": "Roadster",
+      "count": 7589,
+      "avg_rating": 4.165726709711424,
+      "avg_rating_count": 187.5921728818026,
+      "trending_rate": 0.583476083805508
+    },
+    {
+      "brand": "HERE&NOW",
+      "count": 5054,
+      "avg_rating": 4.039750692520776,
+      "avg_rating_count": 107.54531064503364,
+      "trending_rate": 0.4261970716264345
+    },
+    {
+      "brand": "Mast & Harbour",
+      "count": 4137,
+      "avg_rating": 4.137055837563452,
+      "avg_rating_count": 134.0430263475949,
+      "trending_rate": 0.5520908871162679
+    },
+    {
+      "brand": "HRX by Hrithik Roshan",
+      "count": 3953,
+      "avg_rating": 4.174626865671642,
+      "avg_rating_count": 95.70857576524159,
+      "trending_rate": 0.5808246901087781
+    },
+    {
+      "brand": "DressBerry",
+      "count": 3871,
+      "avg_rating": 4.17641436321364,
+      "avg_rating_count": 92.73701885817619,
+      "trending_rate": 0.6176698527512271
+    },
+    {
+      "brand": "Puma",
+      "count": 2944,
+      "avg_rating": 4.278057065217391,
+      "avg_rating_count": 37.09205163043478,
+      "trending_rate": 0.7126358695652174
+    },
+    {
+      "brand": "Sangria",
+      "count": 2891,
+      "avg_rating": 4.064545140089934,
+      "avg_rating_count": 106.6118989968869,
+      "trending_rate": 0.4873746108612937
+    },
+    {
+      "brand": "URBANIC",
+      "count": 2460,
+      "avg_rating": 3.9746341463414634,
+      "avg_rating_count": 14.864227642276422,
+      "trending_rate": 0.42886178861788615
+    },
+    {
+      "brand": "Tokyo Talkies",
+      "count": 2222,
+      "avg_rating": 4.085598559855986,
+      "avg_rating_count": 128.58055805580557,
+      "trending_rate": 0.5031503150315032
+    },
+    {
+      "brand": "MANGO",
+      "count": 1980,
+      "avg_rating": 4.168989898989899,
+      "avg_rating_count": 29.727777777777778,
+      "trending_rate": 0.5893939393939394
+    },
+    {
+      "brand": "Anouk",
+      "count": 1924,
+      "avg_rating": 3.9923076923076923,
+      "avg_rating_count": 92.31392931392931,
+      "trending_rate": 0.3918918918918919
+    },
+    {
+      "brand": "Flying Machine",
+      "count": 1906,
+      "avg_rating": 4.086201469045121,
+      "avg_rating_count": 39.87670514165792,
+      "trending_rate": 0.4732423924449108
+    },
+    {
+      "brand": "HIGHLANDER",
+      "count": 1906,
+      "avg_rating": 3.9722980062959077,
+      "avg_rating_count": 170.10493179433368,
+      "trending_rate": 0.3126967471143757
+    },
+    {
+      "brand": "WROGN",
+      "count": 1608,
+      "avg_rating": 4.157835820895523,
+      "avg_rating_count": 177.351368159204,
+      "trending_rate": 0.5677860696517413
+    },
+    {
+      "brand": "Clovia",
+      "count": 1607,
+      "avg_rating": 4.02059738643435,
+      "avg_rating_count": 46.729309271935286,
+      "trending_rate": 0.4511512134411948
+    },
+    {
+      "brand": "max",
+      "count": 1590,
+      "avg_rating": 4.231383647798742,
+      "avg_rating_count": 26.245283018867923,
+      "trending_rate": 0.6679245283018868
+    },
+    {
+      "brand": "Sztori",
+      "count": 1580,
+      "avg_rating": 4.26379746835443,
+      "avg_rating_count": 61.24746835443038,
+      "trending_rate": 0.7170886075949368
+    },
+    {
+      "brand": "Jockey",
+      "count": 1568,
+      "avg_rating": 4.431568877551021,
+      "avg_rating_count": 104.93176020408163,
+      "trending_rate": 0.8871173469387755
+    },
+    {
+      "brand": "plusS",
+      "count": 1507,
+      "avg_rating": 4.158128732581288,
+      "avg_rating_count": 67.68480424684805,
+      "trending_rate": 0.5547445255474452
+    },
+    {
+      "brand": "Moda Rapido",
+      "count": 1487,
+      "avg_rating": 4.037121721587088,
+      "avg_rating_count": 79.02622730329523,
+      "trending_rate": 0.4108944182918628
+    },
+    {
+      "brand": "Pepe Jeans",
+      "count": 1399,
+      "avg_rating": 4.124517512508935,
+      "avg_rating_count": 35.99356683345247,
+      "trending_rate": 0.536097212294496
+    },
+    {
+      "brand": "H&M",
+      "count": 1396,
+      "avg_rating": 4.2988538681948425,
+      "avg_rating_count": 46.57593123209169,
+      "trending_rate": 0.7299426934097422
+    },
+    {
+      "brand": "Levis",
+      "count": 1378,
+      "avg_rating": 4.269738751814224,
+      "avg_rating_count": 90.14150943396227,
+      "trending_rate": 0.7452830188679245
+    },
+    {
+      "brand": "SASSAFRAS",
+      "count": 1344,
+      "avg_rating": 4.165029761904762,
+      "avg_rating_count": 124.54910714285714,
+      "trending_rate": 0.5825892857142857
+    },
+    {
+      "brand": "U.S. Polo Assn.",
+      "count": 1246,
+      "avg_rating": 4.313001605136437,
+      "avg_rating_count": 94.32423756019261,
+      "trending_rate": 0.7648475120385233
+    },
+    {
+      "brand": "Zivame",
+      "count": 1178,
+      "avg_rating": 4.2290322580645165,
+      "avg_rating_count": 76.94397283531409,
+      "trending_rate": 0.6570458404074703
+    },
+    {
+      "brand": "Vero Moda",
+      "count": 1163,
+      "avg_rating": 4.145571797076526,
+      "avg_rating_count": 25.59243336199484,
+      "trending_rate": 0.5631986242476354
+    },
+    {
+      "brand": "Marks & Spencer",
+      "count": 1107,
+      "avg_rating": 4.383559168925023,
+      "avg_rating_count": 32.9349593495935,
+      "trending_rate": 0.7913279132791328
+    },
+    {
+      "brand": "Vishudh",
+      "count": 1059,
+      "avg_rating": 4.057223796033995,
+      "avg_rating_count": 160.91312559017942,
+      "trending_rate": 0.44192634560906513
+    },
+    {
+      "brand": "SOJANYA",
+      "count": 1055,
+      "avg_rating": 3.976398104265403,
+      "avg_rating_count": 42.464454976303315,
+      "trending_rate": 0.381042654028436
+    },
+    {
+      "brand": "Jack & Jones",
+      "count": 1013,
+      "avg_rating": 4.183415597235933,
+      "avg_rating_count": 42.506416584402764,
+      "trending_rate": 0.6110562685093781
+    },
+    {
+      "brand": "Mitera",
+      "count": 994,
+      "avg_rating": 3.9559356136820925,
+      "avg_rating_count": 63.147887323943664,
+      "trending_rate": 0.3983903420523139
+    },
+    {
+      "brand": "Nike",
+      "count": 974,
+      "avg_rating": 4.295071868583162,
+      "avg_rating_count": 62.57905544147844,
+      "trending_rate": 0.6971252566735113
+    },
+    {
+      "brand": "Harvard",
+      "count": 972,
+      "avg_rating": 4.056584362139918,
+      "avg_rating_count": 102.07613168724279,
+      "trending_rate": 0.41872427983539096
+    },
+    {
+      "brand": "all about you",
+      "count": 954,
+      "avg_rating": 4.079454926624738,
+      "avg_rating_count": 58.18029350104822,
+      "trending_rate": 0.4863731656184486
+    },
+    {
+      "brand": "KALINI",
+      "count": 944,
+      "avg_rating": 3.7489406779661016,
+      "avg_rating_count": 48.097457627118644,
+      "trending_rate": 0.274364406779661
+    },
+    {
+      "brand": "Chemistry",
+      "count": 931,
+      "avg_rating": 4.182277121374866,
+      "avg_rating_count": 56.54135338345865,
+      "trending_rate": 0.5972073039742213
+    },
+    {
+      "brand": "Campus Sutra",
+      "count": 927,
+      "avg_rating": 3.932901833872708,
+      "avg_rating_count": 87.47788565264294,
+      "trending_rate": 0.3333333333333333
+    },
+    {
+      "brand": "SPYKAR",
+      "count": 921,
+      "avg_rating": 3.996199782844734,
+      "avg_rating_count": 27.45928338762215,
+      "trending_rate": 0.3930510314875136
+    },
+    {
+      "brand": "ETC",
+      "count": 842,
+      "avg_rating": 4.196912114014252,
+      "avg_rating_count": 80.37529691211401,
+      "trending_rate": 0.6282660332541568
+    },
+    {
+      "brand": "People",
+      "count": 840,
+      "avg_rating": 4.141666666666667,
+      "avg_rating_count": 16.15357142857143,
+      "trending_rate": 0.5428571428571428
+    },
+    {
+      "brand": "ether",
+      "count": 835,
+      "avg_rating": 4.126586826347305,
+      "avg_rating_count": 108.1125748502994,
+      "trending_rate": 0.5389221556886228
+    },
+    {
+      "brand": "Sweet Dreams",
+      "count": 825,
+      "avg_rating": 4.210424242424242,
+      "avg_rating_count": 11.927272727272728,
+      "trending_rate": 0.6242424242424243
+    },
+    {
+      "brand": "STREET 9",
+      "count": 809,
+      "avg_rating": 4.129666254635352,
+      "avg_rating_count": 67.91223733003709,
+      "trending_rate": 0.5525339925834364
+    },
+    {
+      "brand": "ONLY",
+      "count": 785,
+      "avg_rating": 4.208789808917198,
+      "avg_rating_count": 35.01273885350319,
+      "trending_rate": 0.6445859872611465
+    },
+    {
+      "brand": "Tommy Hilfiger",
+      "count": 779,
+      "avg_rating": 4.278305519897304,
+      "avg_rating_count": 14.087291399229782,
+      "trending_rate": 0.6765083440308087
+    },
+    {
+      "brand": "Amante",
+      "count": 715,
+      "avg_rating": 4.333426573426573,
+      "avg_rating_count": 77.55244755244755,
+      "trending_rate": 0.8013986013986014
+    },
+    {
+      "brand": "DEYANN",
+      "count": 715,
+      "avg_rating": 3.6995804195804194,
+      "avg_rating_count": 30.542657342657343,
+      "trending_rate": 0.23076923076923078
+    },
+    {
+      "brand": "VIMAL JONNEY",
+      "count": 714,
+      "avg_rating": 3.8606442577030813,
+      "avg_rating_count": 38.24929971988796,
+      "trending_rate": 0.31092436974789917
+    },
+    {
+      "brand": "Alcis",
+      "count": 710,
+      "avg_rating": 4.087042253521127,
+      "avg_rating_count": 16.659154929577465,
+      "trending_rate": 0.4971830985915493
+    }
+  ],
+  "other": {
+    "brand": "Other",
+    "avg_rating": 4.175,
+    "avg_rating_count": 127.2,
+    "trendingRate": 58.9
+  },
+  "brandMap": {
+    "Other": {
+      "avg_rating": 4.175,
+      "avg_rating_count": 127.2,
+      "trending_rate": 0.5891
+    },
+    "Roadster": {
+      "avg_rating": 4.166,
+      "avg_rating_count": 187.6,
+      "trending_rate": 0.5835
+    },
+    "HERE&NOW": {
+      "avg_rating": 4.04,
+      "avg_rating_count": 107.5,
+      "trending_rate": 0.4262
+    },
+    "Mast & Harbour": {
+      "avg_rating": 4.137,
+      "avg_rating_count": 134.0,
+      "trending_rate": 0.5521
+    },
+    "HRX by Hrithik Roshan": {
+      "avg_rating": 4.175,
+      "avg_rating_count": 95.7,
+      "trending_rate": 0.5808
+    },
+    "DressBerry": {
+      "avg_rating": 4.176,
+      "avg_rating_count": 92.7,
+      "trending_rate": 0.6177
+    },
+    "Puma": {
+      "avg_rating": 4.278,
+      "avg_rating_count": 37.1,
+      "trending_rate": 0.7126
+    },
+    "Sangria": {
+      "avg_rating": 4.065,
+      "avg_rating_count": 106.6,
+      "trending_rate": 0.4874
+    },
+    "URBANIC": {
+      "avg_rating": 3.975,
+      "avg_rating_count": 14.9,
+      "trending_rate": 0.4289
+    },
+    "Tokyo Talkies": {
+      "avg_rating": 4.086,
+      "avg_rating_count": 128.6,
+      "trending_rate": 0.5032
+    },
+    "MANGO": {
+      "avg_rating": 4.169,
+      "avg_rating_count": 29.7,
+      "trending_rate": 0.5894
+    },
+    "Anouk": {
+      "avg_rating": 3.992,
+      "avg_rating_count": 92.3,
+      "trending_rate": 0.3919
+    },
+    "Flying Machine": {
+      "avg_rating": 4.086,
+      "avg_rating_count": 39.9,
+      "trending_rate": 0.4732
+    },
+    "HIGHLANDER": {
+      "avg_rating": 3.972,
+      "avg_rating_count": 170.1,
+      "trending_rate": 0.3127
+    },
+    "WROGN": {
+      "avg_rating": 4.158,
+      "avg_rating_count": 177.4,
+      "trending_rate": 0.5678
+    },
+    "Clovia": {
+      "avg_rating": 4.021,
+      "avg_rating_count": 46.7,
+      "trending_rate": 0.4512
+    },
+    "max": {
+      "avg_rating": 4.231,
+      "avg_rating_count": 26.2,
+      "trending_rate": 0.6679
+    },
+    "Sztori": {
+      "avg_rating": 4.264,
+      "avg_rating_count": 61.2,
+      "trending_rate": 0.7171
+    },
+    "Jockey": {
+      "avg_rating": 4.432,
+      "avg_rating_count": 104.9,
+      "trending_rate": 0.8871
+    },
+    "plusS": {
+      "avg_rating": 4.158,
+      "avg_rating_count": 67.7,
+      "trending_rate": 0.5547
+    },
+    "Moda Rapido": {
+      "avg_rating": 4.037,
+      "avg_rating_count": 79.0,
+      "trending_rate": 0.4109
+    },
+    "Pepe Jeans": {
+      "avg_rating": 4.125,
+      "avg_rating_count": 36.0,
+      "trending_rate": 0.5361
+    },
+    "H&M": {
+      "avg_rating": 4.299,
+      "avg_rating_count": 46.6,
+      "trending_rate": 0.7299
+    },
+    "Levis": {
+      "avg_rating": 4.27,
+      "avg_rating_count": 90.1,
+      "trending_rate": 0.7453
+    },
+    "SASSAFRAS": {
+      "avg_rating": 4.165,
+      "avg_rating_count": 124.5,
+      "trending_rate": 0.5826
+    },
+    "U.S. Polo Assn.": {
+      "avg_rating": 4.313,
+      "avg_rating_count": 94.3,
+      "trending_rate": 0.7648
+    },
+    "Zivame": {
+      "avg_rating": 4.229,
+      "avg_rating_count": 76.9,
+      "trending_rate": 0.657
+    },
+    "Vero Moda": {
+      "avg_rating": 4.146,
+      "avg_rating_count": 25.6,
+      "trending_rate": 0.5632
+    },
+    "Marks & Spencer": {
+      "avg_rating": 4.384,
+      "avg_rating_count": 32.9,
+      "trending_rate": 0.7913
+    },
+    "Vishudh": {
+      "avg_rating": 4.057,
+      "avg_rating_count": 160.9,
+      "trending_rate": 0.4419
+    },
+    "SOJANYA": {
+      "avg_rating": 3.976,
+      "avg_rating_count": 42.5,
+      "trending_rate": 0.381
+    },
+    "Jack & Jones": {
+      "avg_rating": 4.183,
+      "avg_rating_count": 42.5,
+      "trending_rate": 0.6111
+    },
+    "Mitera": {
+      "avg_rating": 3.956,
+      "avg_rating_count": 63.1,
+      "trending_rate": 0.3984
+    },
+    "Nike": {
+      "avg_rating": 4.295,
+      "avg_rating_count": 62.6,
+      "trending_rate": 0.6971
+    },
+    "Harvard": {
+      "avg_rating": 4.057,
+      "avg_rating_count": 102.1,
+      "trending_rate": 0.4187
+    },
+    "all about you": {
+      "avg_rating": 4.079,
+      "avg_rating_count": 58.2,
+      "trending_rate": 0.4864
+    },
+    "KALINI": {
+      "avg_rating": 3.749,
+      "avg_rating_count": 48.1,
+      "trending_rate": 0.2744
+    },
+    "Chemistry": {
+      "avg_rating": 4.182,
+      "avg_rating_count": 56.5,
+      "trending_rate": 0.5972
+    },
+    "Campus Sutra": {
+      "avg_rating": 3.933,
+      "avg_rating_count": 87.5,
+      "trending_rate": 0.3333
+    },
+    "SPYKAR": {
+      "avg_rating": 3.996,
+      "avg_rating_count": 27.5,
+      "trending_rate": 0.3931
+    },
+    "ETC": {
+      "avg_rating": 4.197,
+      "avg_rating_count": 80.4,
+      "trending_rate": 0.6283
+    },
+    "People": {
+      "avg_rating": 4.142,
+      "avg_rating_count": 16.2,
+      "trending_rate": 0.5429
+    },
+    "ether": {
+      "avg_rating": 4.127,
+      "avg_rating_count": 108.1,
+      "trending_rate": 0.5389
+    },
+    "Sweet Dreams": {
+      "avg_rating": 4.21,
+      "avg_rating_count": 11.9,
+      "trending_rate": 0.6242
+    },
+    "STREET 9": {
+      "avg_rating": 4.13,
+      "avg_rating_count": 67.9,
+      "trending_rate": 0.5525
+    },
+    "ONLY": {
+      "avg_rating": 4.209,
+      "avg_rating_count": 35.0,
+      "trending_rate": 0.6446
+    },
+    "Tommy Hilfiger": {
+      "avg_rating": 4.278,
+      "avg_rating_count": 14.1,
+      "trending_rate": 0.6765
+    },
+    "Amante": {
+      "avg_rating": 4.333,
+      "avg_rating_count": 77.6,
+      "trending_rate": 0.8014
+    },
+    "DEYANN": {
+      "avg_rating": 3.7,
+      "avg_rating_count": 30.5,
+      "trending_rate": 0.2308
+    },
+    "VIMAL JONNEY": {
+      "avg_rating": 3.861,
+      "avg_rating_count": 38.2,
+      "trending_rate": 0.3109
+    },
+    "Alcis": {
+      "avg_rating": 4.087,
+      "avg_rating_count": 16.7,
+      "trending_rate": 0.4972
+    },
+    "Jompers": {
+      "avg_rating": 4.059,
+      "avg_rating_count": 42.2,
+      "trending_rate": 0.4353
+    },
+    "KASSUALLY": {
+      "avg_rating": 4.114,
+      "avg_rating_count": 73.5,
+      "trending_rate": 0.5205
+    },
+    "Blackberrys": {
+      "avg_rating": 4.22,
+      "avg_rating_count": 25.1,
+      "trending_rate": 0.6493
+    },
+    "Reebok": {
+      "avg_rating": 4.205,
+      "avg_rating_count": 24.0,
+      "trending_rate": 0.6314
+    },
+    "FOREVER 21": {
+      "avg_rating": 4.079,
+      "avg_rating_count": 12.5,
+      "trending_rate": 0.523
+    },
+    "Peter England Casuals": {
+      "avg_rating": 4.052,
+      "avg_rating_count": 18.1,
+      "trending_rate": 0.4805
+    },
+    "Enamor": {
+      "avg_rating": 4.344,
+      "avg_rating_count": 93.0,
+      "trending_rate": 0.8135
+    },
+    "Allen Solly": {
+      "avg_rating": 4.259,
+      "avg_rating_count": 27.9,
+      "trending_rate": 0.6845
+    },
+    "Indo Era": {
+      "avg_rating": 3.97,
+      "avg_rating_count": 46.8,
+      "trending_rate": 0.3935
+    },
+    "W": {
+      "avg_rating": 4.15,
+      "avg_rating_count": 85.9,
+      "trending_rate": 0.539
+    },
+    "SCORPIUS": {
+      "avg_rating": 3.711,
+      "avg_rating_count": 113.8,
+      "trending_rate": 0.1509
+    },
+    "Louis Philippe": {
+      "avg_rating": 4.252,
+      "avg_rating_count": 33.3,
+      "trending_rate": 0.7155
+    },
+    "Van Heusen": {
+      "avg_rating": 4.315,
+      "avg_rating_count": 42.3,
+      "trending_rate": 0.7526
+    },
+    "Varanga": {
+      "avg_rating": 3.867,
+      "avg_rating_count": 109.5,
+      "trending_rate": 0.2716
+    },
+    "The Indian Garage Co": {
+      "avg_rating": 3.94,
+      "avg_rating_count": 31.1,
+      "trending_rate": 0.3726
+    },
+    "Chkokko": {
+      "avg_rating": 4.038,
+      "avg_rating_count": 30.1,
+      "trending_rate": 0.4435
+    },
+    "Ajile by Pantaloons": {
+      "avg_rating": 4.233,
+      "avg_rating_count": 17.9,
+      "trending_rate": 0.6516
+    },
+    "ADIDAS": {
+      "avg_rating": 4.269,
+      "avg_rating_count": 45.6,
+      "trending_rate": 0.7246
+    },
+    "Peter England": {
+      "avg_rating": 4.235,
+      "avg_rating_count": 30.1,
+      "trending_rate": 0.6325
+    },
+    "Huetrap": {
+      "avg_rating": 4.034,
+      "avg_rating_count": 37.2,
+      "trending_rate": 0.4211
+    },
+    "U.S. Polo Assn. Denim Co.": {
+      "avg_rating": 4.142,
+      "avg_rating_count": 54.4,
+      "trending_rate": 0.5535
+    },
+    "Harpa": {
+      "avg_rating": 3.96,
+      "avg_rating_count": 56.9,
+      "trending_rate": 0.3793
+    },
+    "Berrylush": {
+      "avg_rating": 4.243,
+      "avg_rating_count": 111.9,
+      "trending_rate": 0.6927
+    },
+    "Kook N Keech": {
+      "avg_rating": 4.09,
+      "avg_rating_count": 99.9,
+      "trending_rate": 0.5046
+    },
+    "IMARA": {
+      "avg_rating": 3.887,
+      "avg_rating_count": 28.5,
+      "trending_rate": 0.3127
+    },
+    "Saree mall": {
+      "avg_rating": 3.953,
+      "avg_rating_count": 70.2,
+      "trending_rate": 0.3662
+    },
+    "Athena": {
+      "avg_rating": 3.84,
+      "avg_rating_count": 98.5,
+      "trending_rate": 0.3495
+    },
+    "Ode by House of Pataudi": {
+      "avg_rating": 4.022,
+      "avg_rating_count": 28.0,
+      "trending_rate": 0.4212
+    },
+    "Biba": {
+      "avg_rating": 4.144,
+      "avg_rating_count": 46.7,
+      "trending_rate": 0.5571
+    },
+    "INVICTUS": {
+      "avg_rating": 4.039,
+      "avg_rating_count": 135.9,
+      "trending_rate": 0.3788
+    },
+    "Jaipur Kurti": {
+      "avg_rating": 4.114,
+      "avg_rating_count": 94.4,
+      "trending_rate": 0.5377
+    },
+    "XYXX": {
+      "avg_rating": 4.204,
+      "avg_rating_count": 40.0,
+      "trending_rate": 0.6502
+    },
+    "Hangup": {
+      "avg_rating": 3.551,
+      "avg_rating_count": 37.9,
+      "trending_rate": 0.1593
+    },
+    "Miss Chase": {
+      "avg_rating": 4.041,
+      "avg_rating_count": 86.3,
+      "trending_rate": 0.4905
+    },
+    "Floret": {
+      "avg_rating": 4.1,
+      "avg_rating_count": 80.1,
+      "trending_rate": 0.5474
+    },
+    "House of Pataudi": {
+      "avg_rating": 4.132,
+      "avg_rating_count": 58.8,
+      "trending_rate": 0.5705
+    },
+    "Oxolloxo": {
+      "avg_rating": 3.851,
+      "avg_rating_count": 14.0,
+      "trending_rate": 0.3412
+    },
+    "United Colors of Benetton": {
+      "avg_rating": 4.247,
+      "avg_rating_count": 46.1,
+      "trending_rate": 0.6902
+    },
+    "Bewakoof": {
+      "avg_rating": 4.27,
+      "avg_rating_count": 48.1,
+      "trending_rate": 0.719
+    },
+    "Friskers": {
+      "avg_rating": 3.95,
+      "avg_rating_count": 25.1,
+      "trending_rate": 0.3961
+    },
+    "Mayra": {
+      "avg_rating": 3.662,
+      "avg_rating_count": 64.7,
+      "trending_rate": 0.1685
+    },
+    "Taavi": {
+      "avg_rating": 4.21,
+      "avg_rating_count": 77.9,
+      "trending_rate": 0.6219
+    },
+    "RARE RABBIT": {
+      "avg_rating": 4.167,
+      "avg_rating_count": 11.8,
+      "trending_rate": 0.5711
+    },
+    "Park Avenue": {
+      "avg_rating": 4.125,
+      "avg_rating_count": 17.1,
+      "trending_rate": 0.5597
+    },
+    "Dreamz by Pantaloons": {
+      "avg_rating": 4.421,
+      "avg_rating_count": 24.1,
+      "trending_rate": 0.8302
+    },
+    "Clora Creation": {
+      "avg_rating": 4.118,
+      "avg_rating_count": 29.8,
+      "trending_rate": 0.5308
+    },
+    "Louis Philippe Sport": {
+      "avg_rating": 4.247,
+      "avg_rating_count": 28.6,
+      "trending_rate": 0.6691
+    },
+    "Hubberholme": {
+      "avg_rating": 3.944,
+      "avg_rating_count": 105.9,
+      "trending_rate": 0.2675
+    },
+    "Libas": {
+      "avg_rating": 4.16,
+      "avg_rating_count": 66.1,
+      "trending_rate": 0.6126
+    },
+    "PrettyCat": {
+      "avg_rating": 3.859,
+      "avg_rating_count": 63.9,
+      "trending_rate": 0.2296
+    },
+    "High Star": {
+      "avg_rating": 4.105,
+      "avg_rating_count": 69.2,
+      "trending_rate": 0.5457
+    },
+    "TWIN BIRDS": {
+      "avg_rating": 4.379,
+      "avg_rating_count": 36.7,
+      "trending_rate": 0.8025
+    },
+    "Shae by SASSAFRAS": {
+      "avg_rating": 4.175,
+      "avg_rating_count": 66.3,
+      "trending_rate": 0.6219
+    },
+    "Belle Fille": {
+      "avg_rating": 3.358,
+      "avg_rating_count": 37.8,
+      "trending_rate": 0.1169
+    },
+    "Slazenger": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 40.7,
+      "trending_rate": 0.61
+    },
+    "Inddus": {
+      "avg_rating": 4.004,
+      "avg_rating_count": 99.9,
+      "trending_rate": 0.4525
+    },
+    "Louis Philippe Jeans": {
+      "avg_rating": 4.225,
+      "avg_rating_count": 49.9,
+      "trending_rate": 0.6742
+    },
+    "DAMENSCH": {
+      "avg_rating": 4.342,
+      "avg_rating_count": 63.6,
+      "trending_rate": 0.7955
+    },
+    "Dupatta Bazaar": {
+      "avg_rating": 4.177,
+      "avg_rating_count": 30.1,
+      "trending_rate": 0.6152
+    },
+    "DILLINGER": {
+      "avg_rating": 4.324,
+      "avg_rating_count": 69.8,
+      "trending_rate": 0.7577
+    },
+    "Dollar Bigboss": {
+      "avg_rating": 3.981,
+      "avg_rating_count": 52.2,
+      "trending_rate": 0.3939
+    },
+    "Hancock": {
+      "avg_rating": 4.041,
+      "avg_rating_count": 38.8,
+      "trending_rate": 0.4564
+    },
+    "Van Heusen Woman": {
+      "avg_rating": 4.249,
+      "avg_rating_count": 15.7,
+      "trending_rate": 0.6589
+    },
+    "VASTRANAND": {
+      "avg_rating": 4.048,
+      "avg_rating_count": 26.9,
+      "trending_rate": 0.4741
+    },
+    "KISAH": {
+      "avg_rating": 3.829,
+      "avg_rating_count": 20.5,
+      "trending_rate": 0.3203
+    },
+    "C9 AIRWEAR": {
+      "avg_rating": 4.145,
+      "avg_rating_count": 70.1,
+      "trending_rate": 0.6016
+    },
+    "JAINISH": {
+      "avg_rating": 3.82,
+      "avg_rating_count": 47.1,
+      "trending_rate": 0.2344
+    },
+    "AURELIA": {
+      "avg_rating": 4.101,
+      "avg_rating_count": 49.4,
+      "trending_rate": 0.5248
+    },
+    "Rosaline by Zivame": {
+      "avg_rating": 4.177,
+      "avg_rating_count": 36.4,
+      "trending_rate": 0.6204
+    },
+    "Ginger by Lifestyle": {
+      "avg_rating": 4.241,
+      "avg_rating_count": 20.1,
+      "trending_rate": 0.6605
+    },
+    "Triumph": {
+      "avg_rating": 4.342,
+      "avg_rating_count": 79.9,
+      "trending_rate": 0.8145
+    },
+    "Indian Terrain": {
+      "avg_rating": 4.235,
+      "avg_rating_count": 23.0,
+      "trending_rate": 0.621
+    },
+    "LOCOMOTIVE": {
+      "avg_rating": 3.942,
+      "avg_rating_count": 165.5,
+      "trending_rate": 0.2892
+    },
+    "FabAlley": {
+      "avg_rating": 4.115,
+      "avg_rating_count": 26.0,
+      "trending_rate": 0.5637
+    },
+    "N-Gal": {
+      "avg_rating": 3.94,
+      "avg_rating_count": 58.4,
+      "trending_rate": 0.2972
+    },
+    "TAG 7": {
+      "avg_rating": 4.02,
+      "avg_rating_count": 45.9,
+      "trending_rate": 0.4028
+    },
+    "Nautica": {
+      "avg_rating": 4.37,
+      "avg_rating_count": 39.2,
+      "trending_rate": 0.8195
+    },
+    "AND": {
+      "avg_rating": 4.287,
+      "avg_rating_count": 35.4,
+      "trending_rate": 0.7378
+    },
+    "THE BEAR HOUSE": {
+      "avg_rating": 4.117,
+      "avg_rating_count": 28.1,
+      "trending_rate": 0.5478
+    },
+    "FableStreet": {
+      "avg_rating": 4.159,
+      "avg_rating_count": 26.4,
+      "trending_rate": 0.5843
+    },
+    "Bodycare": {
+      "avg_rating": 3.931,
+      "avg_rating_count": 29.0,
+      "trending_rate": 0.393
+    },
+    "Arrow": {
+      "avg_rating": 4.254,
+      "avg_rating_count": 25.7,
+      "trending_rate": 0.65
+    },
+    "Honey by Pantaloons": {
+      "avg_rating": 4.246,
+      "avg_rating_count": 17.3,
+      "trending_rate": 0.6497
+    },
+    "Bhama Couture": {
+      "avg_rating": 3.865,
+      "avg_rating_count": 82.2,
+      "trending_rate": 0.247
+    },
+    "her by invictus": {
+      "avg_rating": 4.151,
+      "avg_rating_count": 122.4,
+      "trending_rate": 0.5688
+    },
+    "Janasya": {
+      "avg_rating": 4.032,
+      "avg_rating_count": 57.6,
+      "trending_rate": 0.4006
+    },
+    "VASTRAMAY": {
+      "avg_rating": 4.068,
+      "avg_rating_count": 25.4,
+      "trending_rate": 0.5
+    },
+    "bigbanana": {
+      "avg_rating": 4.177,
+      "avg_rating_count": 32.7,
+      "trending_rate": 0.6238
+    },
+    "MIMOSA": {
+      "avg_rating": 4.151,
+      "avg_rating_count": 24.7,
+      "trending_rate": 0.5597
+    },
+    "Allen Solly Woman": {
+      "avg_rating": 4.261,
+      "avg_rating_count": 17.1,
+      "trending_rate": 0.6835
+    },
+    "Unknown": {
+      "avg_rating": 4.086,
+      "avg_rating_count": 63.0,
+      "trending_rate": 0.539
+    },
+    "BYFORD by Pantaloons": {
+      "avg_rating": 4.199,
+      "avg_rating_count": 18.7,
+      "trending_rate": 0.6098
+    },
+    "RANGMANCH BY PANTALOONS": {
+      "avg_rating": 4.282,
+      "avg_rating_count": 33.1,
+      "trending_rate": 0.6656
+    },
+    "Mufti": {
+      "avg_rating": 4.036,
+      "avg_rating_count": 8.4,
+      "trending_rate": 0.4868
+    },
+    "DeFacto": {
+      "avg_rating": 3.863,
+      "avg_rating_count": 9.8,
+      "trending_rate": 0.3688
+    },
+    "Ishin": {
+      "avg_rating": 3.975,
+      "avg_rating_count": 117.4,
+      "trending_rate": 0.4
+    },
+    "Raymond": {
+      "avg_rating": 4.139,
+      "avg_rating_count": 28.8,
+      "trending_rate": 0.5379
+    },
+    "See Designs": {
+      "avg_rating": 3.986,
+      "avg_rating_count": 56.3,
+      "trending_rate": 0.4091
+    },
+    "Dollar Missy": {
+      "avg_rating": 4.339,
+      "avg_rating_count": 53.6,
+      "trending_rate": 0.8035
+    },
+    "RARE": {
+      "avg_rating": 4.068,
+      "avg_rating_count": 95.1,
+      "trending_rate": 0.4702
+    },
+    "Kanvin": {
+      "avg_rating": 4.263,
+      "avg_rating_count": 40.1,
+      "trending_rate": 0.6725
+    },
+    "Style Quotient": {
+      "avg_rating": 4.119,
+      "avg_rating_count": 47.6,
+      "trending_rate": 0.5527
+    },
+    "Aeropostale": {
+      "avg_rating": 4.159,
+      "avg_rating_count": 14.1,
+      "trending_rate": 0.6081
+    },
+    "Being Human": {
+      "avg_rating": 4.272,
+      "avg_rating_count": 20.0,
+      "trending_rate": 0.6926
+    },
+    "Da Intimo": {
+      "avg_rating": 3.749,
+      "avg_rating_count": 47.3,
+      "trending_rate": 0.2772
+    },
+    "Cayman": {
+      "avg_rating": 4.258,
+      "avg_rating_count": 10.1,
+      "trending_rate": 0.6704
+    },
+    "Hypernation": {
+      "avg_rating": 4.169,
+      "avg_rating_count": 40.2,
+      "trending_rate": 0.5618
+    },
+    "Kryptic": {
+      "avg_rating": 4.217,
+      "avg_rating_count": 37.6,
+      "trending_rate": 0.5977
+    },
+    "IVOC": {
+      "avg_rating": 4.001,
+      "avg_rating_count": 48.0,
+      "trending_rate": 0.4549
+    },
+    "KETCH": {
+      "avg_rating": 3.787,
+      "avg_rating_count": 51.4,
+      "trending_rate": 0.1932
+    },
+    "Kazo": {
+      "avg_rating": 4.056,
+      "avg_rating_count": 14.0,
+      "trending_rate": 0.4639
+    },
+    "Lady Lyka": {
+      "avg_rating": 3.913,
+      "avg_rating_count": 28.0,
+      "trending_rate": 0.3716
+    },
+    "WROGN ACTIVE": {
+      "avg_rating": 4.202,
+      "avg_rating_count": 48.7,
+      "trending_rate": 0.6486
+    },
+    "Revolution": {
+      "avg_rating": 4.232,
+      "avg_rating_count": 29.5,
+      "trending_rate": 0.6615
+    },
+    "U&F": {
+      "avg_rating": 3.918,
+      "avg_rating_count": 136.5,
+      "trending_rate": 0.2646
+    },
+    "Cottinfab": {
+      "avg_rating": 3.92,
+      "avg_rating_count": 59.0,
+      "trending_rate": 0.3569
+    },
+    "NEUDIS": {
+      "avg_rating": 3.972,
+      "avg_rating_count": 15.0,
+      "trending_rate": 0.4055
+    },
+    "DODO & MOA": {
+      "avg_rating": 3.08,
+      "avg_rating_count": 10.6,
+      "trending_rate": 0.1
+    },
+    "Globus": {
+      "avg_rating": 4.001,
+      "avg_rating_count": 14.9,
+      "trending_rate": 0.4096
+    },
+    "PUMA Motorsport": {
+      "avg_rating": 4.33,
+      "avg_rating_count": 45.1,
+      "trending_rate": 0.7773
+    },
+    "Duke": {
+      "avg_rating": 4.147,
+      "avg_rating_count": 13.8,
+      "trending_rate": 0.587
+    },
+    "Manyavar": {
+      "avg_rating": 4.133,
+      "avg_rating_count": 27.2,
+      "trending_rate": 0.5732
+    },
+    "Cation": {
+      "avg_rating": 3.791,
+      "avg_rating_count": 53.9,
+      "trending_rate": 0.2846
+    },
+    "Ahalyaa": {
+      "avg_rating": 3.848,
+      "avg_rating_count": 70.4,
+      "trending_rate": 0.2851
+    },
+    "Juniper": {
+      "avg_rating": 4.123,
+      "avg_rating_count": 77.3,
+      "trending_rate": 0.5314
+    },
+    "Cherokee": {
+      "avg_rating": 3.808,
+      "avg_rating_count": 10.8,
+      "trending_rate": 0.2941
+    },
+    "abof": {
+      "avg_rating": 3.985,
+      "avg_rating_count": 9.5,
+      "trending_rate": 0.4177
+    },
+    "Leading Lady": {
+      "avg_rating": 4.02,
+      "avg_rating_count": 54.6,
+      "trending_rate": 0.3686
+    },
+    "Calvin Klein Jeans": {
+      "avg_rating": 4.184,
+      "avg_rating_count": 14.2,
+      "trending_rate": 0.5787
+    },
+    "BEAT LONDON by PEPE JEANS": {
+      "avg_rating": 4.043,
+      "avg_rating_count": 14.4,
+      "trending_rate": 0.4213
+    },
+    "Zink London": {
+      "avg_rating": 4.179,
+      "avg_rating_count": 10.1,
+      "trending_rate": 0.5684
+    },
+    "YASH GALLERY": {
+      "avg_rating": 4.245,
+      "avg_rating_count": 87.5,
+      "trending_rate": 0.697
+    },
+    "MISH": {
+      "avg_rating": 4.029,
+      "avg_rating_count": 56.3,
+      "trending_rate": 0.4632
+    },
+    "Kalt": {
+      "avg_rating": 4.149,
+      "avg_rating_count": 28.1,
+      "trending_rate": 0.6123
+    },
+    "Force NXT": {
+      "avg_rating": 3.893,
+      "avg_rating_count": 28.6,
+      "trending_rate": 0.3198
+    },
+    "Arrow Sport": {
+      "avg_rating": 4.159,
+      "avg_rating_count": 17.1,
+      "trending_rate": 0.5766
+    },
+    "Soie": {
+      "avg_rating": 4.181,
+      "avg_rating_count": 38.0,
+      "trending_rate": 0.5973
+    },
+    "indus route by Pantaloons": {
+      "avg_rating": 4.264,
+      "avg_rating_count": 24.4,
+      "trending_rate": 0.7089
+    },
+    "Masha": {
+      "avg_rating": 4.189,
+      "avg_rating_count": 78.1,
+      "trending_rate": 0.5305
+    },
+    "7Threads": {
+      "avg_rating": 3.505,
+      "avg_rating_count": 16.4,
+      "trending_rate": 0.1429
+    },
+    "anayna": {
+      "avg_rating": 4.163,
+      "avg_rating_count": 95.2,
+      "trending_rate": 0.581
+    },
+    "Bushirt": {
+      "avg_rating": 4.106,
+      "avg_rating_count": 55.4,
+      "trending_rate": 0.5507
+    },
+    "Generic": {
+      "avg_rating": 3.848,
+      "avg_rating_count": 23.3,
+      "trending_rate": 0.4029
+    },
+    "EXTRA LOVE BY LIBAS": {
+      "avg_rating": 4.442,
+      "avg_rating_count": 79.7,
+      "trending_rate": 0.9272
+    },
+    "Yuris": {
+      "avg_rating": 4.133,
+      "avg_rating_count": 120.3,
+      "trending_rate": 0.568
+    },
+    "Okane": {
+      "avg_rating": 4.119,
+      "avg_rating_count": 17.2,
+      "trending_rate": 0.5561
+    },
+    "Global Desi": {
+      "avg_rating": 4.249,
+      "avg_rating_count": 29.7,
+      "trending_rate": 0.7143
+    },
+    "Claura": {
+      "avg_rating": 4.14,
+      "avg_rating_count": 107.4,
+      "trending_rate": 0.5198
+    },
+    "Candyskin": {
+      "avg_rating": 4.082,
+      "avg_rating_count": 25.4,
+      "trending_rate": 0.5025
+    },
+    "Myshka": {
+      "avg_rating": 3.634,
+      "avg_rating_count": 64.3,
+      "trending_rate": 0.1608
+    },
+    "Missguided": {
+      "avg_rating": 3.876,
+      "avg_rating_count": 8.3,
+      "trending_rate": 0.4359
+    },
+    "Divena": {
+      "avg_rating": 4.396,
+      "avg_rating_count": 43.4,
+      "trending_rate": 0.8154
+    },
+    "AMERICAN EAGLE OUTFITTERS": {
+      "avg_rating": 4.197,
+      "avg_rating_count": 10.3,
+      "trending_rate": 0.5641
+    },
+    "Slumber Jill": {
+      "avg_rating": 4.169,
+      "avg_rating_count": 69.3,
+      "trending_rate": 0.5949
+    },
+    "Suta": {
+      "avg_rating": 4.171,
+      "avg_rating_count": 18.4,
+      "trending_rate": 0.5928
+    },
+    "Kappa": {
+      "avg_rating": 4.195,
+      "avg_rating_count": 33.5,
+      "trending_rate": 0.6062
+    },
+    "Zeyo": {
+      "avg_rating": 4.377,
+      "avg_rating_count": 42.8,
+      "trending_rate": 0.8238
+    },
+    "Van Heusen Sport": {
+      "avg_rating": 4.193,
+      "avg_rating_count": 14.7,
+      "trending_rate": 0.5812
+    },
+    "Sugr": {
+      "avg_rating": 3.99,
+      "avg_rating_count": 11.3,
+      "trending_rate": 0.4136
+    },
+    "Nayo": {
+      "avg_rating": 4.049,
+      "avg_rating_count": 96.2,
+      "trending_rate": 0.4815
+    },
+    "AHIKA": {
+      "avg_rating": 3.963,
+      "avg_rating_count": 69.3,
+      "trending_rate": 0.3459
+    },
+    "Red Tape": {
+      "avg_rating": 4.242,
+      "avg_rating_count": 25.4,
+      "trending_rate": 0.6595
+    },
+    "The Souled Store": {
+      "avg_rating": 4.368,
+      "avg_rating_count": 20.5,
+      "trending_rate": 0.7892
+    },
+    "Sera": {
+      "avg_rating": 3.788,
+      "avg_rating_count": 78.9,
+      "trending_rate": 0.25
+    },
+    "Innocence": {
+      "avg_rating": 3.965,
+      "avg_rating_count": 42.3,
+      "trending_rate": 0.2989
+    },
+    "Prakrti": {
+      "avg_rating": 3.924,
+      "avg_rating_count": 27.2,
+      "trending_rate": 0.3279
+    },
+    "Go Colors": {
+      "avg_rating": 4.371,
+      "avg_rating_count": 75.1,
+      "trending_rate": 0.7901
+    },
+    "Calvin Klein Underwear": {
+      "avg_rating": 4.542,
+      "avg_rating_count": 34.1,
+      "trending_rate": 0.9167
+    },
+    "Lebami": {
+      "avg_rating": 3.775,
+      "avg_rating_count": 63.9,
+      "trending_rate": 0.2905
+    },
+    "Kook N Keech Marvel": {
+      "avg_rating": 4.156,
+      "avg_rating_count": 122.0,
+      "trending_rate": 0.5876
+    },
+    "De Moza": {
+      "avg_rating": 4.233,
+      "avg_rating_count": 18.7,
+      "trending_rate": 0.6667
+    },
+    "Lee": {
+      "avg_rating": 4.029,
+      "avg_rating_count": 19.6,
+      "trending_rate": 0.4576
+    },
+    "UnderJeans by Spykar": {
+      "avg_rating": 4.262,
+      "avg_rating_count": 17.1,
+      "trending_rate": 0.7143
+    },
+    "Pierced Owl": {
+      "avg_rating": 3.942,
+      "avg_rating_count": 65.2,
+      "trending_rate": 0.2743
+    },
+    "Proline Active": {
+      "avg_rating": 4.175,
+      "avg_rating_count": 35.9,
+      "trending_rate": 0.5371
+    },
+    "Fruit of the loom": {
+      "avg_rating": 3.918,
+      "avg_rating_count": 9.5,
+      "trending_rate": 0.4598
+    },
+    "MABISH by Sonal Jain": {
+      "avg_rating": 4.014,
+      "avg_rating_count": 48.6,
+      "trending_rate": 0.4828
+    },
+    "Maniac": {
+      "avg_rating": 3.933,
+      "avg_rating_count": 170.4,
+      "trending_rate": 0.2299
+    },
+    "Rigo": {
+      "avg_rating": 3.888,
+      "avg_rating_count": 103.6,
+      "trending_rate": 0.2907
+    },
+    "Inner Sense": {
+      "avg_rating": 4.113,
+      "avg_rating_count": 28.1,
+      "trending_rate": 0.5174
+    },
+    "20Dresses": {
+      "avg_rating": 4.36,
+      "avg_rating_count": 59.5,
+      "trending_rate": 0.8081
+    },
+    "CODE by Lifestyle": {
+      "avg_rating": 4.268,
+      "avg_rating_count": 18.0,
+      "trending_rate": 0.7193
+    },
+    "Disney": {
+      "avg_rating": 4.404,
+      "avg_rating_count": 82.9,
+      "trending_rate": 0.7941
+    },
+    "GRACIT": {
+      "avg_rating": 3.985,
+      "avg_rating_count": 15.3,
+      "trending_rate": 0.4497
+    },
+    "appulse": {
+      "avg_rating": 4.242,
+      "avg_rating_count": 24.3,
+      "trending_rate": 0.6488
+    },
+    "Antheaa": {
+      "avg_rating": 4.153,
+      "avg_rating_count": 94.4,
+      "trending_rate": 0.6287
+    },
+    "Free Authority": {
+      "avg_rating": 4.025,
+      "avg_rating_count": 13.8,
+      "trending_rate": 0.5241
+    },
+    "StyleStone": {
+      "avg_rating": 4.022,
+      "avg_rating_count": 66.4,
+      "trending_rate": 0.503
+    },
+    "DENNISON": {
+      "avg_rating": 3.896,
+      "avg_rating_count": 77.2,
+      "trending_rate": 0.2667
+    },
+    "JUMP USA": {
+      "avg_rating": 4.0,
+      "avg_rating_count": 23.9,
+      "trending_rate": 0.4329
+    },
+    "The Dry State": {
+      "avg_rating": 4.062,
+      "avg_rating_count": 44.5,
+      "trending_rate": 0.4817
+    },
+    "Celio": {
+      "avg_rating": 4.099,
+      "avg_rating_count": 12.5,
+      "trending_rate": 0.5488
+    },
+    "Breakbounce": {
+      "avg_rating": 4.178,
+      "avg_rating_count": 29.2,
+      "trending_rate": 0.5714
+    },
+    "Difference of Opinion": {
+      "avg_rating": 4.263,
+      "avg_rating_count": 22.6,
+      "trending_rate": 0.6646
+    },
+    "one8 x PUMA": {
+      "avg_rating": 4.317,
+      "avg_rating_count": 57.4,
+      "trending_rate": 0.764
+    },
+    "Urbano Fashion": {
+      "avg_rating": 3.82,
+      "avg_rating_count": 70.5,
+      "trending_rate": 0.1709
+    },
+    "Rute": {
+      "avg_rating": 3.865,
+      "avg_rating_count": 28.7,
+      "trending_rate": 0.3418
+    },
+    "INDYA": {
+      "avg_rating": 4.132,
+      "avg_rating_count": 29.6,
+      "trending_rate": 0.6076
+    },
+    "mod & shy": {
+      "avg_rating": 3.932,
+      "avg_rating_count": 34.8,
+      "trending_rate": 0.293
+    },
+    "GOLDSTROMS": {
+      "avg_rating": 4.071,
+      "avg_rating_count": 11.6,
+      "trending_rate": 0.5192
+    },
+    "Urban Dog": {
+      "avg_rating": 3.692,
+      "avg_rating_count": 58.6,
+      "trending_rate": 0.1097
+    },
+    "Anubhutee": {
+      "avg_rating": 3.938,
+      "avg_rating_count": 207.8,
+      "trending_rate": 0.2774
+    },
+    "QUARANTINE": {
+      "avg_rating": 4.252,
+      "avg_rating_count": 18.5,
+      "trending_rate": 0.6405
+    },
+    "Wrangler": {
+      "avg_rating": 4.058,
+      "avg_rating_count": 23.7,
+      "trending_rate": 0.4771
+    },
+    "Allen Solly Sport": {
+      "avg_rating": 4.141,
+      "avg_rating_count": 63.5,
+      "trending_rate": 0.5395
+    },
+    "URBAN SCOTTISH": {
+      "avg_rating": 4.24,
+      "avg_rating_count": 119.9,
+      "trending_rate": 0.7285
+    },
+    "Fabindia": {
+      "avg_rating": 4.327,
+      "avg_rating_count": 9.8,
+      "trending_rate": 0.7219
+    },
+    "Marie Claire": {
+      "avg_rating": 4.076,
+      "avg_rating_count": 44.2,
+      "trending_rate": 0.52
+    },
+    "French Connection": {
+      "avg_rating": 4.218,
+      "avg_rating_count": 11.7,
+      "trending_rate": 0.6
+    },
+    "Shaily": {
+      "avg_rating": 4.005,
+      "avg_rating_count": 47.2,
+      "trending_rate": 0.4189
+    },
+    "Trend Arrest": {
+      "avg_rating": 4.159,
+      "avg_rating_count": 33.6,
+      "trending_rate": 0.5946
+    },
+    "Gem Stone King": {
+      "avg_rating": 4.225,
+      "avg_rating_count": 46.3,
+      "trending_rate": 0.637
+    },
+    "Vbuyz": {
+      "avg_rating": 4.067,
+      "avg_rating_count": 27.9,
+      "trending_rate": 0.4658
+    },
+    "Aawari": {
+      "avg_rating": 3.933,
+      "avg_rating_count": 16.9,
+      "trending_rate": 0.3493
+    },
+    "SALWAR STUDIO": {
+      "avg_rating": 4.016,
+      "avg_rating_count": 35.8,
+      "trending_rate": 0.4726
+    },
+    "Veni Vidi Vici": {
+      "avg_rating": 4.123,
+      "avg_rating_count": 95.3,
+      "trending_rate": 0.5724
+    },
+    "VIMAL": {
+      "avg_rating": 3.954,
+      "avg_rating_count": 193.4,
+      "trending_rate": 0.2207
+    },
+    "Secret Wish": {
+      "avg_rating": 3.978,
+      "avg_rating_count": 39.8,
+      "trending_rate": 0.3724
+    },
+    "ADIDAS Originals": {
+      "avg_rating": 4.301,
+      "avg_rating_count": 17.7,
+      "trending_rate": 0.7413
+    },
+    "Benstoke": {
+      "avg_rating": 3.487,
+      "avg_rating_count": 30.0,
+      "trending_rate": 0.1329
+    },
+    "Madame": {
+      "avg_rating": 4.116,
+      "avg_rating_count": 10.7,
+      "trending_rate": 0.5563
+    },
+    "ZOLA": {
+      "avg_rating": 4.208,
+      "avg_rating_count": 15.7,
+      "trending_rate": 0.5957
+    },
+    "Bitterlime": {
+      "avg_rating": 4.009,
+      "avg_rating_count": 68.5,
+      "trending_rate": 0.3546
+    },
+    "Bioworld": {
+      "avg_rating": 4.544,
+      "avg_rating_count": 63.0,
+      "trending_rate": 0.9214
+    },
+    "SINGLE": {
+      "avg_rating": 3.981,
+      "avg_rating_count": 22.2,
+      "trending_rate": 0.35
+    },
+    "Tikhi Imli": {
+      "avg_rating": 3.991,
+      "avg_rating_count": 110.0,
+      "trending_rate": 0.3741
+    },
+    "DOLCE CRUDO": {
+      "avg_rating": 4.009,
+      "avg_rating_count": 101.4,
+      "trending_rate": 0.4748
+    },
+    "Kook N Keech Disney": {
+      "avg_rating": 4.27,
+      "avg_rating_count": 117.7,
+      "trending_rate": 0.6835
+    },
+    "AKKRITI BY PANTALOONS": {
+      "avg_rating": 4.228,
+      "avg_rating_count": 25.8,
+      "trending_rate": 0.6788
+    },
+    "SECRETS BY ZEROKAATA": {
+      "avg_rating": 4.09,
+      "avg_rating_count": 24.9,
+      "trending_rate": 0.3796
+    },
+    "Cultsport": {
+      "avg_rating": 4.392,
+      "avg_rating_count": 35.9,
+      "trending_rate": 0.7883
+    },
+    "SOUNDARYA": {
+      "avg_rating": 4.035,
+      "avg_rating_count": 14.3,
+      "trending_rate": 0.4706
+    },
+    "t-base": {
+      "avg_rating": 4.307,
+      "avg_rating_count": 10.9,
+      "trending_rate": 0.6691
+    },
+    "Wildcraft": {
+      "avg_rating": 4.26,
+      "avg_rating_count": 20.5,
+      "trending_rate": 0.6765
+    },
+    "KLOTTHE": {
+      "avg_rating": 3.797,
+      "avg_rating_count": 6.8,
+      "trending_rate": 0.363
+    },
+    "La Zoire": {
+      "avg_rating": 4.077,
+      "avg_rating_count": 96.7,
+      "trending_rate": 0.4963
+    },
+    "Monte Carlo": {
+      "avg_rating": 4.365,
+      "avg_rating_count": 17.9,
+      "trending_rate": 0.7761
+    },
+    "Dynamocks": {
+      "avg_rating": 4.369,
+      "avg_rating_count": 24.3,
+      "trending_rate": 0.7836
+    },
+    "Carlton London": {
+      "avg_rating": 4.106,
+      "avg_rating_count": 46.2,
+      "trending_rate": 0.5489
+    },
+    "Mr Bowerbird": {
+      "avg_rating": 4.186,
+      "avg_rating_count": 66.1,
+      "trending_rate": 0.594
+    },
+    "Rajnandini": {
+      "avg_rating": 4.035,
+      "avg_rating_count": 42.8,
+      "trending_rate": 0.4015
+    },
+    "OFF LIMITS": {
+      "avg_rating": 4.021,
+      "avg_rating_count": 17.5,
+      "trending_rate": 0.458
+    },
+    "Rangriti": {
+      "avg_rating": 4.198,
+      "avg_rating_count": 11.3,
+      "trending_rate": 0.5846
+    },
+    "zebu": {
+      "avg_rating": 4.165,
+      "avg_rating_count": 53.4,
+      "trending_rate": 0.5846
+    },
+    "ABELINO": {
+      "avg_rating": 3.811,
+      "avg_rating_count": 81.7,
+      "trending_rate": 0.2093
+    },
+    "I like me": {
+      "avg_rating": 4.468,
+      "avg_rating_count": 85.2,
+      "trending_rate": 0.9766
+    },
+    "MANQ": {
+      "avg_rating": 4.155,
+      "avg_rating_count": 29.2,
+      "trending_rate": 0.6016
+    },
+    "InWeave": {
+      "avg_rating": 3.946,
+      "avg_rating_count": 34.2,
+      "trending_rate": 0.3858
+    },
+    "Indietoga": {
+      "avg_rating": 4.117,
+      "avg_rating_count": 37.9,
+      "trending_rate": 0.5079
+    },
+    "Balenzia": {
+      "avg_rating": 4.238,
+      "avg_rating_count": 36.8,
+      "trending_rate": 0.754
+    },
+    "SAPPER": {
+      "avg_rating": 4.021,
+      "avg_rating_count": 20.9,
+      "trending_rate": 0.4048
+    },
+    "Just Wow": {
+      "avg_rating": 3.864,
+      "avg_rating_count": 47.4,
+      "trending_rate": 0.381
+    },
+    "John Pride": {
+      "avg_rating": 4.288,
+      "avg_rating_count": 23.0,
+      "trending_rate": 0.6694
+    },
+    "PERFKT-U": {
+      "avg_rating": 4.009,
+      "avg_rating_count": 46.2,
+      "trending_rate": 0.3802
+    },
+    "one8 by Virat Kohli": {
+      "avg_rating": 4.165,
+      "avg_rating_count": 137.5,
+      "trending_rate": 0.6417
+    },
+    "The Vanca": {
+      "avg_rating": 3.896,
+      "avg_rating_count": 41.4,
+      "trending_rate": 0.3583
+    },
+    "Dollar": {
+      "avg_rating": 4.09,
+      "avg_rating_count": 45.5,
+      "trending_rate": 0.4874
+    },
+    "Hanes": {
+      "avg_rating": 4.038,
+      "avg_rating_count": 24.0,
+      "trending_rate": 0.5085
+    },
+    "EROTISSCH": {
+      "avg_rating": 3.966,
+      "avg_rating_count": 17.6,
+      "trending_rate": 0.5043
+    },
+    "Ruggers": {
+      "avg_rating": 3.918,
+      "avg_rating_count": 20.4,
+      "trending_rate": 0.3846
+    },
+    "Readiprint Fashions": {
+      "avg_rating": 4.022,
+      "avg_rating_count": 16.4,
+      "trending_rate": 0.5431
+    },
+    "Bannos Swagger": {
+      "avg_rating": 3.883,
+      "avg_rating_count": 16.1,
+      "trending_rate": 0.3448
+    },
+    "Fort Collins": {
+      "avg_rating": 4.213,
+      "avg_rating_count": 36.9,
+      "trending_rate": 0.6207
+    },
+    "FashionRack": {
+      "avg_rating": 4.018,
+      "avg_rating_count": 55.7,
+      "trending_rate": 0.4174
+    },
+    "GERUA": {
+      "avg_rating": 4.156,
+      "avg_rating_count": 77.9,
+      "trending_rate": 0.5913
+    },
+    "Klamotten": {
+      "avg_rating": 3.926,
+      "avg_rating_count": 51.3,
+      "trending_rate": 0.3652
+    },
+    "The Kaftan Company": {
+      "avg_rating": 4.081,
+      "avg_rating_count": 10.6,
+      "trending_rate": 0.5478
+    },
+    "MBE": {
+      "avg_rating": 3.922,
+      "avg_rating_count": 55.6,
+      "trending_rate": 0.3158
+    },
+    "Kraus Jeans": {
+      "avg_rating": 4.293,
+      "avg_rating_count": 15.2,
+      "trending_rate": 0.7105
+    },
+    "La Regis Jewelry": {
+      "avg_rating": 4.27,
+      "avg_rating_count": 12.9,
+      "trending_rate": 0.5877
+    },
+    "Melange by Lifestyle": {
+      "avg_rating": 4.245,
+      "avg_rating_count": 28.2,
+      "trending_rate": 0.6754
+    },
+    "Latin Quarters": {
+      "avg_rating": 4.297,
+      "avg_rating_count": 9.2,
+      "trending_rate": 0.6372
+    },
+    "Fame Forever by Lifestyle": {
+      "avg_rating": 4.14,
+      "avg_rating_count": 13.1,
+      "trending_rate": 0.6195
+    },
+    "Sanwara": {
+      "avg_rating": 3.986,
+      "avg_rating_count": 12.3,
+      "trending_rate": 0.3929
+    },
+    "Tulsattva": {
+      "avg_rating": 3.886,
+      "avg_rating_count": 36.1,
+      "trending_rate": 0.2857
+    },
+    "Ethnic basket": {
+      "avg_rating": 3.602,
+      "avg_rating_count": 21.3,
+      "trending_rate": 0.1622
+    },
+    "Trendyol": {
+      "avg_rating": 3.596,
+      "avg_rating_count": 7.7,
+      "trending_rate": 0.2973
+    },
+    "Yuuki": {
+      "avg_rating": 3.988,
+      "avg_rating_count": 26.3,
+      "trending_rate": 0.3514
+    },
+    "Boston Club": {
+      "avg_rating": 3.903,
+      "avg_rating_count": 41.3,
+      "trending_rate": 0.3694
+    },
+    "Mode by Red Tape": {
+      "avg_rating": 4.203,
+      "avg_rating_count": 24.8,
+      "trending_rate": 0.6455
+    },
+    "Ducati": {
+      "avg_rating": 4.332,
+      "avg_rating_count": 22.6,
+      "trending_rate": 0.7818
+    },
+    "Quechua By Decathlon": {
+      "avg_rating": 4.236,
+      "avg_rating_count": 120.8,
+      "trending_rate": 0.7339
+    },
+    "Annabelle by Pantaloons": {
+      "avg_rating": 4.211,
+      "avg_rating_count": 14.9,
+      "trending_rate": 0.6019
+    },
+    "even": {
+      "avg_rating": 3.876,
+      "avg_rating_count": 24.1,
+      "trending_rate": 0.287
+    },
+    "WEAVERS VILLA": {
+      "avg_rating": 4.287,
+      "avg_rating_count": 20.3,
+      "trending_rate": 0.7196
+    },
+    "AARA": {
+      "avg_rating": 3.68,
+      "avg_rating_count": 15.8,
+      "trending_rate": 0.3019
+    },
+    "ANVI Be Yourself": {
+      "avg_rating": 3.963,
+      "avg_rating_count": 39.2,
+      "trending_rate": 0.3302
+    },
+    "Blueshaw": {
+      "avg_rating": 3.913,
+      "avg_rating_count": 31.5,
+      "trending_rate": 0.3019
+    },
+    "Domyos By Decathlon": {
+      "avg_rating": 4.294,
+      "avg_rating_count": 162.2,
+      "trending_rate": 0.717
+    },
+    "Purple State": {
+      "avg_rating": 3.912,
+      "avg_rating_count": 30.1,
+      "trending_rate": 0.3868
+    },
+    "M&H Our Water": {
+      "avg_rating": 4.181,
+      "avg_rating_count": 35.9,
+      "trending_rate": 0.6
+    },
+    "Sonari": {
+      "avg_rating": 4.036,
+      "avg_rating_count": 13.3,
+      "trending_rate": 0.4
+    },
+    "Club York": {
+      "avg_rating": 4.001,
+      "avg_rating_count": 26.2,
+      "trending_rate": 0.4095
+    },
+    "Zelocity by Zivame": {
+      "avg_rating": 4.104,
+      "avg_rating_count": 31.9,
+      "trending_rate": 0.5524
+    },
+    "WoowZerz": {
+      "avg_rating": 4.081,
+      "avg_rating_count": 39.6,
+      "trending_rate": 0.5962
+    },
+    "QUANCIOUS": {
+      "avg_rating": 4.045,
+      "avg_rating_count": 8.1,
+      "trending_rate": 0.4951
+    },
+    "Softrose": {
+      "avg_rating": 4.005,
+      "avg_rating_count": 88.5,
+      "trending_rate": 0.4175
+    },
+    "Besiva": {
+      "avg_rating": 3.863,
+      "avg_rating_count": 50.3,
+      "trending_rate": 0.3861
+    },
+    "Bossini": {
+      "avg_rating": 4.208,
+      "avg_rating_count": 13.4,
+      "trending_rate": 0.6139
+    },
+    "HOUSE OF KKARMA": {
+      "avg_rating": 4.092,
+      "avg_rating_count": 31.4,
+      "trending_rate": 0.4455
+    },
+    "Laceandme": {
+      "avg_rating": 3.848,
+      "avg_rating_count": 58.3,
+      "trending_rate": 0.2475
+    },
+    "Ed Hardy": {
+      "avg_rating": 4.109,
+      "avg_rating_count": 16.4,
+      "trending_rate": 0.58
+    },
+    "ZIYAA": {
+      "avg_rating": 3.702,
+      "avg_rating_count": 128.2,
+      "trending_rate": 0.15
+    },
+    "PURVAJA": {
+      "avg_rating": 3.957,
+      "avg_rating_count": 33.9,
+      "trending_rate": 0.3838
+    },
+    "Bitz": {
+      "avg_rating": 4.092,
+      "avg_rating_count": 27.5,
+      "trending_rate": 0.5455
+    },
+    "XIN": {
+      "avg_rating": 4.146,
+      "avg_rating_count": 14.2,
+      "trending_rate": 0.5714
+    },
+    "Kvsfab": {
+      "avg_rating": 3.974,
+      "avg_rating_count": 64.2,
+      "trending_rate": 0.4286
+    },
+    "COVER STORY": {
+      "avg_rating": 4.156,
+      "avg_rating_count": 12.6,
+      "trending_rate": 0.551
+    },
+    "Popnetic": {
+      "avg_rating": 3.874,
+      "avg_rating_count": 92.4,
+      "trending_rate": 0.2449
+    },
+    "Zastraa": {
+      "avg_rating": 4.02,
+      "avg_rating_count": 101.4,
+      "trending_rate": 0.4948
+    },
+    "GRAPHICS & MORE": {
+      "avg_rating": 4.153,
+      "avg_rating_count": 16.2,
+      "trending_rate": 0.5208
+    },
+    "Joven": {
+      "avg_rating": 3.95,
+      "avg_rating_count": 28.5,
+      "trending_rate": 0.3125
+    },
+    "Coucou by Zivame": {
+      "avg_rating": 4.172,
+      "avg_rating_count": 24.7,
+      "trending_rate": 0.5833
+    },
+    "Chhabra 555": {
+      "avg_rating": 3.488,
+      "avg_rating_count": 14.3,
+      "trending_rate": 0.2604
+    },
+    "PAUSE SPORT": {
+      "avg_rating": 3.594,
+      "avg_rating_count": 22.8,
+      "trending_rate": 0.1979
+    },
+    "PETER ENGLAND UNIVERSITY": {
+      "avg_rating": 4.036,
+      "avg_rating_count": 14.8,
+      "trending_rate": 0.4479
+    },
+    "PANIT": {
+      "avg_rating": 3.993,
+      "avg_rating_count": 59.5,
+      "trending_rate": 0.3895
+    },
+    "Smarty Pants": {
+      "avg_rating": 4.063,
+      "avg_rating_count": 68.4,
+      "trending_rate": 0.4894
+    },
+    "GANT": {
+      "avg_rating": 4.121,
+      "avg_rating_count": 8.9,
+      "trending_rate": 0.5638
+    },
+    "GRITSTONES": {
+      "avg_rating": 3.835,
+      "avg_rating_count": 43.7,
+      "trending_rate": 0.2021
+    },
+    "Parx": {
+      "avg_rating": 4.224,
+      "avg_rating_count": 10.5,
+      "trending_rate": 0.6702
+    },
+    "Crimsoune Club": {
+      "avg_rating": 4.173,
+      "avg_rating_count": 9.6,
+      "trending_rate": 0.6596
+    },
+    "AV2": {
+      "avg_rating": 4.316,
+      "avg_rating_count": 12.6,
+      "trending_rate": 0.6702
+    },
+    "Urban Ranger by pantaloons": {
+      "avg_rating": 4.096,
+      "avg_rating_count": 17.5,
+      "trending_rate": 0.5484
+    },
+    "SA106": {
+      "avg_rating": 4.184,
+      "avg_rating_count": 148.9,
+      "trending_rate": 0.6237
+    },
+    "Uptownie Lite": {
+      "avg_rating": 3.988,
+      "avg_rating_count": 47.4,
+      "trending_rate": 0.4194
+    },
+    "kipek": {
+      "avg_rating": 4.143,
+      "avg_rating_count": 80.7,
+      "trending_rate": 0.6196
+    },
+    "Bene Kleed": {
+      "avg_rating": 4.135,
+      "avg_rating_count": 74.1,
+      "trending_rate": 0.5978
+    },
+    "Iti": {
+      "avg_rating": 3.932,
+      "avg_rating_count": 11.8,
+      "trending_rate": 0.4176
+    },
+    "Deewa": {
+      "avg_rating": 3.924,
+      "avg_rating_count": 64.4,
+      "trending_rate": 0.3407
+    },
+    "QUIERO": {
+      "avg_rating": 4.112,
+      "avg_rating_count": 80.0,
+      "trending_rate": 0.5275
+    },
+    "Napra": {
+      "avg_rating": 3.873,
+      "avg_rating_count": 60.7,
+      "trending_rate": 0.2667
+    },
+    "Ruhaans": {
+      "avg_rating": 3.936,
+      "avg_rating_count": 31.6,
+      "trending_rate": 0.4111
+    },
+    "SG LEMAN": {
+      "avg_rating": 4.001,
+      "avg_rating_count": 14.1,
+      "trending_rate": 0.3523
+    },
+    "adidas": {
+      "avg_rating": 4.409,
+      "avg_rating_count": 92.5,
+      "trending_rate": 0.75
+    },
+    "KRAFT INDIA": {
+      "avg_rating": 4.052,
+      "avg_rating_count": 9.8,
+      "trending_rate": 0.4828
+    },
+    "The Pink Moon": {
+      "avg_rating": 4.213,
+      "avg_rating_count": 18.1,
+      "trending_rate": 0.5862
+    },
+    "Texco": {
+      "avg_rating": 4.097,
+      "avg_rating_count": 30.1,
+      "trending_rate": 0.5349
+    },
+    "Qurvii": {
+      "avg_rating": 3.827,
+      "avg_rating_count": 36.9,
+      "trending_rate": 0.2907
+    },
+    "Revant": {
+      "avg_rating": 4.12,
+      "avg_rating_count": 12.7,
+      "trending_rate": 0.5233
+    },
+    "Laabha": {
+      "avg_rating": 3.978,
+      "avg_rating_count": 93.0,
+      "trending_rate": 0.314
+    },
+    "Colt": {
+      "avg_rating": 3.871,
+      "avg_rating_count": 25.8,
+      "trending_rate": 0.3412
+    },
+    "ARISE": {
+      "avg_rating": 4.042,
+      "avg_rating_count": 109.2,
+      "trending_rate": 0.4118
+    },
+    "FASHOR": {
+      "avg_rating": 4.119,
+      "avg_rating_count": 26.8,
+      "trending_rate": 0.6071
+    },
+    "Allen Solly Tribe": {
+      "avg_rating": 4.335,
+      "avg_rating_count": 17.4,
+      "trending_rate": 0.7143
+    },
+    "SHAVYA": {
+      "avg_rating": 3.81,
+      "avg_rating_count": 45.3,
+      "trending_rate": 0.2857
+    },
+    "Xpose": {
+      "avg_rating": 4.328,
+      "avg_rating_count": 13.4,
+      "trending_rate": 0.7229
+    },
+    "Kotty": {
+      "avg_rating": 3.841,
+      "avg_rating_count": 66.6,
+      "trending_rate": 0.2892
+    },
+    "MomToBe": {
+      "avg_rating": 4.208,
+      "avg_rating_count": 83.1,
+      "trending_rate": 0.6265
+    },
+    "ASICS": {
+      "avg_rating": 4.26,
+      "avg_rating_count": 21.1,
+      "trending_rate": 0.6506
+    },
+    "SELECTED": {
+      "avg_rating": 4.06,
+      "avg_rating_count": 7.0,
+      "trending_rate": 0.5122
+    },
+    "Tweens": {
+      "avg_rating": 3.478,
+      "avg_rating_count": 18.2,
+      "trending_rate": 0.1481
+    },
+    "Fitkin": {
+      "avg_rating": 4.378,
+      "avg_rating_count": 13.0,
+      "trending_rate": 0.7284
+    },
+    "Gypsy Jewels": {
+      "avg_rating": 4.198,
+      "avg_rating_count": 10.8,
+      "trending_rate": 0.5802
+    },
+    "studio rasa": {
+      "avg_rating": 3.82,
+      "avg_rating_count": 30.9,
+      "trending_rate": 0.3827
+    },
+    "Wintage": {
+      "avg_rating": 3.77,
+      "avg_rating_count": 10.4,
+      "trending_rate": 0.3457
+    },
+    "KSUT": {
+      "avg_rating": 3.774,
+      "avg_rating_count": 59.1,
+      "trending_rate": 0.275
+    },
+    "Orchid Blues": {
+      "avg_rating": 3.892,
+      "avg_rating_count": 26.5,
+      "trending_rate": 0.4125
+    },
+    "MBeautiful": {
+      "avg_rating": 4.408,
+      "avg_rating_count": 24.4,
+      "trending_rate": 0.8375
+    },
+    "Purple Feather": {
+      "avg_rating": 4.025,
+      "avg_rating_count": 65.4,
+      "trending_rate": 0.4557
+    },
+    "JC Collection": {
+      "avg_rating": 3.732,
+      "avg_rating_count": 9.0,
+      "trending_rate": 0.3544
+    },
+    "Souchii": {
+      "avg_rating": 4.269,
+      "avg_rating_count": 14.0,
+      "trending_rate": 0.7821
+    },
+    "VAN HEUSEN DENIM LABS": {
+      "avg_rating": 4.163,
+      "avg_rating_count": 13.8,
+      "trending_rate": 0.5641
+    },
+    "Topwholesalejewel": {
+      "avg_rating": 3.976,
+      "avg_rating_count": 24.9,
+      "trending_rate": 0.4103
+    },
+    "Florence": {
+      "avg_rating": 3.331,
+      "avg_rating_count": 24.3,
+      "trending_rate": 0.1026
+    },
+    "Sand Dune": {
+      "avg_rating": 4.0,
+      "avg_rating_count": 57.3,
+      "trending_rate": 0.3077
+    },
+    "ADORENITE": {
+      "avg_rating": 4.299,
+      "avg_rating_count": 23.7,
+      "trending_rate": 0.7308
+    },
+    "Sugathari": {
+      "avg_rating": 4.019,
+      "avg_rating_count": 26.8,
+      "trending_rate": 0.4416
+    },
+    "Owl": {
+      "avg_rating": 3.992,
+      "avg_rating_count": 80.6,
+      "trending_rate": 0.3636
+    },
+    "Darzi": {
+      "avg_rating": 3.727,
+      "avg_rating_count": 17.2,
+      "trending_rate": 0.3117
+    },
+    "Park Avenue Woman": {
+      "avg_rating": 3.997,
+      "avg_rating_count": 15.4,
+      "trending_rate": 0.4545
+    },
+    "TOM BURG": {
+      "avg_rating": 3.992,
+      "avg_rating_count": 55.9,
+      "trending_rate": 0.4675
+    },
+    "NEU LOOK FASHION": {
+      "avg_rating": 3.888,
+      "avg_rating_count": 62.4,
+      "trending_rate": 0.2632
+    },
+    "Karmic Vision": {
+      "avg_rating": 3.663,
+      "avg_rating_count": 18.3,
+      "trending_rate": 0.2267
+    },
+    "Poshak Hub": {
+      "avg_rating": 4.292,
+      "avg_rating_count": 60.4,
+      "trending_rate": 0.7867
+    },
+    "Pretty Awesome": {
+      "avg_rating": 3.967,
+      "avg_rating_count": 33.4,
+      "trending_rate": 0.36
+    },
+    "Sports52 wear": {
+      "avg_rating": 3.801,
+      "avg_rating_count": 27.1,
+      "trending_rate": 0.1333
+    },
+    "Peter England Elite": {
+      "avg_rating": 4.234,
+      "avg_rating_count": 10.5,
+      "trending_rate": 0.5811
+    },
+    "NAMASKAR": {
+      "avg_rating": 3.859,
+      "avg_rating_count": 22.2,
+      "trending_rate": 0.3378
+    },
+    "Mystere Paris": {
+      "avg_rating": 4.247,
+      "avg_rating_count": 18.2,
+      "trending_rate": 0.6622
+    },
+    "BASIICS by La Intimo": {
+      "avg_rating": 3.804,
+      "avg_rating_count": 10.6,
+      "trending_rate": 0.2973
+    },
+    "ADA": {
+      "avg_rating": 4.151,
+      "avg_rating_count": 10.6,
+      "trending_rate": 0.6216
+    },
+    "TAG 7 PLUS": {
+      "avg_rating": 4.212,
+      "avg_rating_count": 13.4,
+      "trending_rate": 0.6757
+    },
+    "MATIGA": {
+      "avg_rating": 3.878,
+      "avg_rating_count": 13.8,
+      "trending_rate": 0.3151
+    },
+    "YOLOCLAN": {
+      "avg_rating": 4.17,
+      "avg_rating_count": 5.9,
+      "trending_rate": 0.5479
+    },
+    "Enviously Young": {
+      "avg_rating": 4.092,
+      "avg_rating_count": 17.3,
+      "trending_rate": 0.5342
+    },
+    "Khushal K": {
+      "avg_rating": 4.071,
+      "avg_rating_count": 95.3,
+      "trending_rate": 0.4795
+    },
+    "PARFAIT": {
+      "avg_rating": 4.028,
+      "avg_rating_count": 27.4,
+      "trending_rate": 0.5417
+    },
+    "Amydus": {
+      "avg_rating": 4.414,
+      "avg_rating_count": 25.2,
+      "trending_rate": 0.7639
+    },
+    "UNDER ARMOUR": {
+      "avg_rating": 4.379,
+      "avg_rating_count": 15.0,
+      "trending_rate": 0.7222
+    },
+    "KOMLI": {
+      "avg_rating": 3.617,
+      "avg_rating_count": 12.1,
+      "trending_rate": 0.1806
+    },
+    "EthnoVogue": {
+      "avg_rating": 3.933,
+      "avg_rating_count": 38.8,
+      "trending_rate": 0.4306
+    },
+    "Llak Jeans": {
+      "avg_rating": 3.864,
+      "avg_rating_count": 15.2,
+      "trending_rate": 0.3056
+    },
+    "Femella": {
+      "avg_rating": 4.193,
+      "avg_rating_count": 19.8,
+      "trending_rate": 0.5972
+    },
+    "Leather Retail": {
+      "avg_rating": 4.017,
+      "avg_rating_count": 76.8,
+      "trending_rate": 0.3056
+    },
+    "Flambeur": {
+      "avg_rating": 3.771,
+      "avg_rating_count": 24.6,
+      "trending_rate": 0.2917
+    },
+    "PURYS": {
+      "avg_rating": 3.846,
+      "avg_rating_count": 50.8,
+      "trending_rate": 0.2817
+    },
+    "DIXCY SCOTT": {
+      "avg_rating": 4.158,
+      "avg_rating_count": 33.5,
+      "trending_rate": 0.5493
+    },
+    "FCUK": {
+      "avg_rating": 4.062,
+      "avg_rating_count": 20.2,
+      "trending_rate": 0.5775
+    },
+    "ManQ CASUAL": {
+      "avg_rating": 4.118,
+      "avg_rating_count": 48.4,
+      "trending_rate": 0.4648
+    },
+    "Indibelle": {
+      "avg_rating": 4.062,
+      "avg_rating_count": 84.1,
+      "trending_rate": 0.4085
+    },
+    "ARMISTO": {
+      "avg_rating": 3.85,
+      "avg_rating_count": 62.8,
+      "trending_rate": 0.3
+    },
+    "Saffron Threads": {
+      "avg_rating": 4.327,
+      "avg_rating_count": 22.8,
+      "trending_rate": 0.7429
+    },
+    "THE MILLION CLUB": {
+      "avg_rating": 3.623,
+      "avg_rating_count": 10.2,
+      "trending_rate": 0.1714
+    },
+    "ROMEO ROSSI": {
+      "avg_rating": 3.83,
+      "avg_rating_count": 24.9,
+      "trending_rate": 0.3143
+    },
+    "Quttos": {
+      "avg_rating": 3.797,
+      "avg_rating_count": 83.4,
+      "trending_rate": 0.2
+    },
+    "Clearly Charming": {
+      "avg_rating": 4.467,
+      "avg_rating_count": 14.2,
+      "trending_rate": 0.7429
+    },
+    "Love Jewelry": {
+      "avg_rating": 4.278,
+      "avg_rating_count": 40.3,
+      "trending_rate": 0.6957
+    },
+    "ColorPlus": {
+      "avg_rating": 4.013,
+      "avg_rating_count": 8.7,
+      "trending_rate": 0.4348
+    },
+    "Lady Love": {
+      "avg_rating": 4.081,
+      "avg_rating_count": 29.7,
+      "trending_rate": 0.4638
+    },
+    "DIXCY SCOTT MAXIMUS": {
+      "avg_rating": 4.219,
+      "avg_rating_count": 28.9,
+      "trending_rate": 0.6087
+    },
+    "American Crew": {
+      "avg_rating": 4.006,
+      "avg_rating_count": 28.0,
+      "trending_rate": 0.3971
+    },
+    "Austin wood": {
+      "avg_rating": 3.937,
+      "avg_rating_count": 100.1,
+      "trending_rate": 0.2059
+    },
+    "M&H Easy": {
+      "avg_rating": 4.21,
+      "avg_rating_count": 47.0,
+      "trending_rate": 0.6324
+    },
+    "beebelle": {
+      "avg_rating": 4.403,
+      "avg_rating_count": 13.5,
+      "trending_rate": 0.8507
+    },
+    "MELOSO": {
+      "avg_rating": 3.645,
+      "avg_rating_count": 23.8,
+      "trending_rate": 0.194
+    },
+    "Thomas Scott": {
+      "avg_rating": 4.175,
+      "avg_rating_count": 7.9,
+      "trending_rate": 0.5373
+    },
+    "Soch": {
+      "avg_rating": 4.233,
+      "avg_rating_count": 7.9,
+      "trending_rate": 0.6269
+    },
+    "COACH": {
+      "avg_rating": 4.228,
+      "avg_rating_count": 40.7,
+      "trending_rate": 0.6269
+    },
+    "Studio Shringaar": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 27.1,
+      "trending_rate": 0.5606
+    },
+    "RANGMAYEE": {
+      "avg_rating": 3.892,
+      "avg_rating_count": 22.7,
+      "trending_rate": 0.3788
+    },
+    "FREECULTR": {
+      "avg_rating": 4.256,
+      "avg_rating_count": 13.4,
+      "trending_rate": 0.6818
+    },
+    "RAJUBHAI HARGOVINDAS": {
+      "avg_rating": 4.182,
+      "avg_rating_count": 14.1,
+      "trending_rate": 0.5758
+    },
+    "Mint & Oak": {
+      "avg_rating": 4.498,
+      "avg_rating_count": 9.5,
+      "trending_rate": 0.8923
+    },
+    "Off Label": {
+      "avg_rating": 3.143,
+      "avg_rating_count": 12.9,
+      "trending_rate": 0.1077
+    },
+    "Ira Soleil": {
+      "avg_rating": 3.757,
+      "avg_rating_count": 68.7,
+      "trending_rate": 0.2462
+    },
+    "NYAMBA By Decathlon": {
+      "avg_rating": 4.092,
+      "avg_rating_count": 97.1,
+      "trending_rate": 0.5469
+    },
+    "fabGLOBAL": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 14.4,
+      "trending_rate": 0.5938
+    },
+    "BROADSTAR": {
+      "avg_rating": 3.972,
+      "avg_rating_count": 30.7,
+      "trending_rate": 0.5156
+    },
+    "Miaz Lifestyle": {
+      "avg_rating": 3.745,
+      "avg_rating_count": 20.1,
+      "trending_rate": 0.2969
+    },
+    "Yufta": {
+      "avg_rating": 4.213,
+      "avg_rating_count": 139.5,
+      "trending_rate": 0.6406
+    },
+    "MANGO MAN": {
+      "avg_rating": 4.05,
+      "avg_rating_count": 7.0,
+      "trending_rate": 0.5312
+    },
+    "Maaesa": {
+      "avg_rating": 4.131,
+      "avg_rating_count": 54.7,
+      "trending_rate": 0.5312
+    },
+    "Urbano Plus": {
+      "avg_rating": 4.056,
+      "avg_rating_count": 29.5,
+      "trending_rate": 0.381
+    },
+    "SIRIKIT": {
+      "avg_rating": 3.786,
+      "avg_rating_count": 40.2,
+      "trending_rate": 0.2063
+    },
+    "Nite Flite": {
+      "avg_rating": 4.426,
+      "avg_rating_count": 54.1,
+      "trending_rate": 0.871
+    },
+    "FABNEST": {
+      "avg_rating": 3.861,
+      "avg_rating_count": 28.2,
+      "trending_rate": 0.3871
+    },
+    "FABRIC FITOOR": {
+      "avg_rating": 4.119,
+      "avg_rating_count": 62.0,
+      "trending_rate": 0.5
+    },
+    "PARIS HAMILTON": {
+      "avg_rating": 3.976,
+      "avg_rating_count": 74.6,
+      "trending_rate": 0.2581
+    },
+    "SWAGG INDIA": {
+      "avg_rating": 4.06,
+      "avg_rating_count": 32.2,
+      "trending_rate": 0.5
+    },
+    "LE BOURGEOIS": {
+      "avg_rating": 4.085,
+      "avg_rating_count": 30.3,
+      "trending_rate": 0.5
+    },
+    "Kate Spade New York": {
+      "avg_rating": 4.558,
+      "avg_rating_count": 22.7,
+      "trending_rate": 0.871
+    },
+    "Wacoal": {
+      "avg_rating": 4.319,
+      "avg_rating_count": 11.7,
+      "trending_rate": 0.7258
+    },
+    "9teenAGAIN": {
+      "avg_rating": 3.755,
+      "avg_rating_count": 15.0,
+      "trending_rate": 0.2903
+    },
+    "MIRCHI FASHION": {
+      "avg_rating": 3.928,
+      "avg_rating_count": 33.7,
+      "trending_rate": 0.3279
+    },
+    "Ms.Lingies": {
+      "avg_rating": 4.017,
+      "avg_rating_count": 9.1,
+      "trending_rate": 0.5167
+    },
+    "Bonjour": {
+      "avg_rating": 4.352,
+      "avg_rating_count": 61.1,
+      "trending_rate": 0.8333
+    },
+    "FEMEA": {
+      "avg_rating": 4.167,
+      "avg_rating_count": 35.9,
+      "trending_rate": 0.6
+    },
+    "MAGRE": {
+      "avg_rating": 4.113,
+      "avg_rating_count": 40.5,
+      "trending_rate": 0.5167
+    },
+    "Akshatani": {
+      "avg_rating": 3.944,
+      "avg_rating_count": 16.8,
+      "trending_rate": 0.339
+    },
+    "CUKOO": {
+      "avg_rating": 3.886,
+      "avg_rating_count": 27.7,
+      "trending_rate": 0.3051
+    },
+    "Yaadleen": {
+      "avg_rating": 3.892,
+      "avg_rating_count": 10.0,
+      "trending_rate": 0.3898
+    },
+    "Michael Kors": {
+      "avg_rating": 4.369,
+      "avg_rating_count": 27.3,
+      "trending_rate": 0.7797
+    },
+    "panchhi": {
+      "avg_rating": 4.293,
+      "avg_rating_count": 24.5,
+      "trending_rate": 0.7288
+    },
+    "Invictus Indoor": {
+      "avg_rating": 4.162,
+      "avg_rating_count": 34.0,
+      "trending_rate": 0.5172
+    },
+    "Meeranshi": {
+      "avg_rating": 3.897,
+      "avg_rating_count": 30.4,
+      "trending_rate": 0.3966
+    },
+    "mokshi": {
+      "avg_rating": 3.836,
+      "avg_rating_count": 107.1,
+      "trending_rate": 0.3448
+    },
+    "WISSTLER": {
+      "avg_rating": 4.121,
+      "avg_rating_count": 114.6,
+      "trending_rate": 0.5263
+    },
+    "SOJANYA PLUS": {
+      "avg_rating": 4.054,
+      "avg_rating_count": 10.4,
+      "trending_rate": 0.4737
+    },
+    "BULLMER": {
+      "avg_rating": 3.974,
+      "avg_rating_count": 62.6,
+      "trending_rate": 0.3509
+    },
+    "DRAPE IN VOGUE": {
+      "avg_rating": 4.03,
+      "avg_rating_count": 108.2,
+      "trending_rate": 0.3684
+    },
+    "DOOR74": {
+      "avg_rating": 3.781,
+      "avg_rating_count": 50.9,
+      "trending_rate": 0.193
+    },
+    "iJewelry2": {
+      "avg_rating": 3.928,
+      "avg_rating_count": 27.0,
+      "trending_rate": 0.3333
+    },
+    "Buckle-Down": {
+      "avg_rating": 4.509,
+      "avg_rating_count": 46.8,
+      "trending_rate": 0.875
+    },
+    "SHOPGARB": {
+      "avg_rating": 3.623,
+      "avg_rating_count": 22.6,
+      "trending_rate": 0.2143
+    },
+    "Indian Virasat": {
+      "avg_rating": 4.227,
+      "avg_rating_count": 72.3,
+      "trending_rate": 0.625
+    },
+    "Blinkin": {
+      "avg_rating": 4.368,
+      "avg_rating_count": 32.4,
+      "trending_rate": 0.875
+    },
+    "Martini": {
+      "avg_rating": 3.845,
+      "avg_rating_count": 11.9,
+      "trending_rate": 0.3214
+    },
+    "NEVA": {
+      "avg_rating": 4.215,
+      "avg_rating_count": 41.3,
+      "trending_rate": 0.6909
+    },
+    "Desi Weavess": {
+      "avg_rating": 3.78,
+      "avg_rating_count": 26.8,
+      "trending_rate": 0.3455
+    },
+    "Voi Jeans": {
+      "avg_rating": 3.873,
+      "avg_rating_count": 6.5,
+      "trending_rate": 0.3818
+    },
+    "Karigari": {
+      "avg_rating": 4.096,
+      "avg_rating_count": 18.1,
+      "trending_rate": 0.4364
+    },
+    "FORCLAZ By Decathlon": {
+      "avg_rating": 4.244,
+      "avg_rating_count": 74.9,
+      "trending_rate": 0.7091
+    },
+    "MAMMA PRESTO": {
+      "avg_rating": 3.935,
+      "avg_rating_count": 23.6,
+      "trending_rate": 0.4
+    },
+    "Ritastephens": {
+      "avg_rating": 3.884,
+      "avg_rating_count": 29.5,
+      "trending_rate": 0.2727
+    },
+    "FUGAZEE": {
+      "avg_rating": 3.933,
+      "avg_rating_count": 22.4,
+      "trending_rate": 0.4444
+    },
+    "Invincible": {
+      "avg_rating": 4.276,
+      "avg_rating_count": 8.9,
+      "trending_rate": 0.7037
+    },
+    "Gloria Vanderbilt": {
+      "avg_rating": 4.157,
+      "avg_rating_count": 19.8,
+      "trending_rate": 0.4815
+    },
+    "TRUNDZ": {
+      "avg_rating": 4.015,
+      "avg_rating_count": 10.0,
+      "trending_rate": 0.463
+    },
+    "DEEBACO": {
+      "avg_rating": 4.039,
+      "avg_rating_count": 52.3,
+      "trending_rate": 0.3889
+    },
+    "New Era": {
+      "avg_rating": 4.491,
+      "avg_rating_count": 33.2,
+      "trending_rate": 0.8491
+    },
+    "VividArtsy": {
+      "avg_rating": 4.26,
+      "avg_rating_count": 39.3,
+      "trending_rate": 0.7547
+    },
+    "Imfashini": {
+      "avg_rating": 3.883,
+      "avg_rating_count": 36.4,
+      "trending_rate": 0.3774
+    },
+    "Zigo": {
+      "avg_rating": 4.236,
+      "avg_rating_count": 30.3,
+      "trending_rate": 0.717
+    },
+    "Molly & Michel": {
+      "avg_rating": 4.106,
+      "avg_rating_count": 25.5,
+      "trending_rate": 0.5283
+    },
+    "M7 by Metronaut": {
+      "avg_rating": 4.253,
+      "avg_rating_count": 53.4,
+      "trending_rate": 0.7736
+    },
+    "hummel": {
+      "avg_rating": 4.168,
+      "avg_rating_count": 17.6,
+      "trending_rate": 0.5849
+    },
+    "Selvia": {
+      "avg_rating": 3.95,
+      "avg_rating_count": 10.9,
+      "trending_rate": 0.3654
+    },
+    "OM SAI LATEST CREATION": {
+      "avg_rating": 3.806,
+      "avg_rating_count": 30.5,
+      "trending_rate": 0.2308
+    },
+    "Stylum": {
+      "avg_rating": 4.025,
+      "avg_rating_count": 117.5,
+      "trending_rate": 0.4615
+    },
+    "THREAD MUSTER": {
+      "avg_rating": 4.012,
+      "avg_rating_count": 65.4,
+      "trending_rate": 0.4808
+    },
+    "Slenor": {
+      "avg_rating": 4.206,
+      "avg_rating_count": 56.9,
+      "trending_rate": 0.6346
+    },
+    "AASI - HOUSE OF NAYO": {
+      "avg_rating": 3.935,
+      "avg_rating_count": 56.5,
+      "trending_rate": 0.3462
+    },
+    "Eavan": {
+      "avg_rating": 4.045,
+      "avg_rating_count": 61.0,
+      "trending_rate": 0.4314
+    },
+    "RAJGRANTH": {
+      "avg_rating": 4.014,
+      "avg_rating_count": 16.9,
+      "trending_rate": 0.451
+    },
+    "FabAlley Curve": {
+      "avg_rating": 4.073,
+      "avg_rating_count": 11.3,
+      "trending_rate": 0.4902
+    },
+    "Tipsy Elves": {
+      "avg_rating": 4.106,
+      "avg_rating_count": 40.7,
+      "trending_rate": 0.549
+    },
+    "V Dot": {
+      "avg_rating": 4.139,
+      "avg_rating_count": 13.2,
+      "trending_rate": 0.6667
+    },
+    "MASCLN SASSAFRAS": {
+      "avg_rating": 4.18,
+      "avg_rating_count": 8.4,
+      "trending_rate": 0.5686
+    },
+    "Amrutam Fab": {
+      "avg_rating": 4.028,
+      "avg_rating_count": 21.6,
+      "trending_rate": 0.38
+    },
+    "Cosmo Lady": {
+      "avg_rating": 3.796,
+      "avg_rating_count": 15.8,
+      "trending_rate": 0.3
+    },
+    "DIVASTRI": {
+      "avg_rating": 4.22,
+      "avg_rating_count": 27.1,
+      "trending_rate": 0.64
+    },
+    "THE NORTH FACE": {
+      "avg_rating": 4.446,
+      "avg_rating_count": 45.5,
+      "trending_rate": 0.76
+    },
+    "toothless": {
+      "avg_rating": 4.236,
+      "avg_rating_count": 11.0,
+      "trending_rate": 0.64
+    },
+    "WISHFUL": {
+      "avg_rating": 4.102,
+      "avg_rating_count": 19.1,
+      "trending_rate": 0.54
+    },
+    "ANI": {
+      "avg_rating": 4.037,
+      "avg_rating_count": 12.1,
+      "trending_rate": 0.4898
+    },
+    "Trident": {
+      "avg_rating": 4.431,
+      "avg_rating_count": 63.7,
+      "trending_rate": 0.9388
+    },
+    "Crocodile": {
+      "avg_rating": 4.186,
+      "avg_rating_count": 11.7,
+      "trending_rate": 0.5102
+    },
+    "Vastraa Fusion": {
+      "avg_rating": 4.061,
+      "avg_rating_count": 31.4,
+      "trending_rate": 0.3469
+    },
+    "GRIFFEL": {
+      "avg_rating": 4.047,
+      "avg_rating_count": 13.4,
+      "trending_rate": 0.449
+    },
+    "Freehand": {
+      "avg_rating": 4.224,
+      "avg_rating_count": 15.4,
+      "trending_rate": 0.5918
+    },
+    "Carter's": {
+      "avg_rating": 4.645,
+      "avg_rating_count": 27.7,
+      "trending_rate": 0.9388
+    },
+    "Souminie": {
+      "avg_rating": 3.619,
+      "avg_rating_count": 27.9,
+      "trending_rate": 0.1667
+    },
+    "Saadgi": {
+      "avg_rating": 3.846,
+      "avg_rating_count": 22.3,
+      "trending_rate": 0.3125
+    },
+    "Idalia": {
+      "avg_rating": 4.117,
+      "avg_rating_count": 78.4,
+      "trending_rate": 0.5
+    },
+    "KOI SLEEPWEAR": {
+      "avg_rating": 4.402,
+      "avg_rating_count": 11.6,
+      "trending_rate": 0.8542
+    },
+    "The Mom Store": {
+      "avg_rating": 3.938,
+      "avg_rating_count": 19.7,
+      "trending_rate": 0.4583
+    },
+    "FUAARK": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 13.6,
+      "trending_rate": 0.5625
+    },
+    "Allen Cooper": {
+      "avg_rating": 3.925,
+      "avg_rating_count": 12.9,
+      "trending_rate": 0.4375
+    },
+    "Espresso": {
+      "avg_rating": 4.371,
+      "avg_rating_count": 80.4,
+      "trending_rate": 0.875
+    },
+    "Curvy Love": {
+      "avg_rating": 3.749,
+      "avg_rating_count": 24.5,
+      "trending_rate": 0.1915
+    },
+    "DOROTHY PERKINS": {
+      "avg_rating": 4.191,
+      "avg_rating_count": 12.7,
+      "trending_rate": 0.5957
+    },
+    "IC4": {
+      "avg_rating": 3.502,
+      "avg_rating_count": 31.4,
+      "trending_rate": 0.1915
+    },
+    "DIVYANK": {
+      "avg_rating": 4.019,
+      "avg_rating_count": 57.2,
+      "trending_rate": 0.383
+    },
+    "VEIRDO": {
+      "avg_rating": 4.387,
+      "avg_rating_count": 81.4,
+      "trending_rate": 0.766
+    },
+    "Mine4Nine": {
+      "avg_rating": 3.398,
+      "avg_rating_count": 11.3,
+      "trending_rate": 0.1277
+    },
+    "Vami": {
+      "avg_rating": 4.098,
+      "avg_rating_count": 22.3,
+      "trending_rate": 0.5957
+    },
+    "Arrow New York": {
+      "avg_rating": 4.296,
+      "avg_rating_count": 23.3,
+      "trending_rate": 0.7021
+    },
+    "Aprique FAB": {
+      "avg_rating": 4.149,
+      "avg_rating_count": 20.5,
+      "trending_rate": 0.5957
+    },
+    "Casio": {
+      "avg_rating": 4.4,
+      "avg_rating_count": 1112.9,
+      "trending_rate": 0.8723
+    },
+    "Varkala Silk Sarees": {
+      "avg_rating": 4.023,
+      "avg_rating_count": 68.5,
+      "trending_rate": 0.5319
+    },
+    "GULMOHAR JAIPUR": {
+      "avg_rating": 3.972,
+      "avg_rating_count": 37.2,
+      "trending_rate": 0.4043
+    },
+    "Cross Court": {
+      "avg_rating": 4.085,
+      "avg_rating_count": 84.6,
+      "trending_rate": 0.5957
+    },
+    "Popfunk": {
+      "avg_rating": 3.913,
+      "avg_rating_count": 39.4,
+      "trending_rate": 0.3261
+    },
+    "Vemante": {
+      "avg_rating": 4.041,
+      "avg_rating_count": 76.7,
+      "trending_rate": 0.3913
+    },
+    "PIERCE ME": {
+      "avg_rating": 3.811,
+      "avg_rating_count": 62.2,
+      "trending_rate": 0.1957
+    },
+    "mezmoda": {
+      "avg_rating": 4.265,
+      "avg_rating_count": 13.0,
+      "trending_rate": 0.5435
+    },
+    "Forever New": {
+      "avg_rating": 4.237,
+      "avg_rating_count": 12.4,
+      "trending_rate": 0.5435
+    },
+    "Ayaany": {
+      "avg_rating": 4.026,
+      "avg_rating_count": 16.3,
+      "trending_rate": 0.5652
+    },
+    "Classic Polo": {
+      "avg_rating": 4.251,
+      "avg_rating_count": 17.1,
+      "trending_rate": 0.6222
+    },
+    "Locs": {
+      "avg_rating": 4.409,
+      "avg_rating_count": 80.6,
+      "trending_rate": 0.8444
+    },
+    "FEVER": {
+      "avg_rating": 3.751,
+      "avg_rating_count": 12.1,
+      "trending_rate": 0.3111
+    },
+    "PANDORA": {
+      "avg_rating": 4.382,
+      "avg_rating_count": 78.5,
+      "trending_rate": 0.7333
+    },
+    "Ethnicity": {
+      "avg_rating": 3.984,
+      "avg_rating_count": 11.9,
+      "trending_rate": 0.5778
+    },
+    "ELEVANTO": {
+      "avg_rating": 4.029,
+      "avg_rating_count": 148.1,
+      "trending_rate": 0.2667
+    },
+    "SheWill": {
+      "avg_rating": 3.9,
+      "avg_rating_count": 37.8,
+      "trending_rate": 0.3556
+    },
+    "English Navy": {
+      "avg_rating": 4.011,
+      "avg_rating_count": 129.1,
+      "trending_rate": 0.2889
+    },
+    "DIVA WALK EXCLUSIVE": {
+      "avg_rating": 3.834,
+      "avg_rating_count": 13.9,
+      "trending_rate": 0.4091
+    },
+    "Emmyrobe": {
+      "avg_rating": 4.114,
+      "avg_rating_count": 18.7,
+      "trending_rate": 0.5682
+    },
+    "SWAROVSKI": {
+      "avg_rating": 4.427,
+      "avg_rating_count": 18.0,
+      "trending_rate": 0.7045
+    },
+    "SHAYE": {
+      "avg_rating": 3.936,
+      "avg_rating_count": 31.9,
+      "trending_rate": 0.4545
+    },
+    "UCLA": {
+      "avg_rating": 4.205,
+      "avg_rating_count": 9.8,
+      "trending_rate": 0.6136
+    },
+    "RICHARD PARKER by Pantaloons": {
+      "avg_rating": 4.025,
+      "avg_rating_count": 24.8,
+      "trending_rate": 0.5
+    },
+    "JUNEBERRY": {
+      "avg_rating": 4.264,
+      "avg_rating_count": 87.0,
+      "trending_rate": 0.7273
+    },
+    "Foreign Culture By Fort Collins": {
+      "avg_rating": 4.314,
+      "avg_rating_count": 111.0,
+      "trending_rate": 0.8182
+    },
+    "MARC LOUIS": {
+      "avg_rating": 3.819,
+      "avg_rating_count": 9.4,
+      "trending_rate": 0.3256
+    },
+    "Artist Unknown": {
+      "avg_rating": 4.144,
+      "avg_rating_count": 31.0,
+      "trending_rate": 0.5349
+    },
+    "Satrani": {
+      "avg_rating": 3.909,
+      "avg_rating_count": 60.0,
+      "trending_rate": 0.4186
+    },
+    "Infinity Collection": {
+      "avg_rating": 4.307,
+      "avg_rating_count": 38.4,
+      "trending_rate": 0.7442
+    },
+    "Aayna": {
+      "avg_rating": 3.842,
+      "avg_rating_count": 67.9,
+      "trending_rate": 0.2791
+    },
+    "River Of Design Jeans": {
+      "avg_rating": 4.167,
+      "avg_rating_count": 68.2,
+      "trending_rate": 0.5349
+    },
+    "ONN": {
+      "avg_rating": 4.03,
+      "avg_rating_count": 30.0,
+      "trending_rate": 0.3953
+    },
+    "Ewatchparts": {
+      "avg_rating": 3.865,
+      "avg_rating_count": 12.9,
+      "trending_rate": 0.3488
+    },
+    "ZHEIA": {
+      "avg_rating": 3.912,
+      "avg_rating_count": 22.5,
+      "trending_rate": 0.381
+    },
+    "hangup trend": {
+      "avg_rating": 3.55,
+      "avg_rating_count": 23.4,
+      "trending_rate": 0.1429
+    },
+    "BharatSthali": {
+      "avg_rating": 4.019,
+      "avg_rating_count": 11.8,
+      "trending_rate": 0.3571
+    },
+    "Camey": {
+      "avg_rating": 3.688,
+      "avg_rating_count": 9.0,
+      "trending_rate": 0.3095
+    },
+    "Geroo Jaipur": {
+      "avg_rating": 3.352,
+      "avg_rating_count": 8.2,
+      "trending_rate": 0.119
+    },
+    "RAMRAJ COTTON": {
+      "avg_rating": 4.245,
+      "avg_rating_count": 12.6,
+      "trending_rate": 0.7381
+    },
+    "Smugglerz": {
+      "avg_rating": 4.307,
+      "avg_rating_count": 7.3,
+      "trending_rate": 0.619
+    },
+    "BODYCARE INSIDER": {
+      "avg_rating": 4.426,
+      "avg_rating_count": 22.5,
+      "trending_rate": 0.9048
+    },
+    "Kalenji By Decathlon": {
+      "avg_rating": 4.04,
+      "avg_rating_count": 98.5,
+      "trending_rate": 0.4762
+    },
+    "Ethnic Junction": {
+      "avg_rating": 3.979,
+      "avg_rating_count": 39.5,
+      "trending_rate": 0.3571
+    },
+    "JC Mode": {
+      "avg_rating": 3.734,
+      "avg_rating_count": 4.9,
+      "trending_rate": 0.3415
+    },
+    "V&M": {
+      "avg_rating": 3.629,
+      "avg_rating_count": 20.9,
+      "trending_rate": 0.3171
+    },
+    "e4Hats.com": {
+      "avg_rating": 4.346,
+      "avg_rating_count": 16.6,
+      "trending_rate": 0.7073
+    },
+    "KHADIO": {
+      "avg_rating": 3.512,
+      "avg_rating_count": 10.1,
+      "trending_rate": 0.2195
+    },
+    "Nifty": {
+      "avg_rating": 4.056,
+      "avg_rating_count": 86.4,
+      "trending_rate": 0.4146
+    },
+    "CAVALLO by Linen Club": {
+      "avg_rating": 3.937,
+      "avg_rating_count": 5.8,
+      "trending_rate": 0.439
+    },
+    "Juelle": {
+      "avg_rating": 4.263,
+      "avg_rating_count": 6.7,
+      "trending_rate": 0.7317
+    },
+    "Nejo": {
+      "avg_rating": 4.107,
+      "avg_rating_count": 28.2,
+      "trending_rate": 0.425
+    },
+    "One8": {
+      "avg_rating": 4.12,
+      "avg_rating_count": 97.6,
+      "trending_rate": 0.65
+    },
+    "DEYANN PLUS": {
+      "avg_rating": 3.43,
+      "avg_rating_count": 7.3,
+      "trending_rate": 0.1
+    },
+    "Seek Optics": {
+      "avg_rating": 3.96,
+      "avg_rating_count": 16.9,
+      "trending_rate": 0.325
+    },
+    "Lakshita": {
+      "avg_rating": 4.117,
+      "avg_rating_count": 9.9,
+      "trending_rate": 0.55
+    },
+    "Beau Design": {
+      "avg_rating": 3.483,
+      "avg_rating_count": 12.7,
+      "trending_rate": 0.125
+    },
+    "ARDEUR": {
+      "avg_rating": 3.608,
+      "avg_rating_count": 11.4,
+      "trending_rate": 0.175
+    },
+    "MAXENCE": {
+      "avg_rating": 3.46,
+      "avg_rating_count": 7.5,
+      "trending_rate": 0.2
+    },
+    "Fabriko": {
+      "avg_rating": 3.917,
+      "avg_rating_count": 36.4,
+      "trending_rate": 0.25
+    },
+    "Luni": {
+      "avg_rating": 3.892,
+      "avg_rating_count": 9.6,
+      "trending_rate": 0.4103
+    },
+    "BRACHY": {
+      "avg_rating": 4.008,
+      "avg_rating_count": 20.5,
+      "trending_rate": 0.4872
+    },
+    "Black Panther": {
+      "avg_rating": 3.662,
+      "avg_rating_count": 4.8,
+      "trending_rate": 0.3333
+    },
+    "RedRound": {
+      "avg_rating": 3.7,
+      "avg_rating_count": 21.6,
+      "trending_rate": 0.2821
+    },
+    "Ives": {
+      "avg_rating": 3.974,
+      "avg_rating_count": 70.0,
+      "trending_rate": 0.3333
+    },
+    "VOXATI": {
+      "avg_rating": 4.21,
+      "avg_rating_count": 30.1,
+      "trending_rate": 0.5897
+    },
+    "SimplyYours": {
+      "avg_rating": 4.026,
+      "avg_rating_count": 11.5,
+      "trending_rate": 0.4103
+    },
+    "KISAH PLUS": {
+      "avg_rating": 3.849,
+      "avg_rating_count": 7.6,
+      "trending_rate": 0.3333
+    },
+    "N2S NEXT2SKIN": {
+      "avg_rating": 4.028,
+      "avg_rating_count": 41.4,
+      "trending_rate": 0.4103
+    },
+    "DRAAX Fashions": {
+      "avg_rating": 3.932,
+      "avg_rating_count": 12.9,
+      "trending_rate": 0.4474
+    },
+    "Grancy": {
+      "avg_rating": 3.329,
+      "avg_rating_count": 11.0,
+      "trending_rate": 0.1053
+    },
+    "Manthan": {
+      "avg_rating": 4.334,
+      "avg_rating_count": 16.6,
+      "trending_rate": 0.7632
+    },
+    "CINOCCI": {
+      "avg_rating": 3.692,
+      "avg_rating_count": 17.7,
+      "trending_rate": 0.1842
+    },
+    "'47": {
+      "avg_rating": 4.516,
+      "avg_rating_count": 55.4,
+      "trending_rate": 0.8947
+    },
+    "Rustorange": {
+      "avg_rating": 4.132,
+      "avg_rating_count": 42.5,
+      "trending_rate": 0.5405
+    },
+    "HIGHLIGHT FASHION EXPORT": {
+      "avg_rating": 3.97,
+      "avg_rating_count": 19.2,
+      "trending_rate": 0.2973
+    },
+    "Vartah": {
+      "avg_rating": 3.792,
+      "avg_rating_count": 12.8,
+      "trending_rate": 0.3243
+    },
+    "Candour London": {
+      "avg_rating": 4.122,
+      "avg_rating_count": 16.3,
+      "trending_rate": 0.5405
+    },
+    "Kalista": {
+      "avg_rating": 3.805,
+      "avg_rating_count": 44.6,
+      "trending_rate": 0.2703
+    },
+    "PinMart": {
+      "avg_rating": 4.578,
+      "avg_rating_count": 56.4,
+      "trending_rate": 0.8919
+    },
+    "WILD WEST": {
+      "avg_rating": 4.235,
+      "avg_rating_count": 121.4,
+      "trending_rate": 0.7297
+    },
+    "FCUK Underwear": {
+      "avg_rating": 4.038,
+      "avg_rating_count": 20.2,
+      "trending_rate": 0.5405
+    },
+    "AKIMIA": {
+      "avg_rating": 4.076,
+      "avg_rating_count": 28.2,
+      "trending_rate": 0.4595
+    },
+    "Fun Costumes": {
+      "avg_rating": 4.086,
+      "avg_rating_count": 58.8,
+      "trending_rate": 0.5
+    },
+    "Pavechas": {
+      "avg_rating": 4.189,
+      "avg_rating_count": 63.2,
+      "trending_rate": 0.5
+    },
+    "Cantabil": {
+      "avg_rating": 4.114,
+      "avg_rating_count": 18.7,
+      "trending_rate": 0.5278
+    },
+    "ChubbyChicoCharms": {
+      "avg_rating": 3.878,
+      "avg_rating_count": 20.4,
+      "trending_rate": 0.25
+    },
+    "PRETTYBOLD": {
+      "avg_rating": 3.617,
+      "avg_rating_count": 56.8,
+      "trending_rate": 0.0833
+    },
+    "U.S. Polo Assn. Women": {
+      "avg_rating": 4.022,
+      "avg_rating_count": 7.2,
+      "trending_rate": 0.4167
+    },
+    "Harry Potter": {
+      "avg_rating": 4.456,
+      "avg_rating_count": 98.0,
+      "trending_rate": 0.8611
+    },
+    "Evonix": {
+      "avg_rating": 3.858,
+      "avg_rating_count": 45.4,
+      "trending_rate": 0.2222
+    },
+    "Solemio": {
+      "avg_rating": 3.844,
+      "avg_rating_count": 7.5,
+      "trending_rate": 0.2778
+    },
+    "Silk Bazar": {
+      "avg_rating": 3.542,
+      "avg_rating_count": 36.0,
+      "trending_rate": 0.0833
+    },
+    "Alena": {
+      "avg_rating": 3.883,
+      "avg_rating_count": 41.4,
+      "trending_rate": 0.3333
+    },
+    "Excalibur": {
+      "avg_rating": 3.683,
+      "avg_rating_count": 16.5,
+      "trending_rate": 0.1389
+    },
+    "Woodland": {
+      "avg_rating": 4.406,
+      "avg_rating_count": 7.0,
+      "trending_rate": 0.6944
+    },
+    "zhangdongDIY": {
+      "avg_rating": 4.483,
+      "avg_rating_count": 35.1,
+      "trending_rate": 0.8286
+    },
+    "Rembrandt Charms": {
+      "avg_rating": 4.311,
+      "avg_rating_count": 8.6,
+      "trending_rate": 0.6857
+    },
+    "WineRed": {
+      "avg_rating": 4.169,
+      "avg_rating_count": 27.9,
+      "trending_rate": 0.5429
+    },
+    "VAABA": {
+      "avg_rating": 3.586,
+      "avg_rating_count": 17.8,
+      "trending_rate": 0.1714
+    },
+    "Kuons Avenue": {
+      "avg_rating": 4.066,
+      "avg_rating_count": 13.2,
+      "trending_rate": 0.5143
+    },
+    "Enchanted Drapes": {
+      "avg_rating": 3.72,
+      "avg_rating_count": 15.1,
+      "trending_rate": 0.2
+    },
+    "skyria": {
+      "avg_rating": 4.194,
+      "avg_rating_count": 15.1,
+      "trending_rate": 0.6571
+    },
+    "FREAKINS": {
+      "avg_rating": 3.849,
+      "avg_rating_count": 6.0,
+      "trending_rate": 0.4286
+    },
+    "Rubie's": {
+      "avg_rating": 3.771,
+      "avg_rating_count": 87.5,
+      "trending_rate": 0.2
+    },
+    "SWISS MILITARY": {
+      "avg_rating": 4.209,
+      "avg_rating_count": 12.9,
+      "trending_rate": 0.6
+    },
+    "Shaftesbury London": {
+      "avg_rating": 3.774,
+      "avg_rating_count": 91.6,
+      "trending_rate": 0.0571
+    },
+    "Molcha": {
+      "avg_rating": 3.794,
+      "avg_rating_count": 13.7,
+      "trending_rate": 0.2286
+    },
+    "Vision Wear": {
+      "avg_rating": 4.677,
+      "avg_rating_count": 56.5,
+      "trending_rate": 0.9714
+    },
+    "AHAETH": {
+      "avg_rating": 4.706,
+      "avg_rating_count": 33.6,
+      "trending_rate": 1.0
+    },
+    "Steenbok": {
+      "avg_rating": 3.982,
+      "avg_rating_count": 33.5,
+      "trending_rate": 0.3824
+    },
+    "PROTEENS": {
+      "avg_rating": 4.026,
+      "avg_rating_count": 7.3,
+      "trending_rate": 0.4412
+    },
+    "COTTON ON": {
+      "avg_rating": 3.512,
+      "avg_rating_count": 3.0,
+      "trending_rate": 0.3235
+    },
+    "inocenCia": {
+      "avg_rating": 4.294,
+      "avg_rating_count": 26.5,
+      "trending_rate": 0.7059
+    },
+    "Charukriti": {
+      "avg_rating": 3.497,
+      "avg_rating_count": 5.1,
+      "trending_rate": 0.2353
+    },
+    "Chennis": {
+      "avg_rating": 3.694,
+      "avg_rating_count": 10.6,
+      "trending_rate": 0.2059
+    },
+    "Aditi Wasan": {
+      "avg_rating": 3.859,
+      "avg_rating_count": 11.1,
+      "trending_rate": 0.2941
+    },
+    "Rodzen": {
+      "avg_rating": 3.824,
+      "avg_rating_count": 14.1,
+      "trending_rate": 0.2941
+    },
+    "BROOWL": {
+      "avg_rating": 4.221,
+      "avg_rating_count": 7.5,
+      "trending_rate": 0.5882
+    },
+    "Laado - Pamper Yourself": {
+      "avg_rating": 4.091,
+      "avg_rating_count": 25.4,
+      "trending_rate": 0.5882
+    },
+    "98 Degree North": {
+      "avg_rating": 4.167,
+      "avg_rating_count": 46.8,
+      "trending_rate": 0.6667
+    },
+    "FASHION DEPTH": {
+      "avg_rating": 4.258,
+      "avg_rating_count": 37.0,
+      "trending_rate": 0.7273
+    },
+    "POLO RALPH LAUREN": {
+      "avg_rating": 4.3,
+      "avg_rating_count": 34.2,
+      "trending_rate": 0.6667
+    },
+    "MASH UNLIMITED": {
+      "avg_rating": 3.894,
+      "avg_rating_count": 11.4,
+      "trending_rate": 0.3939
+    },
+    "STAR WARS": {
+      "avg_rating": 4.37,
+      "avg_rating_count": 81.7,
+      "trending_rate": 0.6364
+    },
+    "TREEMODA": {
+      "avg_rating": 4.073,
+      "avg_rating_count": 17.5,
+      "trending_rate": 0.5758
+    },
+    "PUMA": {
+      "avg_rating": 4.452,
+      "avg_rating_count": 49.5,
+      "trending_rate": 0.7273
+    },
+    "VAGA": {
+      "avg_rating": 3.506,
+      "avg_rating_count": 19.9,
+      "trending_rate": 0.1212
+    },
+    "PUMA Hoops": {
+      "avg_rating": 4.336,
+      "avg_rating_count": 14.6,
+      "trending_rate": 0.7576
+    },
+    "Get Glamr": {
+      "avg_rating": 3.824,
+      "avg_rating_count": 39.0,
+      "trending_rate": 0.3636
+    },
+    "TABARD": {
+      "avg_rating": 3.658,
+      "avg_rating_count": 21.0,
+      "trending_rate": 0.303
+    },
+    "Wear Your Mind": {
+      "avg_rating": 3.909,
+      "avg_rating_count": 21.1,
+      "trending_rate": 0.2727
+    },
+    "HARBORNBAY": {
+      "avg_rating": 4.145,
+      "avg_rating_count": 9.6,
+      "trending_rate": 0.6364
+    },
+    "Ethnix by Raymond": {
+      "avg_rating": 4.106,
+      "avg_rating_count": 7.2,
+      "trending_rate": 0.4848
+    },
+    "Richlook": {
+      "avg_rating": 3.915,
+      "avg_rating_count": 20.6,
+      "trending_rate": 0.2121
+    },
+    "Helikon-Tex": {
+      "avg_rating": 4.273,
+      "avg_rating_count": 58.6,
+      "trending_rate": 0.7273
+    },
+    "Spirit": {
+      "avg_rating": 3.845,
+      "avg_rating_count": 17.0,
+      "trending_rate": 0.3636
+    },
+    "Almo Wear": {
+      "avg_rating": 4.297,
+      "avg_rating_count": 10.0,
+      "trending_rate": 0.7879
+    },
+    "ZIZO By Namrata Bajaj": {
+      "avg_rating": 3.9,
+      "avg_rating_count": 14.0,
+      "trending_rate": 0.4848
+    },
+    "SHUBHKALA": {
+      "avg_rating": 4.188,
+      "avg_rating_count": 22.6,
+      "trending_rate": 0.5758
+    },
+    "quan jewelry": {
+      "avg_rating": 4.278,
+      "avg_rating_count": 30.4,
+      "trending_rate": 0.75
+    },
+    "I Know": {
+      "avg_rating": 3.784,
+      "avg_rating_count": 16.0,
+      "trending_rate": 0.3438
+    },
+    "Sringam": {
+      "avg_rating": 4.116,
+      "avg_rating_count": 46.7,
+      "trending_rate": 0.5
+    },
+    "Minions by Kook N Keech": {
+      "avg_rating": 4.259,
+      "avg_rating_count": 135.9,
+      "trending_rate": 0.6875
+    },
+    "NOT YET by us": {
+      "avg_rating": 4.013,
+      "avg_rating_count": 13.3,
+      "trending_rate": 0.3438
+    },
+    "Women Touch": {
+      "avg_rating": 3.638,
+      "avg_rating_count": 9.8,
+      "trending_rate": 0.25
+    },
+    "Prakhya": {
+      "avg_rating": 3.956,
+      "avg_rating_count": 123.3,
+      "trending_rate": 0.4688
+    },
+    "Dennis Lingo": {
+      "avg_rating": 4.231,
+      "avg_rating_count": 160.7,
+      "trending_rate": 0.6562
+    },
+    "inktastic": {
+      "avg_rating": 4.253,
+      "avg_rating_count": 13.2,
+      "trending_rate": 0.6562
+    },
+    "ATHLISIS": {
+      "avg_rating": 3.994,
+      "avg_rating_count": 8.4,
+      "trending_rate": 0.4375
+    },
+    "HK colours of fashion": {
+      "avg_rating": 4.388,
+      "avg_rating_count": 13.7,
+      "trending_rate": 0.8125
+    },
+    "Under Armour": {
+      "avg_rating": 4.294,
+      "avg_rating_count": 157.9,
+      "trending_rate": 0.6875
+    },
+    "RIVI": {
+      "avg_rating": 3.788,
+      "avg_rating_count": 8.7,
+      "trending_rate": 0.375
+    },
+    "Reebok Classic": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 11.0,
+      "trending_rate": 0.625
+    },
+    "GALYPSO": {
+      "avg_rating": 4.106,
+      "avg_rating_count": 11.8,
+      "trending_rate": 0.5484
+    },
+    "Rue Collection": {
+      "avg_rating": 4.19,
+      "avg_rating_count": 33.9,
+      "trending_rate": 0.6452
+    },
+    "Kook N Keech Emoji": {
+      "avg_rating": 4.219,
+      "avg_rating_count": 28.6,
+      "trending_rate": 0.6452
+    },
+    "Color Cocktail": {
+      "avg_rating": 3.739,
+      "avg_rating_count": 84.8,
+      "trending_rate": 0.2258
+    },
+    "beevee": {
+      "avg_rating": 4.316,
+      "avg_rating_count": 26.9,
+      "trending_rate": 0.6129
+    },
+    "Saanjh": {
+      "avg_rating": 3.868,
+      "avg_rating_count": 13.3,
+      "trending_rate": 0.2581
+    },
+    "Alex and Ani": {
+      "avg_rating": 4.677,
+      "avg_rating_count": 15.6,
+      "trending_rate": 0.9355
+    },
+    "BRATMA": {
+      "avg_rating": 3.581,
+      "avg_rating_count": 8.3,
+      "trending_rate": 0.2581
+    },
+    "SATYAM WEAVES": {
+      "avg_rating": 3.7,
+      "avg_rating_count": 6.6,
+      "trending_rate": 0.3
+    },
+    "American Bull": {
+      "avg_rating": 3.877,
+      "avg_rating_count": 11.0,
+      "trending_rate": 0.2667
+    },
+    "Justice League": {
+      "avg_rating": 4.247,
+      "avg_rating_count": 106.6,
+      "trending_rate": 0.5667
+    },
+    "Heelium": {
+      "avg_rating": 4.49,
+      "avg_rating_count": 11.6,
+      "trending_rate": 0.8667
+    },
+    "evolove": {
+      "avg_rating": 4.137,
+      "avg_rating_count": 10.9,
+      "trending_rate": 0.6667
+    },
+    "Sac Silver": {
+      "avg_rating": 4.067,
+      "avg_rating_count": 70.6,
+      "trending_rate": 0.5
+    },
+    "Sportoli": {
+      "avg_rating": 3.7,
+      "avg_rating_count": 16.4,
+      "trending_rate": 0.2333
+    },
+    "Sweaty Bands": {
+      "avg_rating": 4.497,
+      "avg_rating_count": 40.0,
+      "trending_rate": 0.9
+    },
+    "RageIT": {
+      "avg_rating": 3.56,
+      "avg_rating_count": 28.6,
+      "trending_rate": 0.0333
+    },
+    "MADSTO": {
+      "avg_rating": 3.8,
+      "avg_rating_count": 12.5,
+      "trending_rate": 0.2667
+    },
+    "LA LOFT": {
+      "avg_rating": 3.78,
+      "avg_rating_count": 4.2,
+      "trending_rate": 0.2333
+    },
+    "Kook N Keech Batman": {
+      "avg_rating": 4.14,
+      "avg_rating_count": 38.2,
+      "trending_rate": 0.5
+    },
+    "Curare": {
+      "avg_rating": 4.16,
+      "avg_rating_count": 25.1,
+      "trending_rate": 0.6333
+    },
+    "Taurus": {
+      "avg_rating": 4.003,
+      "avg_rating_count": 10.5,
+      "trending_rate": 0.4667
+    },
+    "STALK": {
+      "avg_rating": 3.813,
+      "avg_rating_count": 17.1,
+      "trending_rate": 0.3333
+    },
+    "GUESS": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 34.7,
+      "trending_rate": 0.6897
+    },
+    "Nun": {
+      "avg_rating": 3.81,
+      "avg_rating_count": 30.3,
+      "trending_rate": 0.3793
+    },
+    "aamna": {
+      "avg_rating": 4.159,
+      "avg_rating_count": 83.1,
+      "trending_rate": 0.6897
+    },
+    "Basics": {
+      "avg_rating": 3.855,
+      "avg_rating_count": 8.6,
+      "trending_rate": 0.3793
+    },
+    "Lenissa": {
+      "avg_rating": 4.155,
+      "avg_rating_count": 10.2,
+      "trending_rate": 0.6207
+    },
+    "Fruit of the Loom": {
+      "avg_rating": 4.179,
+      "avg_rating_count": 179.3,
+      "trending_rate": 0.6207
+    },
+    "Koton": {
+      "avg_rating": 3.814,
+      "avg_rating_count": 7.4,
+      "trending_rate": 0.3793
+    },
+    "Dollar Ultra": {
+      "avg_rating": 4.241,
+      "avg_rating_count": 82.7,
+      "trending_rate": 0.6897
+    },
+    "TULIP 21": {
+      "avg_rating": 4.014,
+      "avg_rating_count": 17.0,
+      "trending_rate": 0.5517
+    },
+    "LAMAAYA": {
+      "avg_rating": 3.572,
+      "avg_rating_count": 12.4,
+      "trending_rate": 0.069
+    },
+    "Calvin Klein": {
+      "avg_rating": 4.168,
+      "avg_rating_count": 28.4,
+      "trending_rate": 0.5357
+    },
+    "MAG": {
+      "avg_rating": 4.107,
+      "avg_rating_count": 42.1,
+      "trending_rate": 0.3929
+    },
+    "Helikon": {
+      "avg_rating": 4.275,
+      "avg_rating_count": 92.4,
+      "trending_rate": 0.6429
+    },
+    "American-Elm": {
+      "avg_rating": 3.521,
+      "avg_rating_count": 16.7,
+      "trending_rate": 0.1071
+    },
+    "Rodamo": {
+      "avg_rating": 4.018,
+      "avg_rating_count": 24.9,
+      "trending_rate": 0.5
+    },
+    "Gildan": {
+      "avg_rating": 4.146,
+      "avg_rating_count": 17.1,
+      "trending_rate": 0.4643
+    },
+    "Kalyani": {
+      "avg_rating": 4.136,
+      "avg_rating_count": 9.0,
+      "trending_rate": 0.6071
+    },
+    "Painful Pleasures": {
+      "avg_rating": 3.821,
+      "avg_rating_count": 16.5,
+      "trending_rate": 0.3214
+    },
+    "SF JEANS by Pantaloons": {
+      "avg_rating": 4.054,
+      "avg_rating_count": 8.7,
+      "trending_rate": 0.5714
+    },
+    "Ray-Ban": {
+      "avg_rating": 4.225,
+      "avg_rating_count": 22.3,
+      "trending_rate": 0.5714
+    },
+    "MAKCLAN": {
+      "avg_rating": 3.811,
+      "avg_rating_count": 8.0,
+      "trending_rate": 0.2143
+    },
+    "NOVELTY GIANT WWW.NOVELTYGIANT.COM": {
+      "avg_rating": 3.846,
+      "avg_rating_count": 63.1,
+      "trending_rate": 0.3571
+    },
+    "109F": {
+      "avg_rating": 3.904,
+      "avg_rating_count": 7.3,
+      "trending_rate": 0.5185
+    },
+    "AGIL ATHLETICA": {
+      "avg_rating": 3.626,
+      "avg_rating_count": 8.5,
+      "trending_rate": 0.2222
+    },
+    "JATRIQQ": {
+      "avg_rating": 4.233,
+      "avg_rating_count": 15.5,
+      "trending_rate": 0.6296
+    },
+    "FOSH": {
+      "avg_rating": 4.122,
+      "avg_rating_count": 7.1,
+      "trending_rate": 0.5926
+    },
+    "Louis Philippe ATHPLAY": {
+      "avg_rating": 4.259,
+      "avg_rating_count": 11.7,
+      "trending_rate": 0.6667
+    },
+    "Marvel": {
+      "avg_rating": 4.581,
+      "avg_rating_count": 110.6,
+      "trending_rate": 0.8889
+    },
+    "SG RAJASAHAB": {
+      "avg_rating": 3.722,
+      "avg_rating_count": 14.9,
+      "trending_rate": 0.2222
+    },
+    "Timberline Traders": {
+      "avg_rating": 4.522,
+      "avg_rating_count": 20.8,
+      "trending_rate": 0.8148
+    },
+    "Rudra Bazaar": {
+      "avg_rating": 4.163,
+      "avg_rating_count": 33.3,
+      "trending_rate": 0.6667
+    },
+    "Be Indi": {
+      "avg_rating": 3.856,
+      "avg_rating_count": 10.9,
+      "trending_rate": 0.4074
+    },
+    "WinCraft": {
+      "avg_rating": 4.596,
+      "avg_rating_count": 29.3,
+      "trending_rate": 0.9259
+    },
+    "Ennoble": {
+      "avg_rating": 4.27,
+      "avg_rating_count": 7.7,
+      "trending_rate": 0.7037
+    },
+    "Stylee LIFESTYLE": {
+      "avg_rating": 3.719,
+      "avg_rating_count": 6.8,
+      "trending_rate": 0.3333
+    },
+    "Artengo By Decathlon": {
+      "avg_rating": 4.241,
+      "avg_rating_count": 141.3,
+      "trending_rate": 0.6667
+    },
+    "La Intimo": {
+      "avg_rating": 4.144,
+      "avg_rating_count": 9.8,
+      "trending_rate": 0.6296
+    },
+    "GESPO": {
+      "avg_rating": 4.044,
+      "avg_rating_count": 18.3,
+      "trending_rate": 0.4074
+    },
+    "LOOKNBOOK ART": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 25.0,
+      "trending_rate": 0.6296
+    },
+    "Instafab Plus": {
+      "avg_rating": 3.822,
+      "avg_rating_count": 26.8,
+      "trending_rate": 0.1852
+    },
+    "rock.it": {
+      "avg_rating": 4.078,
+      "avg_rating_count": 6.6,
+      "trending_rate": 0.5926
+    },
+    "WESTCLO": {
+      "avg_rating": 3.923,
+      "avg_rating_count": 19.8,
+      "trending_rate": 0.2692
+    },
+    "Canary London": {
+      "avg_rating": 3.992,
+      "avg_rating_count": 6.8,
+      "trending_rate": 0.3077
+    },
+    "Black coffee": {
+      "avg_rating": 3.965,
+      "avg_rating_count": 331.5,
+      "trending_rate": 0.3077
+    },
+    "EAGLE CREST": {
+      "avg_rating": 4.538,
+      "avg_rating_count": 27.6,
+      "trending_rate": 0.8846
+    },
+    "Adobe": {
+      "avg_rating": 3.869,
+      "avg_rating_count": 9.2,
+      "trending_rate": 0.3462
+    },
+    "Rain & Rainbow": {
+      "avg_rating": 4.258,
+      "avg_rating_count": 128.2,
+      "trending_rate": 0.6923
+    },
+    "Trevco": {
+      "avg_rating": 4.373,
+      "avg_rating_count": 26.9,
+      "trending_rate": 0.7692
+    },
+    "PrettySecrets": {
+      "avg_rating": 3.673,
+      "avg_rating_count": 206.2,
+      "trending_rate": 0.0385
+    },
+    "PHWOAR": {
+      "avg_rating": 3.812,
+      "avg_rating_count": 80.8,
+      "trending_rate": 0.1154
+    },
+    "BRINNS": {
+      "avg_rating": 3.815,
+      "avg_rating_count": 14.0,
+      "trending_rate": 0.5
+    },
+    "Forum Novelties": {
+      "avg_rating": 3.519,
+      "avg_rating_count": 37.4,
+      "trending_rate": 0.0769
+    },
+    "SOLOGNAC By Decathlon": {
+      "avg_rating": 4.336,
+      "avg_rating_count": 125.5,
+      "trending_rate": 0.8
+    },
+    "Octave": {
+      "avg_rating": 3.852,
+      "avg_rating_count": 4.9,
+      "trending_rate": 0.36
+    },
+    "CHILL WINSTON": {
+      "avg_rating": 4.08,
+      "avg_rating_count": 20.2,
+      "trending_rate": 0.32
+    },
+    "EG GIFTS": {
+      "avg_rating": 3.924,
+      "avg_rating_count": 36.5,
+      "trending_rate": 0.28
+    },
+    "WearAll": {
+      "avg_rating": 3.48,
+      "avg_rating_count": 73.0,
+      "trending_rate": 0.04
+    },
+    "V2 Value & Variety": {
+      "avg_rating": 3.764,
+      "avg_rating_count": 11.3,
+      "trending_rate": 0.28
+    },
+    "Smiling Wisdom": {
+      "avg_rating": 4.504,
+      "avg_rating_count": 116.4,
+      "trending_rate": 0.92
+    },
+    "CREEZ": {
+      "avg_rating": 4.004,
+      "avg_rating_count": 17.3,
+      "trending_rate": 0.48
+    },
+    "NYFASHION101": {
+      "avg_rating": 3.984,
+      "avg_rating_count": 34.8,
+      "trending_rate": 0.32
+    },
+    "Plagg": {
+      "avg_rating": 4.02,
+      "avg_rating_count": 19.6,
+      "trending_rate": 0.52
+    },
+    "More of Me to Love": {
+      "avg_rating": 3.64,
+      "avg_rating_count": 16.3,
+      "trending_rate": 0.16
+    },
+    "Metronaut": {
+      "avg_rating": 4.048,
+      "avg_rating_count": 28.6,
+      "trending_rate": 0.44
+    },
+    "YiZYiF": {
+      "avg_rating": 3.736,
+      "avg_rating_count": 26.4,
+      "trending_rate": 0.12
+    },
+    "RG DESIGNERS": {
+      "avg_rating": 3.876,
+      "avg_rating_count": 15.8,
+      "trending_rate": 0.4
+    },
+    "Masculino Latino": {
+      "avg_rating": 4.032,
+      "avg_rating_count": 6.1,
+      "trending_rate": 0.44
+    },
+    "X LOOP": {
+      "avg_rating": 3.768,
+      "avg_rating_count": 15.8,
+      "trending_rate": 0.2
+    },
+    "Party City": {
+      "avg_rating": 4.242,
+      "avg_rating_count": 57.2,
+      "trending_rate": 0.625
+    },
+    "BodyJ4You": {
+      "avg_rating": 3.704,
+      "avg_rating_count": 52.2,
+      "trending_rate": 0.1667
+    },
+    "Aujjessa": {
+      "avg_rating": 3.646,
+      "avg_rating_count": 41.4,
+      "trending_rate": 0.25
+    },
+    "AUSTIVO": {
+      "avg_rating": 4.025,
+      "avg_rating_count": 13.8,
+      "trending_rate": 0.5
+    },
+    "Sethukrishna": {
+      "avg_rating": 4.096,
+      "avg_rating_count": 12.8,
+      "trending_rate": 0.4167
+    },
+    "Stance": {
+      "avg_rating": 4.7,
+      "avg_rating_count": 19.1,
+      "trending_rate": 0.9167
+    },
+    "SCOUP": {
+      "avg_rating": 3.804,
+      "avg_rating_count": 21.3,
+      "trending_rate": 0.3333
+    },
+    "Foster Grant": {
+      "avg_rating": 4.321,
+      "avg_rating_count": 13.3,
+      "trending_rate": 0.6667
+    },
+    "Pashmoda": {
+      "avg_rating": 4.454,
+      "avg_rating_count": 20.8,
+      "trending_rate": 0.8333
+    },
+    "THE NKS PLUS": {
+      "avg_rating": 3.988,
+      "avg_rating_count": 9.6,
+      "trending_rate": 0.5833
+    },
+    "Gallus": {
+      "avg_rating": 3.375,
+      "avg_rating_count": 9.0,
+      "trending_rate": 0.25
+    },
+    "Snarky Gal": {
+      "avg_rating": 4.229,
+      "avg_rating_count": 16.3,
+      "trending_rate": 0.8333
+    },
+    "LYKKEIN": {
+      "avg_rating": 3.625,
+      "avg_rating_count": 6.9,
+      "trending_rate": 0.375
+    },
+    "Columbia": {
+      "avg_rating": 4.188,
+      "avg_rating_count": 14.0,
+      "trending_rate": 0.5833
+    },
+    "Netram": {
+      "avg_rating": 3.983,
+      "avg_rating_count": 14.0,
+      "trending_rate": 0.375
+    },
+    "Silver Forest": {
+      "avg_rating": 4.646,
+      "avg_rating_count": 17.9,
+      "trending_rate": 0.9583
+    },
+    "LY2": {
+      "avg_rating": 3.978,
+      "avg_rating_count": 9.0,
+      "trending_rate": 0.4348
+    },
+    "ADBUCKS": {
+      "avg_rating": 4.03,
+      "avg_rating_count": 38.1,
+      "trending_rate": 0.6087
+    },
+    "Colour Me by Melange": {
+      "avg_rating": 3.97,
+      "avg_rating_count": 10.7,
+      "trending_rate": 0.5217
+    },
+    "MELON": {
+      "avg_rating": 4.283,
+      "avg_rating_count": 10.9,
+      "trending_rate": 0.6522
+    },
+    "Rajesh Silk Mills": {
+      "avg_rating": 4.078,
+      "avg_rating_count": 79.6,
+      "trending_rate": 0.4783
+    },
+    "JADE BLUE": {
+      "avg_rating": 3.657,
+      "avg_rating_count": 4.0,
+      "trending_rate": 0.3043
+    },
+    "Taanz": {
+      "avg_rating": 3.865,
+      "avg_rating_count": 9.3,
+      "trending_rate": 0.3478
+    },
+    "One Femme": {
+      "avg_rating": 3.974,
+      "avg_rating_count": 12.2,
+      "trending_rate": 0.3913
+    },
+    "LiFashion": {
+      "avg_rating": 4.196,
+      "avg_rating_count": 60.3,
+      "trending_rate": 0.6957
+    },
+    "Checkered Flag Sports": {
+      "avg_rating": 4.635,
+      "avg_rating_count": 33.0,
+      "trending_rate": 0.913
+    },
+    "G-Shock": {
+      "avg_rating": 4.341,
+      "avg_rating_count": 128.0,
+      "trending_rate": 0.7727
+    },
+    "Wintefei": {
+      "avg_rating": 3.845,
+      "avg_rating_count": 180.7,
+      "trending_rate": 0.0455
+    },
+    "Pannkh": {
+      "avg_rating": 3.568,
+      "avg_rating_count": 60.2,
+      "trending_rate": 0.0909
+    },
+    "LADUSAA": {
+      "avg_rating": 4.191,
+      "avg_rating_count": 24.3,
+      "trending_rate": 0.5
+    },
+    "MADAME M SECRET": {
+      "avg_rating": 4.355,
+      "avg_rating_count": 19.1,
+      "trending_rate": 0.8182
+    },
+    "Ecentric": {
+      "avg_rating": 3.873,
+      "avg_rating_count": 10.3,
+      "trending_rate": 0.3636
+    },
+    "Manu": {
+      "avg_rating": 3.705,
+      "avg_rating_count": 6.3,
+      "trending_rate": 0.2273
+    },
+    "MAOFAED": {
+      "avg_rating": 4.623,
+      "avg_rating_count": 51.8,
+      "trending_rate": 1.0
+    },
+    "Tinted": {
+      "avg_rating": 3.905,
+      "avg_rating_count": 49.5,
+      "trending_rate": 0.3182
+    },
+    "SATINIOR": {
+      "avg_rating": 4.268,
+      "avg_rating_count": 1196.8,
+      "trending_rate": 0.6818
+    },
+    "Blissta": {
+      "avg_rating": 3.986,
+      "avg_rating_count": 19.3,
+      "trending_rate": 0.4091
+    },
+    "Sztori Disney": {
+      "avg_rating": 4.509,
+      "avg_rating_count": 41.9,
+      "trending_rate": 0.9545
+    },
+    "THE WEAVE TRAVELLER": {
+      "avg_rating": 4.332,
+      "avg_rating_count": 8.3,
+      "trending_rate": 0.6364
+    },
+    "NEIL ALLYN": {
+      "avg_rating": 3.873,
+      "avg_rating_count": 11.5,
+      "trending_rate": 0.2727
+    },
+    "Uno de 50": {
+      "avg_rating": 4.486,
+      "avg_rating_count": 31.8,
+      "trending_rate": 0.8636
+    },
+    "SHOWOFF": {
+      "avg_rating": 4.255,
+      "avg_rating_count": 3.7,
+      "trending_rate": 0.6818
+    },
+    "FIDO DIDO": {
+      "avg_rating": 3.964,
+      "avg_rating_count": 78.8,
+      "trending_rate": 0.2727
+    },
+    "Chitwan Mohan": {
+      "avg_rating": 3.529,
+      "avg_rating_count": 11.9,
+      "trending_rate": 0.1905
+    },
+    "MOMIN LIBAS": {
+      "avg_rating": 4.01,
+      "avg_rating_count": 7.2,
+      "trending_rate": 0.5714
+    },
+    "HPS Sports": {
+      "avg_rating": 4.086,
+      "avg_rating_count": 25.8,
+      "trending_rate": 0.4286
+    },
+    "RAISIN": {
+      "avg_rating": 3.829,
+      "avg_rating_count": 20.3,
+      "trending_rate": 0.4762
+    },
+    "Metallica": {
+      "avg_rating": 4.362,
+      "avg_rating_count": 64.3,
+      "trending_rate": 0.7619
+    },
+    "Marc Loire": {
+      "avg_rating": 4.133,
+      "avg_rating_count": 23.7,
+      "trending_rate": 0.4762
+    },
+    "Outerstuff": {
+      "avg_rating": 4.371,
+      "avg_rating_count": 19.7,
+      "trending_rate": 0.7143
+    },
+    "OLAIAN By Decathlon": {
+      "avg_rating": 4.124,
+      "avg_rating_count": 39.9,
+      "trending_rate": 0.5714
+    },
+    "NIBOSI": {
+      "avg_rating": 3.948,
+      "avg_rating_count": 79.3,
+      "trending_rate": 0.2857
+    },
+    "Solly Jeans Co.": {
+      "avg_rating": 3.933,
+      "avg_rating_count": 6.7,
+      "trending_rate": 0.4762
+    },
+    "O2 eyewear": {
+      "avg_rating": 3.976,
+      "avg_rating_count": 25.1,
+      "trending_rate": 0.3333
+    },
+    "Vedolay": {
+      "avg_rating": 3.514,
+      "avg_rating_count": 94.2,
+      "trending_rate": 0.0476
+    },
+    "Kenneth Cole": {
+      "avg_rating": 4.014,
+      "avg_rating_count": 9.7,
+      "trending_rate": 0.381
+    },
+    "EraSpooky": {
+      "avg_rating": 3.9,
+      "avg_rating_count": 73.4,
+      "trending_rate": 0.4762
+    },
+    "Naari": {
+      "avg_rating": 3.981,
+      "avg_rating_count": 10.4,
+      "trending_rate": 0.4286
+    },
+    "iLH": {
+      "avg_rating": 3.662,
+      "avg_rating_count": 74.7,
+      "trending_rate": 0.0476
+    },
+    "moda": {
+      "avg_rating": 3.933,
+      "avg_rating_count": 42.2,
+      "trending_rate": 0.3333
+    },
+    "Nabaiji By Decathlon": {
+      "avg_rating": 4.171,
+      "avg_rating_count": 38.1,
+      "trending_rate": 0.5714
+    },
+    "flaher": {
+      "avg_rating": 4.067,
+      "avg_rating_count": 10.7,
+      "trending_rate": 0.5714
+    },
+    "mf": {
+      "avg_rating": 4.252,
+      "avg_rating_count": 40.5,
+      "trending_rate": 0.6667
+    },
+    "Loungefly": {
+      "avg_rating": 4.781,
+      "avg_rating_count": 130.2,
+      "trending_rate": 0.9524
+    },
+    "GALAXYLENSE": {
+      "avg_rating": 3.952,
+      "avg_rating_count": 13.7,
+      "trending_rate": 0.2857
+    },
+    "Bishop Cotton": {
+      "avg_rating": 4.01,
+      "avg_rating_count": 9.2,
+      "trending_rate": 0.4286
+    },
+    "FANTOM JEWELRY": {
+      "avg_rating": 3.538,
+      "avg_rating_count": 64.9,
+      "trending_rate": 0.0952
+    },
+    "PinkLoom": {
+      "avg_rating": 4.414,
+      "avg_rating_count": 6.0,
+      "trending_rate": 0.7619
+    },
+    "Plutus": {
+      "avg_rating": 3.69,
+      "avg_rating_count": 29.5,
+      "trending_rate": 0.0476
+    },
+    "FurryFlair": {
+      "avg_rating": 4.229,
+      "avg_rating_count": 35.5,
+      "trending_rate": 0.619
+    },
+    "Porsorte": {
+      "avg_rating": 3.68,
+      "avg_rating_count": 12.6,
+      "trending_rate": 0.35
+    },
+    "Anoma": {
+      "avg_rating": 3.86,
+      "avg_rating_count": 25.6,
+      "trending_rate": 0.3
+    },
+    "Forca": {
+      "avg_rating": 3.875,
+      "avg_rating_count": 13.4,
+      "trending_rate": 0.4
+    },
+    "Secret Treasures": {
+      "avg_rating": 4.355,
+      "avg_rating_count": 12.9,
+      "trending_rate": 0.8
+    },
+    "Minecraft": {
+      "avg_rating": 4.71,
+      "avg_rating_count": 55.8,
+      "trending_rate": 1.0
+    },
+    "Bolenvi": {
+      "avg_rating": 4.585,
+      "avg_rating_count": 18.3,
+      "trending_rate": 0.85
+    },
+    "PAROKSH": {
+      "avg_rating": 3.86,
+      "avg_rating_count": 8.1,
+      "trending_rate": 0.4
+    },
+    "Ashnaina": {
+      "avg_rating": 3.73,
+      "avg_rating_count": 14.1,
+      "trending_rate": 0.2
+    },
+    "Nanda Silk Mills": {
+      "avg_rating": 4.18,
+      "avg_rating_count": 60.7,
+      "trending_rate": 0.4
+    },
+    "GROVERSONS Paris Beauty": {
+      "avg_rating": 4.25,
+      "avg_rating_count": 8.2,
+      "trending_rate": 0.65
+    },
+    "ISU": {
+      "avg_rating": 4.235,
+      "avg_rating_count": 5.5,
+      "trending_rate": 0.65
+    },
+    "Ginni Arora Label": {
+      "avg_rating": 4.235,
+      "avg_rating_count": 21.0,
+      "trending_rate": 0.7
+    },
+    "Snitch": {
+      "avg_rating": 4.36,
+      "avg_rating_count": 11.2,
+      "trending_rate": 0.75
+    },
+    "PEPPERLONELY": {
+      "avg_rating": 4.435,
+      "avg_rating_count": 11.2,
+      "trending_rate": 0.7
+    },
+    "MARC": {
+      "avg_rating": 4.065,
+      "avg_rating_count": 13.6,
+      "trending_rate": 0.35
+    },
+    "SANGAM PRINTS": {
+      "avg_rating": 4.185,
+      "avg_rating_count": 10.1,
+      "trending_rate": 0.6
+    },
+    "MKH": {
+      "avg_rating": 4.075,
+      "avg_rating_count": 6.2,
+      "trending_rate": 0.4
+    },
+    "QOMN": {
+      "avg_rating": 4.33,
+      "avg_rating_count": 65.5,
+      "trending_rate": 0.85
+    },
+    "iki chic": {
+      "avg_rating": 4.016,
+      "avg_rating_count": 3.8,
+      "trending_rate": 0.5263
+    },
+    "IX IMPRESSION": {
+      "avg_rating": 4.084,
+      "avg_rating_count": 15.0,
+      "trending_rate": 0.4737
+    },
+    "UNDERWRAPS": {
+      "avg_rating": 3.853,
+      "avg_rating_count": 35.7,
+      "trending_rate": 0.3684
+    },
+    "ACTIMAXX": {
+      "avg_rating": 3.868,
+      "avg_rating_count": 8.1,
+      "trending_rate": 0.4211
+    },
+    "Routeen": {
+      "avg_rating": 3.547,
+      "avg_rating_count": 5.8,
+      "trending_rate": 0.2632
+    },
+    "Zenana Outfitters": {
+      "avg_rating": 4.363,
+      "avg_rating_count": 22.3,
+      "trending_rate": 0.7368
+    },
+    "MUSCLE TORQUE": {
+      "avg_rating": 4.305,
+      "avg_rating_count": 11.4,
+      "trending_rate": 0.7895
+    },
+    "ROOTED": {
+      "avg_rating": 3.989,
+      "avg_rating_count": 4.8,
+      "trending_rate": 0.3684
+    },
+    "Youmymine": {
+      "avg_rating": 3.305,
+      "avg_rating_count": 34.6,
+      "trending_rate": 0.1053
+    },
+    "Fbella": {
+      "avg_rating": 3.963,
+      "avg_rating_count": 35.2,
+      "trending_rate": 0.4737
+    },
+    "RUF & TUF": {
+      "avg_rating": 3.742,
+      "avg_rating_count": 24.6,
+      "trending_rate": 0.2632
+    },
+    "LEGO": {
+      "avg_rating": 4.616,
+      "avg_rating_count": 158.1,
+      "trending_rate": 0.9474
+    },
+    "by you": {
+      "avg_rating": 4.189,
+      "avg_rating_count": 19.9,
+      "trending_rate": 0.5263
+    },
+    "Nurse Mates": {
+      "avg_rating": 4.358,
+      "avg_rating_count": 347.6,
+      "trending_rate": 0.7895
+    },
+    "CHUVORA": {
+      "avg_rating": 4.253,
+      "avg_rating_count": 73.6,
+      "trending_rate": 0.6842
+    },
+    "Vera Bradley": {
+      "avg_rating": 4.305,
+      "avg_rating_count": 11.9,
+      "trending_rate": 0.7368
+    },
+    "Key Chain": {
+      "avg_rating": 4.395,
+      "avg_rating_count": 12.4,
+      "trending_rate": 0.6316
+    },
+    "Code 61": {
+      "avg_rating": 4.184,
+      "avg_rating_count": 53.1,
+      "trending_rate": 0.7368
+    },
+    "metaltree98": {
+      "avg_rating": 3.905,
+      "avg_rating_count": 87.8,
+      "trending_rate": 0.4211
+    },
+    "elope": {
+      "avg_rating": 4.321,
+      "avg_rating_count": 122.8,
+      "trending_rate": 0.7368
+    },
+    "ANAISA": {
+      "avg_rating": 3.711,
+      "avg_rating_count": 76.1,
+      "trending_rate": 0.1053
+    },
+    "Bronz": {
+      "avg_rating": 3.989,
+      "avg_rating_count": 15.4,
+      "trending_rate": 0.4211
+    },
+    "Seerat": {
+      "avg_rating": 3.621,
+      "avg_rating_count": 8.4,
+      "trending_rate": 0.3158
+    },
+    "V-Mart": {
+      "avg_rating": 3.905,
+      "avg_rating_count": 6.8,
+      "trending_rate": 0.3684
+    },
+    "Shangrila Creation": {
+      "avg_rating": 4.253,
+      "avg_rating_count": 15.9,
+      "trending_rate": 0.6842
+    },
+    "Fun World": {
+      "avg_rating": 3.753,
+      "avg_rating_count": 65.4,
+      "trending_rate": 0.3158
+    },
+    "Aesthetic Bodies": {
+      "avg_rating": 3.874,
+      "avg_rating_count": 7.9,
+      "trending_rate": 0.2632
+    },
+    "THE SILHOUETTE STORE": {
+      "avg_rating": 3.789,
+      "avg_rating_count": 11.5,
+      "trending_rate": 0.2105
+    },
+    "SeasonsTrading": {
+      "avg_rating": 4.174,
+      "avg_rating_count": 46.7,
+      "trending_rate": 0.6316
+    },
+    "American Eye": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 9.0,
+      "trending_rate": 0.5789
+    },
+    "Military Uniform Supply": {
+      "avg_rating": 4.395,
+      "avg_rating_count": 23.4,
+      "trending_rate": 0.6842
+    },
+    "Carhartt": {
+      "avg_rating": 4.432,
+      "avg_rating_count": 96.1,
+      "trending_rate": 0.7368
+    },
+    "cape canary": {
+      "avg_rating": 3.833,
+      "avg_rating_count": 10.5,
+      "trending_rate": 0.5
+    },
+    "Nicky Bigs Novelties": {
+      "avg_rating": 4.083,
+      "avg_rating_count": 111.1,
+      "trending_rate": 0.5
+    },
+    "VRSALES": {
+      "avg_rating": 4.261,
+      "avg_rating_count": 30.4,
+      "trending_rate": 0.8333
+    },
+    "Nickelodeon": {
+      "avg_rating": 4.472,
+      "avg_rating_count": 66.9,
+      "trending_rate": 0.8333
+    },
+    "Kirkland Signature": {
+      "avg_rating": 4.15,
+      "avg_rating_count": 10.6,
+      "trending_rate": 0.4444
+    },
+    "SockSoho": {
+      "avg_rating": 4.261,
+      "avg_rating_count": 5.9,
+      "trending_rate": 0.6111
+    },
+    "Hurley": {
+      "avg_rating": 4.256,
+      "avg_rating_count": 18.7,
+      "trending_rate": 0.6667
+    },
+    "Lux Cozi": {
+      "avg_rating": 4.339,
+      "avg_rating_count": 18.7,
+      "trending_rate": 0.7222
+    },
+    "RVK": {
+      "avg_rating": 4.367,
+      "avg_rating_count": 6.9,
+      "trending_rate": 0.7222
+    },
+    "Span": {
+      "avg_rating": 3.894,
+      "avg_rating_count": 12.2,
+      "trending_rate": 0.3333
+    },
+    "NDS Niharikaa Designer Studio": {
+      "avg_rating": 4.239,
+      "avg_rating_count": 7.8,
+      "trending_rate": 0.5
+    },
+    "SHUBHVASTRA": {
+      "avg_rating": 4.178,
+      "avg_rating_count": 14.1,
+      "trending_rate": 0.6667
+    },
+    "PORTBLAIR": {
+      "avg_rating": 4.25,
+      "avg_rating_count": 65.6,
+      "trending_rate": 0.7778
+    },
+    "PICOT": {
+      "avg_rating": 4.206,
+      "avg_rating_count": 10.1,
+      "trending_rate": 0.5
+    },
+    "FTW": {
+      "avg_rating": 3.772,
+      "avg_rating_count": 18.3,
+      "trending_rate": 0.3333
+    },
+    "Os": {
+      "avg_rating": 4.161,
+      "avg_rating_count": 114.8,
+      "trending_rate": 0.5556
+    },
+    "Mitchell & Ness": {
+      "avg_rating": 4.578,
+      "avg_rating_count": 17.4,
+      "trending_rate": 0.8333
+    },
+    "SQew": {
+      "avg_rating": 3.928,
+      "avg_rating_count": 67.9,
+      "trending_rate": 0.3889
+    },
+    "Duchess": {
+      "avg_rating": 4.172,
+      "avg_rating_count": 7.9,
+      "trending_rate": 0.4444
+    },
+    "Floerns": {
+      "avg_rating": 3.9,
+      "avg_rating_count": 146.1,
+      "trending_rate": 0.2222
+    },
+    "Fine Fit": {
+      "avg_rating": 4.45,
+      "avg_rating_count": 19.6,
+      "trending_rate": 0.8333
+    },
+    "DesiNoor.com": {
+      "avg_rating": 4.228,
+      "avg_rating_count": 12.6,
+      "trending_rate": 0.8333
+    },
+    "LovelyJewelry": {
+      "avg_rating": 4.056,
+      "avg_rating_count": 51.2,
+      "trending_rate": 0.3889
+    },
+    "Dirndl Trachten Haus": {
+      "avg_rating": 4.406,
+      "avg_rating_count": 37.9,
+      "trending_rate": 0.8333
+    },
+    "Abhishti": {
+      "avg_rating": 4.167,
+      "avg_rating_count": 9.6,
+      "trending_rate": 0.5
+    },
+    "Fasense": {
+      "avg_rating": 4.022,
+      "avg_rating_count": 42.2,
+      "trending_rate": 0.5556
+    },
+    "Wyoming Traders": {
+      "avg_rating": 4.622,
+      "avg_rating_count": 27.2,
+      "trending_rate": 1.0
+    },
+    "ANTI CULTURE": {
+      "avg_rating": 3.95,
+      "avg_rating_count": 9.4,
+      "trending_rate": 0.4444
+    },
+    "Zima Leto": {
+      "avg_rating": 3.967,
+      "avg_rating_count": 120.2,
+      "trending_rate": 0.4444
+    },
+    "Azira": {
+      "avg_rating": 4.0,
+      "avg_rating_count": 148.2,
+      "trending_rate": 0.3889
+    },
+    "Champion": {
+      "avg_rating": 4.356,
+      "avg_rating_count": 145.4,
+      "trending_rate": 0.7222
+    },
+    "Romario Manzini": {
+      "avg_rating": 4.128,
+      "avg_rating_count": 13.5,
+      "trending_rate": 0.6111
+    },
+    "55Carat": {
+      "avg_rating": 3.978,
+      "avg_rating_count": 15.6,
+      "trending_rate": 0.2778
+    },
+    "shyaway": {
+      "avg_rating": 3.912,
+      "avg_rating_count": 7.3,
+      "trending_rate": 0.6471
+    },
+    "emeros": {
+      "avg_rating": 3.741,
+      "avg_rating_count": 10.5,
+      "trending_rate": 0.4118
+    },
+    "BE AWARA": {
+      "avg_rating": 4.212,
+      "avg_rating_count": 11.2,
+      "trending_rate": 0.6471
+    },
+    "RARE ROOTS": {
+      "avg_rating": 4.059,
+      "avg_rating_count": 115.2,
+      "trending_rate": 0.5294
+    },
+    "BEVERLY BLUES": {
+      "avg_rating": 3.876,
+      "avg_rating_count": 4.8,
+      "trending_rate": 0.4706
+    },
+    "Ultimo": {
+      "avg_rating": 4.371,
+      "avg_rating_count": 50.2,
+      "trending_rate": 0.8235
+    },
+    "USonline911": {
+      "avg_rating": 4.447,
+      "avg_rating_count": 302.6,
+      "trending_rate": 0.8235
+    },
+    "Reason Charm": {
+      "avg_rating": 4.3,
+      "avg_rating_count": 35.7,
+      "trending_rate": 0.8824
+    },
+    "Fluffalump": {
+      "avg_rating": 4.135,
+      "avg_rating_count": 5.1,
+      "trending_rate": 0.5882
+    },
+    "Mameraa": {
+      "avg_rating": 3.782,
+      "avg_rating_count": 21.8,
+      "trending_rate": 0.3529
+    },
+    "Mason Zone": {
+      "avg_rating": 4.135,
+      "avg_rating_count": 14.1,
+      "trending_rate": 0.5294
+    },
+    "MoDTanOiz - Flesh tunnels": {
+      "avg_rating": 4.282,
+      "avg_rating_count": 69.9,
+      "trending_rate": 0.7647
+    },
+    "Modern Indian by CHEMISTRY": {
+      "avg_rating": 4.112,
+      "avg_rating_count": 7.2,
+      "trending_rate": 0.5882
+    },
+    "Aarika": {
+      "avg_rating": 3.471,
+      "avg_rating_count": 7.5,
+      "trending_rate": 0.2941
+    },
+    "Magnetic Designs": {
+      "avg_rating": 4.129,
+      "avg_rating_count": 23.6,
+      "trending_rate": 0.5882
+    },
+    "FashionMark": {
+      "avg_rating": 3.788,
+      "avg_rating_count": 22.8,
+      "trending_rate": 0.0588
+    },
+    "MonkeyJack": {
+      "avg_rating": 4.324,
+      "avg_rating_count": 20.4,
+      "trending_rate": 0.7059
+    },
+    "JAIPUR ATTIRE": {
+      "avg_rating": 4.106,
+      "avg_rating_count": 73.6,
+      "trending_rate": 0.4118
+    },
+    "PRIDE APPAREL": {
+      "avg_rating": 3.976,
+      "avg_rating_count": 10.2,
+      "trending_rate": 0.4706
+    },
+    "32\u00ba DEGREES": {
+      "avg_rating": 4.512,
+      "avg_rating_count": 15.4,
+      "trending_rate": 0.7647
+    },
+    "Clt.s": {
+      "avg_rating": 4.065,
+      "avg_rating_count": 8.1,
+      "trending_rate": 0.5882
+    },
+    "NA-KD": {
+      "avg_rating": 3.859,
+      "avg_rating_count": 3.8,
+      "trending_rate": 0.4118
+    },
+    "KAMI KUBI": {
+      "avg_rating": 4.071,
+      "avg_rating_count": 5.7,
+      "trending_rate": 0.4706
+    },
+    "Dreambell": {
+      "avg_rating": 4.318,
+      "avg_rating_count": 29.5,
+      "trending_rate": 0.7059
+    },
+    "amscan": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 86.0,
+      "trending_rate": 0.5882
+    },
+    "FlameReflection": {
+      "avg_rating": 4.019,
+      "avg_rating_count": 164.4,
+      "trending_rate": 0.25
+    },
+    "Lotto": {
+      "avg_rating": 3.794,
+      "avg_rating_count": 12.0,
+      "trending_rate": 0.1875
+    },
+    "Rolling Stones": {
+      "avg_rating": 4.306,
+      "avg_rating_count": 31.1,
+      "trending_rate": 0.5625
+    },
+    "Unlimited Embroidery": {
+      "avg_rating": 4.369,
+      "avg_rating_count": 25.8,
+      "trending_rate": 0.875
+    },
+    "Turtle Fur": {
+      "avg_rating": 4.463,
+      "avg_rating_count": 45.1,
+      "trending_rate": 0.8125
+    },
+    "Queenberry": {
+      "avg_rating": 3.888,
+      "avg_rating_count": 29.1,
+      "trending_rate": 0.25
+    },
+    "Choppers": {
+      "avg_rating": 3.969,
+      "avg_rating_count": 45.3,
+      "trending_rate": 0.25
+    },
+    "Louis Philippe Ath.Work": {
+      "avg_rating": 4.331,
+      "avg_rating_count": 15.2,
+      "trending_rate": 0.625
+    },
+    "Vans": {
+      "avg_rating": 4.369,
+      "avg_rating_count": 43.8,
+      "trending_rate": 0.6875
+    },
+    "Get Wrapped": {
+      "avg_rating": 3.875,
+      "avg_rating_count": 13.1,
+      "trending_rate": 0.25
+    },
+    "Fitovers": {
+      "avg_rating": 4.338,
+      "avg_rating_count": 11.1,
+      "trending_rate": 0.625
+    },
+    "Body Accentz": {
+      "avg_rating": 3.806,
+      "avg_rating_count": 35.4,
+      "trending_rate": 0.1875
+    },
+    "ZOEYAMS": {
+      "avg_rating": 3.981,
+      "avg_rating_count": 37.3,
+      "trending_rate": 0.375
+    },
+    "DUPATTA BAZAAR": {
+      "avg_rating": 3.844,
+      "avg_rating_count": 139.8,
+      "trending_rate": 0.25
+    },
+    "LUX ACCESSORIES": {
+      "avg_rating": 3.781,
+      "avg_rating_count": 86.6,
+      "trending_rate": 0.125
+    },
+    "Fab Dadu": {
+      "avg_rating": 4.056,
+      "avg_rating_count": 9.2,
+      "trending_rate": 0.5625
+    },
+    "SAADHVI": {
+      "avg_rating": 3.081,
+      "avg_rating_count": 4.4,
+      "trending_rate": 0.0625
+    },
+    "Kiana": {
+      "avg_rating": 3.819,
+      "avg_rating_count": 7.3,
+      "trending_rate": 0.4375
+    },
+    "Spiral": {
+      "avg_rating": 4.3,
+      "avg_rating_count": 278.1,
+      "trending_rate": 0.625
+    },
+    "Soulbreezecollection": {
+      "avg_rating": 4.35,
+      "avg_rating_count": 40.8,
+      "trending_rate": 0.75
+    },
+    "Dolphin Shirt Co": {
+      "avg_rating": 4.425,
+      "avg_rating_count": 15.7,
+      "trending_rate": 0.625
+    },
+    "Cardinali Jewelry": {
+      "avg_rating": 4.338,
+      "avg_rating_count": 8.8,
+      "trending_rate": 0.6875
+    },
+    "Swishchick": {
+      "avg_rating": 4.025,
+      "avg_rating_count": 13.8,
+      "trending_rate": 0.4375
+    },
+    "FBF": {
+      "avg_rating": 4.656,
+      "avg_rating_count": 63.8,
+      "trending_rate": 0.9375
+    },
+    "JoE Hazel": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 13.5,
+      "trending_rate": 0.625
+    },
+    "Woods": {
+      "avg_rating": 4.256,
+      "avg_rating_count": 5.8,
+      "trending_rate": 0.625
+    },
+    "Wolfpack": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 7.5,
+      "trending_rate": 0.6875
+    },
+    "NIXX": {
+      "avg_rating": 3.925,
+      "avg_rating_count": 7.2,
+      "trending_rate": 0.5
+    },
+    "Softskin": {
+      "avg_rating": 4.206,
+      "avg_rating_count": 25.1,
+      "trending_rate": 0.6875
+    },
+    "YourStyle USA": {
+      "avg_rating": 3.9,
+      "avg_rating_count": 9.4,
+      "trending_rate": 0.375
+    },
+    "PORI JEWELERS": {
+      "avg_rating": 3.987,
+      "avg_rating_count": 20.6,
+      "trending_rate": 0.4375
+    },
+    "Globon Impex": {
+      "avg_rating": 4.169,
+      "avg_rating_count": 42.2,
+      "trending_rate": 0.625
+    },
+    "Elite Glasses": {
+      "avg_rating": 3.938,
+      "avg_rating_count": 29.8,
+      "trending_rate": 0.3125
+    },
+    "EleQueen": {
+      "avg_rating": 4.319,
+      "avg_rating_count": 26.2,
+      "trending_rate": 0.6875
+    },
+    "DECKY": {
+      "avg_rating": 3.969,
+      "avg_rating_count": 11.8,
+      "trending_rate": 0.3125
+    },
+    "Reveira": {
+      "avg_rating": 3.638,
+      "avg_rating_count": 13.9,
+      "trending_rate": 0.1875
+    },
+    "ROVING MODE": {
+      "avg_rating": 3.65,
+      "avg_rating_count": 49.7,
+      "trending_rate": 0.3125
+    },
+    "Craftique": {
+      "avg_rating": 4.519,
+      "avg_rating_count": 9.1,
+      "trending_rate": 0.8125
+    },
+    "armure": {
+      "avg_rating": 3.362,
+      "avg_rating_count": 9.2,
+      "trending_rate": 0.0625
+    },
+    "AASK": {
+      "avg_rating": 4.031,
+      "avg_rating_count": 35.0,
+      "trending_rate": 0.4375
+    },
+    "urSense": {
+      "avg_rating": 4.287,
+      "avg_rating_count": 9.1,
+      "trending_rate": 0.6667
+    },
+    "YOOSIDE": {
+      "avg_rating": 4.033,
+      "avg_rating_count": 152.9,
+      "trending_rate": 0.4
+    },
+    "pinwheel": {
+      "avg_rating": 4.193,
+      "avg_rating_count": 15.3,
+      "trending_rate": 0.4667
+    },
+    "Inkstone": {
+      "avg_rating": 4.62,
+      "avg_rating_count": 141.7,
+      "trending_rate": 1.0
+    },
+    "Indian Motorcycle": {
+      "avg_rating": 4.567,
+      "avg_rating_count": 25.3,
+      "trending_rate": 0.9333
+    },
+    "aasi": {
+      "avg_rating": 3.827,
+      "avg_rating_count": 154.5,
+      "trending_rate": 0.3333
+    },
+    "Newport": {
+      "avg_rating": 3.84,
+      "avg_rating_count": 11.4,
+      "trending_rate": 0.1333
+    },
+    "Sexy Sparkles": {
+      "avg_rating": 3.773,
+      "avg_rating_count": 18.8,
+      "trending_rate": 0.4
+    },
+    "Orient": {
+      "avg_rating": 4.467,
+      "avg_rating_count": 72.9,
+      "trending_rate": 0.8667
+    },
+    "Desert Cactus": {
+      "avg_rating": 4.547,
+      "avg_rating_count": 57.9,
+      "trending_rate": 1.0
+    },
+    "Wonder Woman": {
+      "avg_rating": 4.247,
+      "avg_rating_count": 72.0,
+      "trending_rate": 0.7333
+    },
+    "Sloggi": {
+      "avg_rating": 4.347,
+      "avg_rating_count": 851.3,
+      "trending_rate": 0.7333
+    },
+    "Genx": {
+      "avg_rating": 3.453,
+      "avg_rating_count": 11.1,
+      "trending_rate": 0.0667
+    },
+    "ShiQiao Spl": {
+      "avg_rating": 4.38,
+      "avg_rating_count": 276.6,
+      "trending_rate": 0.8
+    },
+    "Greenfibre": {
+      "avg_rating": 4.113,
+      "avg_rating_count": 6.2,
+      "trending_rate": 0.5333
+    },
+    "The Next Level": {
+      "avg_rating": 4.553,
+      "avg_rating_count": 10.3,
+      "trending_rate": 0.8667
+    },
+    "Rothco": {
+      "avg_rating": 4.16,
+      "avg_rating_count": 41.9,
+      "trending_rate": 0.4667
+    },
+    "MPL SPORTS": {
+      "avg_rating": 4.26,
+      "avg_rating_count": 22.8,
+      "trending_rate": 0.6667
+    },
+    "ZUSH": {
+      "avg_rating": 4.26,
+      "avg_rating_count": 9.8,
+      "trending_rate": 0.6
+    },
+    "ANMI": {
+      "avg_rating": 4.067,
+      "avg_rating_count": 26.8,
+      "trending_rate": 0.4
+    },
+    "Zotw": {
+      "avg_rating": 3.207,
+      "avg_rating_count": 14.3,
+      "trending_rate": 0.0667
+    },
+    "Knocker": {
+      "avg_rating": 3.66,
+      "avg_rating_count": 97.0,
+      "trending_rate": 0.1333
+    },
+    "Femme Luxe": {
+      "avg_rating": 3.207,
+      "avg_rating_count": 4.7,
+      "trending_rate": 0.2
+    },
+    "Mountain Warehouse": {
+      "avg_rating": 4.227,
+      "avg_rating_count": 429.1,
+      "trending_rate": 0.7333
+    },
+    "Antony Morato": {
+      "avg_rating": 4.187,
+      "avg_rating_count": 4.3,
+      "trending_rate": 0.6
+    },
+    "PUNK": {
+      "avg_rating": 4.133,
+      "avg_rating_count": 5.4,
+      "trending_rate": 0.5333
+    },
+    "My Saint My Hero": {
+      "avg_rating": 4.533,
+      "avg_rating_count": 21.5,
+      "trending_rate": 0.8667
+    },
+    "WEDZE By Decathlon": {
+      "avg_rating": 4.373,
+      "avg_rating_count": 148.3,
+      "trending_rate": 0.8
+    },
+    "SHOP LC DELIVERING JOY": {
+      "avg_rating": 4.133,
+      "avg_rating_count": 31.5,
+      "trending_rate": 0.4
+    },
+    "Solar Shield": {
+      "avg_rating": 4.18,
+      "avg_rating_count": 24.3,
+      "trending_rate": 0.6667
+    },
+    "Nation Polo Club": {
+      "avg_rating": 4.1,
+      "avg_rating_count": 132.9,
+      "trending_rate": 0.5333
+    },
+    "NAVYSPORT": {
+      "avg_rating": 4.38,
+      "avg_rating_count": 112.5,
+      "trending_rate": 0.8667
+    },
+    "Caiyao": {
+      "avg_rating": 3.88,
+      "avg_rating_count": 10.6,
+      "trending_rate": 0.3333
+    },
+    "SEIKO": {
+      "avg_rating": 4.32,
+      "avg_rating_count": 37.4,
+      "trending_rate": 0.6667
+    },
+    "LilyJewelry": {
+      "avg_rating": 4.133,
+      "avg_rating_count": 23.8,
+      "trending_rate": 0.4667
+    },
+    "every de by amante": {
+      "avg_rating": 4.127,
+      "avg_rating_count": 40.3,
+      "trending_rate": 0.6
+    },
+    "Free People": {
+      "avg_rating": 3.993,
+      "avg_rating_count": 10.9,
+      "trending_rate": 0.4
+    },
+    "Rosemarie Collections": {
+      "avg_rating": 3.933,
+      "avg_rating_count": 56.5,
+      "trending_rate": 0.4
+    },
+    "VARUSHKA": {
+      "avg_rating": 3.887,
+      "avg_rating_count": 13.1,
+      "trending_rate": 0.4
+    },
+    "An Episode": {
+      "avg_rating": 3.913,
+      "avg_rating_count": 15.9,
+      "trending_rate": 0.4667
+    },
+    "SweatyRocks": {
+      "avg_rating": 3.921,
+      "avg_rating_count": 475.6,
+      "trending_rate": 0.3571
+    },
+    "National": {
+      "avg_rating": 4.143,
+      "avg_rating_count": 82.4,
+      "trending_rate": 0.5
+    },
+    "Speidel": {
+      "avg_rating": 4.321,
+      "avg_rating_count": 134.9,
+      "trending_rate": 0.7857
+    },
+    "SIMON CARTER LONDON": {
+      "avg_rating": 3.786,
+      "avg_rating_count": 4.4,
+      "trending_rate": 0.4286
+    },
+    "PrettyPlus by Desinoor.com": {
+      "avg_rating": 4.321,
+      "avg_rating_count": 17.7,
+      "trending_rate": 0.7143
+    },
+    "Ginger Snaps": {
+      "avg_rating": 4.657,
+      "avg_rating_count": 31.1,
+      "trending_rate": 0.9286
+    },
+    "Southern Seas": {
+      "avg_rating": 3.65,
+      "avg_rating_count": 28.1,
+      "trending_rate": 0.0
+    },
+    "Silai Bunai": {
+      "avg_rating": 4.021,
+      "avg_rating_count": 17.1,
+      "trending_rate": 0.4286
+    },
+    "Om Shantam Sarees": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 14.8,
+      "trending_rate": 0.5714
+    },
+    "GoSriKi": {
+      "avg_rating": 3.793,
+      "avg_rating_count": 116.1,
+      "trending_rate": 0.1429
+    },
+    "JISORA": {
+      "avg_rating": 4.236,
+      "avg_rating_count": 15.2,
+      "trending_rate": 0.5714
+    },
+    "Aasiya": {
+      "avg_rating": 4.086,
+      "avg_rating_count": 40.9,
+      "trending_rate": 0.4286
+    },
+    "OTORVA": {
+      "avg_rating": 4.429,
+      "avg_rating_count": 6.3,
+      "trending_rate": 0.7143
+    },
+    "Napoo": {
+      "avg_rating": 3.836,
+      "avg_rating_count": 37.1,
+      "trending_rate": 0.2857
+    },
+    "Nakshi": {
+      "avg_rating": 3.614,
+      "avg_rating_count": 8.5,
+      "trending_rate": 0.3571
+    },
+    "Oxford Diamond Co": {
+      "avg_rating": 3.957,
+      "avg_rating_count": 10.3,
+      "trending_rate": 0.5
+    },
+    "Oxemberg": {
+      "avg_rating": 3.593,
+      "avg_rating_count": 2.8,
+      "trending_rate": 0.2143
+    },
+    "elleven": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 5.4,
+      "trending_rate": 0.6429
+    },
+    "Neerus": {
+      "avg_rating": 3.186,
+      "avg_rating_count": 5.8,
+      "trending_rate": 0.0714
+    },
+    "New Balance": {
+      "avg_rating": 4.25,
+      "avg_rating_count": 7.7,
+      "trending_rate": 0.6429
+    },
+    "Safety Depot": {
+      "avg_rating": 4.314,
+      "avg_rating_count": 18.8,
+      "trending_rate": 0.7143
+    },
+    "Head": {
+      "avg_rating": 4.179,
+      "avg_rating_count": 4.3,
+      "trending_rate": 0.5
+    },
+    "Howstar": {
+      "avg_rating": 3.493,
+      "avg_rating_count": 74.1,
+      "trending_rate": 0.1429
+    },
+    "Foozys": {
+      "avg_rating": 4.636,
+      "avg_rating_count": 125.9,
+      "trending_rate": 1.0
+    },
+    "Purple Hanger": {
+      "avg_rating": 3.807,
+      "avg_rating_count": 18.6,
+      "trending_rate": 0.2857
+    },
+    "Bali": {
+      "avg_rating": 3.9,
+      "avg_rating_count": 16.3,
+      "trending_rate": 0.5
+    },
+    "SENFAI": {
+      "avg_rating": 4.143,
+      "avg_rating_count": 15.9,
+      "trending_rate": 0.5714
+    },
+    "Timberland": {
+      "avg_rating": 4.45,
+      "avg_rating_count": 48.5,
+      "trending_rate": 0.8571
+    },
+    "Powerpuff Girls by Kook N Keech": {
+      "avg_rating": 4.293,
+      "avg_rating_count": 96.1,
+      "trending_rate": 0.7857
+    },
+    "TANKHI": {
+      "avg_rating": 3.807,
+      "avg_rating_count": 14.8,
+      "trending_rate": 0.1429
+    },
+    "More Toe Rings": {
+      "avg_rating": 4.071,
+      "avg_rating_count": 21.8,
+      "trending_rate": 0.5
+    },
+    "Llajja": {
+      "avg_rating": 4.421,
+      "avg_rating_count": 8.9,
+      "trending_rate": 0.7857
+    },
+    "Pothys": {
+      "avg_rating": 3.671,
+      "avg_rating_count": 9.4,
+      "trending_rate": 0.4286
+    },
+    "MJ Metals Jewelry": {
+      "avg_rating": 4.529,
+      "avg_rating_count": 46.5,
+      "trending_rate": 1.0
+    },
+    "MOKSHA DESIGNS": {
+      "avg_rating": 3.764,
+      "avg_rating_count": 10.4,
+      "trending_rate": 0.3571
+    },
+    "7ZACC": {
+      "avg_rating": 3.636,
+      "avg_rating_count": 40.6,
+      "trending_rate": 0.0714
+    },
+    "513": {
+      "avg_rating": 4.379,
+      "avg_rating_count": 39.3,
+      "trending_rate": 0.7143
+    },
+    "Tisoro": {
+      "avg_rating": 4.064,
+      "avg_rating_count": 24.4,
+      "trending_rate": 0.4286
+    },
+    "Forever Glam by Pantaloons": {
+      "avg_rating": 4.023,
+      "avg_rating_count": 10.2,
+      "trending_rate": 0.5385
+    },
+    "R.Vivimos": {
+      "avg_rating": 3.531,
+      "avg_rating_count": 84.2,
+      "trending_rate": 0.0769
+    },
+    "Timex": {
+      "avg_rating": 4.385,
+      "avg_rating_count": 99.1,
+      "trending_rate": 0.6154
+    },
+    "Bodysocks Fancy Dress": {
+      "avg_rating": 4.069,
+      "avg_rating_count": 97.6,
+      "trending_rate": 0.3846
+    },
+    "FlashingBlinkyLights": {
+      "avg_rating": 4.154,
+      "avg_rating_count": 55.5,
+      "trending_rate": 0.4615
+    },
+    "Icon Sports": {
+      "avg_rating": 4.6,
+      "avg_rating_count": 20.4,
+      "trending_rate": 0.8462
+    },
+    "Castle": {
+      "avg_rating": 3.954,
+      "avg_rating_count": 43.6,
+      "trending_rate": 0.3846
+    },
+    "RAREISM": {
+      "avg_rating": 3.985,
+      "avg_rating_count": 5.0,
+      "trending_rate": 0.4615
+    },
+    "Inesis By Decathlon": {
+      "avg_rating": 4.115,
+      "avg_rating_count": 79.6,
+      "trending_rate": 0.7692
+    },
+    "Converse": {
+      "avg_rating": 4.1,
+      "avg_rating_count": 14.5,
+      "trending_rate": 0.4615
+    },
+    "Rapra The Label": {
+      "avg_rating": 3.5,
+      "avg_rating_count": 3.8,
+      "trending_rate": 0.2308
+    },
+    "jAc": {
+      "avg_rating": 4.023,
+      "avg_rating_count": 90.3,
+      "trending_rate": 0.4615
+    },
+    "Juniper Plus": {
+      "avg_rating": 4.185,
+      "avg_rating_count": 22.0,
+      "trending_rate": 0.6154
+    },
+    "XOXO Design": {
+      "avg_rating": 3.754,
+      "avg_rating_count": 7.6,
+      "trending_rate": 0.2308
+    },
+    "CIERGE": {
+      "avg_rating": 3.931,
+      "avg_rating_count": 5.2,
+      "trending_rate": 0.3846
+    },
+    "Go All Out": {
+      "avg_rating": 4.638,
+      "avg_rating_count": 10.3,
+      "trending_rate": 0.9231
+    },
+    "John Deere": {
+      "avg_rating": 4.462,
+      "avg_rating_count": 56.0,
+      "trending_rate": 0.8462
+    },
+    "NELEUS": {
+      "avg_rating": 4.438,
+      "avg_rating_count": 8629.1,
+      "trending_rate": 1.0
+    },
+    "Socksmith": {
+      "avg_rating": 4.577,
+      "avg_rating_count": 73.4,
+      "trending_rate": 0.9231
+    },
+    "I AM FOR YOU": {
+      "avg_rating": 4.031,
+      "avg_rating_count": 18.2,
+      "trending_rate": 0.3846
+    },
+    "A & L Engraving": {
+      "avg_rating": 4.123,
+      "avg_rating_count": 17.0,
+      "trending_rate": 0.4615
+    },
+    "Lavanya The Label": {
+      "avg_rating": 3.785,
+      "avg_rating_count": 4.5,
+      "trending_rate": 0.4615
+    },
+    "Badoliya & Sons": {
+      "avg_rating": 4.408,
+      "avg_rating_count": 15.0,
+      "trending_rate": 0.7692
+    },
+    "Tissu": {
+      "avg_rating": 4.346,
+      "avg_rating_count": 365.0,
+      "trending_rate": 0.9231
+    },
+    "Look-It Activewear": {
+      "avg_rating": 4.354,
+      "avg_rating_count": 10.0,
+      "trending_rate": 0.6154
+    },
+    "Roma Costume": {
+      "avg_rating": 3.808,
+      "avg_rating_count": 14.7,
+      "trending_rate": 0.1538
+    },
+    "Pokemon": {
+      "avg_rating": 4.415,
+      "avg_rating_count": 78.4,
+      "trending_rate": 0.6923
+    },
+    "Patch Collection": {
+      "avg_rating": 4.638,
+      "avg_rating_count": 21.5,
+      "trending_rate": 0.7692
+    },
+    "Laa Calcutta": {
+      "avg_rating": 3.638,
+      "avg_rating_count": 4.5,
+      "trending_rate": 0.3077
+    },
+    "Fundraising For A Cause": {
+      "avg_rating": 4.323,
+      "avg_rating_count": 27.5,
+      "trending_rate": 0.6923
+    },
+    "VEDANA": {
+      "avg_rating": 4.146,
+      "avg_rating_count": 9.8,
+      "trending_rate": 0.6154
+    },
+    "HRX": {
+      "avg_rating": 4.462,
+      "avg_rating_count": 12.9,
+      "trending_rate": 0.6923
+    },
+    "Harley-Davidson": {
+      "avg_rating": 4.7,
+      "avg_rating_count": 47.2,
+      "trending_rate": 1.0
+    },
+    "Creeva": {
+      "avg_rating": 4.377,
+      "avg_rating_count": 8.0,
+      "trending_rate": 0.7692
+    },
+    "TARAMA": {
+      "avg_rating": 3.962,
+      "avg_rating_count": 29.7,
+      "trending_rate": 0.3077
+    },
+    "Birkenstock": {
+      "avg_rating": 4.154,
+      "avg_rating_count": 41.5,
+      "trending_rate": 0.5385
+    },
+    "Blacksmith": {
+      "avg_rating": 3.977,
+      "avg_rating_count": 9.5,
+      "trending_rate": 0.5385
+    },
+    "Matty M": {
+      "avg_rating": 3.823,
+      "avg_rating_count": 7.8,
+      "trending_rate": 0.3846
+    },
+    "Vento": {
+      "avg_rating": 4.138,
+      "avg_rating_count": 21.7,
+      "trending_rate": 0.5385
+    },
+    "Bling Jewelry": {
+      "avg_rating": 3.838,
+      "avg_rating_count": 57.2,
+      "trending_rate": 0.0769
+    },
+    "MallGoodies": {
+      "avg_rating": 4.269,
+      "avg_rating_count": 15.5,
+      "trending_rate": 0.5385
+    },
+    "Soul Space": {
+      "avg_rating": 3.785,
+      "avg_rating_count": 8.4,
+      "trending_rate": 0.4615
+    },
+    "THANGAMAGAN": {
+      "avg_rating": 3.8,
+      "avg_rating_count": 5.9,
+      "trending_rate": 0.3846
+    },
+    "SUTI": {
+      "avg_rating": 3.408,
+      "avg_rating_count": 10.5,
+      "trending_rate": 0.1538
+    },
+    "Dreamgirl": {
+      "avg_rating": 4.023,
+      "avg_rating_count": 56.2,
+      "trending_rate": 0.3077
+    },
+    "SHOP AWARDS AND GIFTS": {
+      "avg_rating": 4.662,
+      "avg_rating_count": 20.1,
+      "trending_rate": 0.8462
+    },
+    "Pashtush": {
+      "avg_rating": 4.123,
+      "avg_rating_count": 13.3,
+      "trending_rate": 0.5385
+    },
+    "KATSO": {
+      "avg_rating": 3.746,
+      "avg_rating_count": 23.2,
+      "trending_rate": 0.1538
+    },
+    "KODORIA": {
+      "avg_rating": 3.969,
+      "avg_rating_count": 53.3,
+      "trending_rate": 0.5385
+    },
+    "OBOW": {
+      "avg_rating": 4.108,
+      "avg_rating_count": 8.3,
+      "trending_rate": 0.5385
+    },
+    "Skidlers": {
+      "avg_rating": 3.615,
+      "avg_rating_count": 7.7,
+      "trending_rate": 0.3077
+    },
+    "Modeve": {
+      "avg_rating": 4.077,
+      "avg_rating_count": 6.2,
+      "trending_rate": 0.5385
+    },
+    "FEELMEM": {
+      "avg_rating": 4.515,
+      "avg_rating_count": 33.5,
+      "trending_rate": 0.9231
+    },
+    "DKNY": {
+      "avg_rating": 4.338,
+      "avg_rating_count": 15.2,
+      "trending_rate": 0.6154
+    },
+    "TERQUOIS": {
+      "avg_rating": 4.169,
+      "avg_rating_count": 76.6,
+      "trending_rate": 0.6154
+    },
+    "Smiffys": {
+      "avg_rating": 3.917,
+      "avg_rating_count": 131.9,
+      "trending_rate": 0.3333
+    },
+    "NIXON": {
+      "avg_rating": 4.342,
+      "avg_rating_count": 24.0,
+      "trending_rate": 0.8333
+    },
+    "CLGIFT": {
+      "avg_rating": 4.417,
+      "avg_rating_count": 95.4,
+      "trending_rate": 0.9167
+    },
+    "Oulm": {
+      "avg_rating": 3.8,
+      "avg_rating_count": 15.0,
+      "trending_rate": 0.1667
+    },
+    "AbbyLexi": {
+      "avg_rating": 4.692,
+      "avg_rating_count": 19.8,
+      "trending_rate": 1.0
+    },
+    "Hotlion": {
+      "avg_rating": 4.308,
+      "avg_rating_count": 29.6,
+      "trending_rate": 0.8333
+    },
+    "Conditions Apply": {
+      "avg_rating": 4.083,
+      "avg_rating_count": 29.0,
+      "trending_rate": 0.5833
+    },
+    "lauhonmin": {
+      "avg_rating": 4.583,
+      "avg_rating_count": 73.2,
+      "trending_rate": 1.0
+    },
+    "AMERICAN NEEDLE": {
+      "avg_rating": 4.483,
+      "avg_rating_count": 71.8,
+      "trending_rate": 0.75
+    },
+    "Rapid Dominance": {
+      "avg_rating": 4.108,
+      "avg_rating_count": 74.0,
+      "trending_rate": 0.4167
+    },
+    "Ojjasvi": {
+      "avg_rating": 4.033,
+      "avg_rating_count": 66.2,
+      "trending_rate": 0.6667
+    },
+    "COBB": {
+      "avg_rating": 3.808,
+      "avg_rating_count": 81.5,
+      "trending_rate": 0.1667
+    },
+    "Hot Leathers": {
+      "avg_rating": 4.358,
+      "avg_rating_count": 63.3,
+      "trending_rate": 0.8333
+    },
+    "3PIN": {
+      "avg_rating": 4.275,
+      "avg_rating_count": 8.9,
+      "trending_rate": 0.6667
+    },
+    "Wrapables": {
+      "avg_rating": 3.658,
+      "avg_rating_count": 20.6,
+      "trending_rate": 0.1667
+    },
+    "Waozshangu": {
+      "avg_rating": 4.358,
+      "avg_rating_count": 55.9,
+      "trending_rate": 0.75
+    },
+    "Jeep": {
+      "avg_rating": 4.342,
+      "avg_rating_count": 84.2,
+      "trending_rate": 0.75
+    },
+    "Abiti Bella": {
+      "avg_rating": 4.142,
+      "avg_rating_count": 21.3,
+      "trending_rate": 0.3333
+    },
+    "Geneva": {
+      "avg_rating": 3.908,
+      "avg_rating_count": 31.6,
+      "trending_rate": 0.25
+    },
+    "Southbay": {
+      "avg_rating": 3.767,
+      "avg_rating_count": 9.2,
+      "trending_rate": 0.4167
+    },
+    "Genius18": {
+      "avg_rating": 4.017,
+      "avg_rating_count": 124.0,
+      "trending_rate": 0.4167
+    },
+    "WOCACHI": {
+      "avg_rating": 3.325,
+      "avg_rating_count": 13.2,
+      "trending_rate": 0.0833
+    },
+    "NineJewelry": {
+      "avg_rating": 4.183,
+      "avg_rating_count": 21.7,
+      "trending_rate": 0.6667
+    },
+    "Justanned": {
+      "avg_rating": 4.133,
+      "avg_rating_count": 20.7,
+      "trending_rate": 0.4167
+    },
+    "Capezio": {
+      "avg_rating": 4.133,
+      "avg_rating_count": 743.4,
+      "trending_rate": 0.5
+    },
+    "Earthen BY INDYA": {
+      "avg_rating": 4.1,
+      "avg_rating_count": 13.8,
+      "trending_rate": 0.6667
+    },
+    "SUIT YOURSELF": {
+      "avg_rating": 4.075,
+      "avg_rating_count": 43.2,
+      "trending_rate": 0.25
+    },
+    "Palakh": {
+      "avg_rating": 4.358,
+      "avg_rating_count": 15.1,
+      "trending_rate": 0.75
+    },
+    "TRENDY DIVVA": {
+      "avg_rating": 4.125,
+      "avg_rating_count": 53.7,
+      "trending_rate": 0.5833
+    },
+    "Bitter Sweet Store": {
+      "avg_rating": 3.833,
+      "avg_rating_count": 20.7,
+      "trending_rate": 0.25
+    },
+    "Kipsta By Decathlon": {
+      "avg_rating": 4.3,
+      "avg_rating_count": 82.3,
+      "trending_rate": 0.6667
+    },
+    "Geyoga": {
+      "avg_rating": 4.183,
+      "avg_rating_count": 55.5,
+      "trending_rate": 0.5833
+    },
+    "GIORDANO": {
+      "avg_rating": 3.783,
+      "avg_rating_count": 6.5,
+      "trending_rate": 0.3333
+    },
+    "Kosha": {
+      "avg_rating": 3.883,
+      "avg_rating_count": 4.9,
+      "trending_rate": 0.4167
+    },
+    "Meiligo": {
+      "avg_rating": 4.117,
+      "avg_rating_count": 58.8,
+      "trending_rate": 0.5833
+    },
+    "FAVOROSKI": {
+      "avg_rating": 3.908,
+      "avg_rating_count": 41.5,
+      "trending_rate": 0.1667
+    },
+    "Starline": {
+      "avg_rating": 4.0,
+      "avg_rating_count": 74.4,
+      "trending_rate": 0.4167
+    },
+    "FLX By Decathlon": {
+      "avg_rating": 4.15,
+      "avg_rating_count": 32.7,
+      "trending_rate": 0.4167
+    },
+    "KemetArt": {
+      "avg_rating": 4.408,
+      "avg_rating_count": 9.7,
+      "trending_rate": 0.8333
+    },
+    "Malachi": {
+      "avg_rating": 3.817,
+      "avg_rating_count": 32.2,
+      "trending_rate": 0.25
+    },
+    "DC Comics": {
+      "avg_rating": 4.292,
+      "avg_rating_count": 37.6,
+      "trending_rate": 0.6667
+    },
+    "Aaruvi Ruchi Verma": {
+      "avg_rating": 4.325,
+      "avg_rating_count": 26.7,
+      "trending_rate": 0.6667
+    },
+    "ATTIITUDE": {
+      "avg_rating": 3.892,
+      "avg_rating_count": 8.8,
+      "trending_rate": 0.5
+    },
+    "Pinsanity": {
+      "avg_rating": 4.725,
+      "avg_rating_count": 121.9,
+      "trending_rate": 1.0
+    },
+    "Fun Express": {
+      "avg_rating": 4.017,
+      "avg_rating_count": 42.4,
+      "trending_rate": 0.5833
+    },
+    "Funny Girl Designs": {
+      "avg_rating": 4.575,
+      "avg_rating_count": 18.8,
+      "trending_rate": 0.9167
+    },
+    "VAIRAGEE": {
+      "avg_rating": 3.508,
+      "avg_rating_count": 8.8,
+      "trending_rate": 0.5833
+    },
+    "VEGA": {
+      "avg_rating": 4.133,
+      "avg_rating_count": 5.8,
+      "trending_rate": 0.5833
+    },
+    "Billabong": {
+      "avg_rating": 4.483,
+      "avg_rating_count": 15.1,
+      "trending_rate": 0.8333
+    },
+    "TheSupplyRoom": {
+      "avg_rating": 4.417,
+      "avg_rating_count": 21.6,
+      "trending_rate": 0.6667
+    },
+    "Bellofox": {
+      "avg_rating": 2.983,
+      "avg_rating_count": 18.5,
+      "trending_rate": 0.0833
+    },
+    "Linsery": {
+      "avg_rating": 2.975,
+      "avg_rating_count": 9.8,
+      "trending_rate": 0.0833
+    },
+    "Religious Gifts": {
+      "avg_rating": 4.4,
+      "avg_rating_count": 151.1,
+      "trending_rate": 0.75
+    },
+    "Lee Cooper": {
+      "avg_rating": 4.167,
+      "avg_rating_count": 20.8,
+      "trending_rate": 0.5
+    },
+    "Final Touch Gifts": {
+      "avg_rating": 4.4,
+      "avg_rating_count": 11.2,
+      "trending_rate": 0.8333
+    },
+    "Disguise": {
+      "avg_rating": 3.958,
+      "avg_rating_count": 213.2,
+      "trending_rate": 0.4167
+    },
+    "UrGear": {
+      "avg_rating": 4.067,
+      "avg_rating_count": 6.2,
+      "trending_rate": 0.4167
+    },
+    "BESPMOSP": {
+      "avg_rating": 4.525,
+      "avg_rating_count": 38.3,
+      "trending_rate": 0.9167
+    },
+    "Lamshaw": {
+      "avg_rating": 4.0,
+      "avg_rating_count": 39.0,
+      "trending_rate": 0.4167
+    },
+    "saubhagya": {
+      "avg_rating": 3.825,
+      "avg_rating_count": 12.9,
+      "trending_rate": 0.4167
+    },
+    "Rhino": {
+      "avg_rating": 4.0,
+      "avg_rating_count": 12.5,
+      "trending_rate": 0.3636
+    },
+    "Hemlock": {
+      "avg_rating": 3.527,
+      "avg_rating_count": 203.6,
+      "trending_rate": 0.2727
+    },
+    "I Jewels": {
+      "avg_rating": 4.145,
+      "avg_rating_count": 28.4,
+      "trending_rate": 0.5455
+    },
+    "BAOBAO": {
+      "avg_rating": 4.1,
+      "avg_rating_count": 16.3,
+      "trending_rate": 0.6364
+    },
+    "BDA": {
+      "avg_rating": 4.545,
+      "avg_rating_count": 56.5,
+      "trending_rate": 0.9091
+    },
+    "Label Ritu Kumar": {
+      "avg_rating": 4.145,
+      "avg_rating_count": 5.9,
+      "trending_rate": 0.7273
+    },
+    "AME INTL": {
+      "avg_rating": 4.391,
+      "avg_rating_count": 12.6,
+      "trending_rate": 0.7273
+    },
+    "DEVOILER": {
+      "avg_rating": 3.955,
+      "avg_rating_count": 8.5,
+      "trending_rate": 0.3636
+    },
+    "SPANX": {
+      "avg_rating": 3.755,
+      "avg_rating_count": 15.7,
+      "trending_rate": 0.0909
+    },
+    "Dermawear": {
+      "avg_rating": 3.327,
+      "avg_rating_count": 17.8,
+      "trending_rate": 0.1818
+    },
+    "Zeel": {
+      "avg_rating": 4.409,
+      "avg_rating_count": 47.5,
+      "trending_rate": 0.9091
+    },
+    "Tuna London": {
+      "avg_rating": 4.291,
+      "avg_rating_count": 4.9,
+      "trending_rate": 0.7273
+    },
+    "BUCIK": {
+      "avg_rating": 3.173,
+      "avg_rating_count": 11.4,
+      "trending_rate": 0.0
+    },
+    "BESTOYARD": {
+      "avg_rating": 3.991,
+      "avg_rating_count": 168.4,
+      "trending_rate": 0.4545
+    },
+    "First Nighter": {
+      "avg_rating": 4.018,
+      "avg_rating_count": 10.5,
+      "trending_rate": 0.5455
+    },
+    "Game Time": {
+      "avg_rating": 4.627,
+      "avg_rating_count": 18.3,
+      "trending_rate": 0.8182
+    },
+    "LINDBERGH": {
+      "avg_rating": 4.291,
+      "avg_rating_count": 4.1,
+      "trending_rate": 0.7273
+    },
+    "LISTHA": {
+      "avg_rating": 3.309,
+      "avg_rating_count": 50.2,
+      "trending_rate": 0.0
+    },
+    "LUCERO": {
+      "avg_rating": 4.109,
+      "avg_rating_count": 6.5,
+      "trending_rate": 0.3636
+    },
+    "Trenz Shirt Company": {
+      "avg_rating": 4.327,
+      "avg_rating_count": 12.8,
+      "trending_rate": 0.7273
+    },
+    "Morph": {
+      "avg_rating": 3.818,
+      "avg_rating_count": 161.5,
+      "trending_rate": 0.2727
+    },
+    "Mamia": {
+      "avg_rating": 3.682,
+      "avg_rating_count": 8.2,
+      "trending_rate": 0.2727
+    },
+    "BlissClub": {
+      "avg_rating": 4.564,
+      "avg_rating_count": 25.5,
+      "trending_rate": 0.9091
+    },
+    "SportsFarm": {
+      "avg_rating": 4.382,
+      "avg_rating_count": 28.2,
+      "trending_rate": 0.7273
+    },
+    "Brisco Brands": {
+      "avg_rating": 4.409,
+      "avg_rating_count": 68.8,
+      "trending_rate": 0.8182
+    },
+    "Bulex": {
+      "avg_rating": 3.8,
+      "avg_rating_count": 49.0,
+      "trending_rate": 0.0909
+    },
+    "Buffalo David Bitton": {
+      "avg_rating": 4.291,
+      "avg_rating_count": 9.1,
+      "trending_rate": 0.6364
+    },
+    "Gipsy": {
+      "avg_rating": 3.964,
+      "avg_rating_count": 4.4,
+      "trending_rate": 0.6364
+    },
+    "TALES & STORIES": {
+      "avg_rating": 3.873,
+      "avg_rating_count": 6.4,
+      "trending_rate": 0.2727
+    },
+    "HIBADGE": {
+      "avg_rating": 4.4,
+      "avg_rating_count": 25.7,
+      "trending_rate": 0.8182
+    },
+    "Alfred Dunner": {
+      "avg_rating": 4.5,
+      "avg_rating_count": 15.3,
+      "trending_rate": 0.9091
+    },
+    "Vanity Fair": {
+      "avg_rating": 4.2,
+      "avg_rating_count": 20.7,
+      "trending_rate": 0.3636
+    },
+    "KIPRUN By Decathlon": {
+      "avg_rating": 4.309,
+      "avg_rating_count": 111.6,
+      "trending_rate": 0.7273
+    },
+    "Southern Marsh": {
+      "avg_rating": 4.509,
+      "avg_rating_count": 31.2,
+      "trending_rate": 0.8182
+    },
+    "Supersox": {
+      "avg_rating": 4.509,
+      "avg_rating_count": 82.2,
+      "trending_rate": 1.0
+    },
+    "American Crew Plus": {
+      "avg_rating": 4.455,
+      "avg_rating_count": 8.0,
+      "trending_rate": 0.7273
+    },
+    "OC Sports": {
+      "avg_rating": 4.582,
+      "avg_rating_count": 28.6,
+      "trending_rate": 0.9091
+    },
+    "Not Just Pyjamas": {
+      "avg_rating": 3.945,
+      "avg_rating_count": 16.5,
+      "trending_rate": 0.4545
+    },
+    "Spreadshirt": {
+      "avg_rating": 4.3,
+      "avg_rating_count": 15.2,
+      "trending_rate": 0.6364
+    },
+    "Greater Half": {
+      "avg_rating": 4.191,
+      "avg_rating_count": 25.1,
+      "trending_rate": 0.4545
+    },
+    "Akianna": {
+      "avg_rating": 4.327,
+      "avg_rating_count": 13.5,
+      "trending_rate": 0.7273
+    },
+    "ETIQUETTE": {
+      "avg_rating": 4.136,
+      "avg_rating_count": 6.8,
+      "trending_rate": 0.4545
+    },
+    "ELEGANT CONFETTI": {
+      "avg_rating": 3.882,
+      "avg_rating_count": 13.7,
+      "trending_rate": 0.4545
+    },
+    "RANGMANCH PLUS by Pantaloons": {
+      "avg_rating": 3.982,
+      "avg_rating_count": 7.0,
+      "trending_rate": 0.3636
+    },
+    "Reizteko": {
+      "avg_rating": 4.318,
+      "avg_rating_count": 140.8,
+      "trending_rate": 0.6364
+    },
+    "Centra": {
+      "avg_rating": 3.645,
+      "avg_rating_count": 32.8,
+      "trending_rate": 0.0
+    },
+    "RAVEbandz!": {
+      "avg_rating": 4.509,
+      "avg_rating_count": 10.9,
+      "trending_rate": 0.8182
+    },
+    "RBX": {
+      "avg_rating": 4.391,
+      "avg_rating_count": 74.1,
+      "trending_rate": 0.8182
+    },
+    "sindrellastorie": {
+      "avg_rating": 4.3,
+      "avg_rating_count": 5.3,
+      "trending_rate": 0.6364
+    },
+    "bebe": {
+      "avg_rating": 3.964,
+      "avg_rating_count": 8.6,
+      "trending_rate": 0.6364
+    },
+    "antaran": {
+      "avg_rating": 4.264,
+      "avg_rating_count": 17.8,
+      "trending_rate": 0.8182
+    },
+    "aarke Ritu Kumar": {
+      "avg_rating": 3.973,
+      "avg_rating_count": 7.5,
+      "trending_rate": 0.2727
+    },
+    "HMC": {
+      "avg_rating": 4.691,
+      "avg_rating_count": 17.5,
+      "trending_rate": 1.0
+    },
+    "JEWELS GEHNA": {
+      "avg_rating": 4.264,
+      "avg_rating_count": 25.3,
+      "trending_rate": 0.8182
+    },
+    "Prag & Co": {
+      "avg_rating": 3.527,
+      "avg_rating_count": 5.2,
+      "trending_rate": 0.2727
+    },
+    "OUFER": {
+      "avg_rating": 4.136,
+      "avg_rating_count": 28.8,
+      "trending_rate": 0.4545
+    },
+    "Sisadodo": {
+      "avg_rating": 4.409,
+      "avg_rating_count": 32.4,
+      "trending_rate": 0.9091
+    },
+    "CL SPORT": {
+      "avg_rating": 3.973,
+      "avg_rating_count": 7.7,
+      "trending_rate": 0.4545
+    },
+    "CHIMPAAANZEE": {
+      "avg_rating": 3.691,
+      "avg_rating_count": 4.5,
+      "trending_rate": 0.3636
+    },
+    "Dollar Socks": {
+      "avg_rating": 4.1,
+      "avg_rating_count": 5.5,
+      "trending_rate": 0.4545
+    },
+    "HOLLP": {
+      "avg_rating": 4.455,
+      "avg_rating_count": 19.4,
+      "trending_rate": 0.8182
+    },
+    "Eduavar": {
+      "avg_rating": 3.609,
+      "avg_rating_count": 33.1,
+      "trending_rate": 0.1818
+    },
+    "Ecko Unltd.": {
+      "avg_rating": 3.745,
+      "avg_rating_count": 19.0,
+      "trending_rate": 0.2727
+    },
+    "flagsandsouvenirs": {
+      "avg_rating": 4.51,
+      "avg_rating_count": 15.6,
+      "trending_rate": 0.8
+    },
+    "costumebase": {
+      "avg_rating": 4.32,
+      "avg_rating_count": 47.5,
+      "trending_rate": 0.8
+    },
+    "laavian": {
+      "avg_rating": 3.9,
+      "avg_rating_count": 21.8,
+      "trending_rate": 0.3
+    },
+    "Rex Straut Jeans": {
+      "avg_rating": 3.39,
+      "avg_rating_count": 3.3,
+      "trending_rate": 0.2
+    },
+    "UNISETS": {
+      "avg_rating": 4.02,
+      "avg_rating_count": 45.9,
+      "trending_rate": 0.4
+    },
+    "AES": {
+      "avg_rating": 4.6,
+      "avg_rating_count": 23.1,
+      "trending_rate": 0.8
+    },
+    "AGR8T": {
+      "avg_rating": 4.41,
+      "avg_rating_count": 19.1,
+      "trending_rate": 0.6
+    },
+    "2GO": {
+      "avg_rating": 4.14,
+      "avg_rating_count": 30.6,
+      "trending_rate": 0.5
+    },
+    "Nataliya": {
+      "avg_rating": 4.14,
+      "avg_rating_count": 23.5,
+      "trending_rate": 0.6
+    },
+    "Gucci": {
+      "avg_rating": 4.36,
+      "avg_rating_count": 17.2,
+      "trending_rate": 0.8
+    },
+    "Alvaro Castagnino": {
+      "avg_rating": 3.83,
+      "avg_rating_count": 6.3,
+      "trending_rate": 0.5
+    },
+    "SuperHeroStuff": {
+      "avg_rating": 4.58,
+      "avg_rating_count": 52.9,
+      "trending_rate": 0.9
+    },
+    "Brighton": {
+      "avg_rating": 4.5,
+      "avg_rating_count": 12.0,
+      "trending_rate": 0.7
+    },
+    "GLAM ROOTS": {
+      "avg_rating": 4.1,
+      "avg_rating_count": 7.3,
+      "trending_rate": 0.6
+    },
+    "FabSeasons": {
+      "avg_rating": 3.93,
+      "avg_rating_count": 32.5,
+      "trending_rate": 0.6
+    },
+    "Marshal": {
+      "avg_rating": 3.5,
+      "avg_rating_count": 24.7,
+      "trending_rate": 0.1
+    },
+    "Armory Replicas": {
+      "avg_rating": 4.07,
+      "avg_rating_count": 63.3,
+      "trending_rate": 0.6
+    },
+    "GULTMEE": {
+      "avg_rating": 4.33,
+      "avg_rating_count": 27.9,
+      "trending_rate": 0.7
+    },
+    "Gihuo": {
+      "avg_rating": 3.95,
+      "avg_rating_count": 80.6,
+      "trending_rate": 0.2
+    },
+    "Mobilly": {
+      "avg_rating": 4.12,
+      "avg_rating_count": 28.6,
+      "trending_rate": 0.5
+    },
+    "Myra Bag": {
+      "avg_rating": 4.67,
+      "avg_rating_count": 146.4,
+      "trending_rate": 1.0
+    },
+    "FRIENDS by DressBerry": {
+      "avg_rating": 4.29,
+      "avg_rating_count": 32.2,
+      "trending_rate": 0.8
+    },
+    "Spyder": {
+      "avg_rating": 4.53,
+      "avg_rating_count": 47.9,
+      "trending_rate": 0.9
+    },
+    "Bralux": {
+      "avg_rating": 3.23,
+      "avg_rating_count": 13.9,
+      "trending_rate": 0.1
+    },
+    "Kook N Keech Superman": {
+      "avg_rating": 3.99,
+      "avg_rating_count": 128.9,
+      "trending_rate": 0.4
+    },
+    "UNIONBAY": {
+      "avg_rating": 4.23,
+      "avg_rating_count": 11.5,
+      "trending_rate": 0.6
+    },
+    "Twitch": {
+      "avg_rating": 4.44,
+      "avg_rating_count": 65.0,
+      "trending_rate": 0.9
+    },
+    "Aviator Sunglasses": {
+      "avg_rating": 3.9,
+      "avg_rating_count": 21.6,
+      "trending_rate": 0.3
+    },
+    "Lounge Dreams": {
+      "avg_rating": 4.27,
+      "avg_rating_count": 8.1,
+      "trending_rate": 0.7
+    },
+    "Lucky Brand": {
+      "avg_rating": 4.32,
+      "avg_rating_count": 20.4,
+      "trending_rate": 0.7
+    },
+    "V TRADITION": {
+      "avg_rating": 4.01,
+      "avg_rating_count": 18.4,
+      "trending_rate": 0.7
+    },
+    "Ata-Boy": {
+      "avg_rating": 4.7,
+      "avg_rating_count": 51.3,
+      "trending_rate": 1.0
+    },
+    "Amirah s": {
+      "avg_rating": 3.84,
+      "avg_rating_count": 9.6,
+      "trending_rate": 0.3
+    },
+    "FindingKing": {
+      "avg_rating": 4.39,
+      "avg_rating_count": 29.7,
+      "trending_rate": 0.7
+    },
+    "Titanium Kay": {
+      "avg_rating": 4.22,
+      "avg_rating_count": 18.0,
+      "trending_rate": 0.7
+    },
+    "ToBeInStyle": {
+      "avg_rating": 4.33,
+      "avg_rating_count": 204.9,
+      "trending_rate": 0.8
+    },
+    "Besteel": {
+      "avg_rating": 3.56,
+      "avg_rating_count": 29.6,
+      "trending_rate": 0.0
+    },
+    "Better Than Pants": {
+      "avg_rating": 4.47,
+      "avg_rating_count": 18.1,
+      "trending_rate": 0.9
+    },
+    "MPRAINBOW": {
+      "avg_rating": 4.32,
+      "avg_rating_count": 27.3,
+      "trending_rate": 0.7
+    },
+    "FantastCostumes": {
+      "avg_rating": 4.14,
+      "avg_rating_count": 23.2,
+      "trending_rate": 0.5
+    },
+    "Primitives by Kathy": {
+      "avg_rating": 4.71,
+      "avg_rating_count": 62.6,
+      "trending_rate": 1.0
+    },
+    "Samshek": {
+      "avg_rating": 4.02,
+      "avg_rating_count": 16.6,
+      "trending_rate": 0.7
+    },
+    "Efulgenz": {
+      "avg_rating": 3.54,
+      "avg_rating_count": 22.8,
+      "trending_rate": 0.2
+    },
+    "Sakhi Jaipur": {
+      "avg_rating": 4.47,
+      "avg_rating_count": 12.6,
+      "trending_rate": 0.9
+    },
+    "Online-Welcome": {
+      "avg_rating": 3.86,
+      "avg_rating_count": 93.0,
+      "trending_rate": 0.2
+    },
+    "OutTop01": {
+      "avg_rating": 2.96,
+      "avg_rating_count": 18.0,
+      "trending_rate": 0.0
+    },
+    "Gosasa": {
+      "avg_rating": 3.85,
+      "avg_rating_count": 101.9,
+      "trending_rate": 0.3
+    },
+    "Judy Blue": {
+      "avg_rating": 4.26,
+      "avg_rating_count": 19.9,
+      "trending_rate": 0.6
+    },
+    "JewelryWeb": {
+      "avg_rating": 4.01,
+      "avg_rating_count": 23.9,
+      "trending_rate": 0.5
+    },
+    "Jean Cafe": {
+      "avg_rating": 4.04,
+      "avg_rating_count": 5.8,
+      "trending_rate": 0.6
+    },
+    "Skechers": {
+      "avg_rating": 4.52,
+      "avg_rating_count": 21.8,
+      "trending_rate": 0.8
+    },
+    "Eye Opening Stuff": {
+      "avg_rating": 4.18,
+      "avg_rating_count": 25.3,
+      "trending_rate": 0.5
+    },
+    "Sheila Fajl": {
+      "avg_rating": 4.35,
+      "avg_rating_count": 20.4,
+      "trending_rate": 0.8
+    },
+    "Alchemy of England": {
+      "avg_rating": 4.43,
+      "avg_rating_count": 17.0,
+      "trending_rate": 0.9
+    },
+    "DYCA": {
+      "avg_rating": 4.27,
+      "avg_rating_count": 18.5,
+      "trending_rate": 0.8
+    },
+    "SHANGRILA": {
+      "avg_rating": 3.79,
+      "avg_rating_count": 8.4,
+      "trending_rate": 0.3
+    },
+    "SERONA FABRICS": {
+      "avg_rating": 4.14,
+      "avg_rating_count": 6.2,
+      "trending_rate": 0.5
+    },
+    "CharmSStory": {
+      "avg_rating": 4.45,
+      "avg_rating_count": 129.9,
+      "trending_rate": 0.9
+    },
+    "ANTS": {
+      "avg_rating": 3.69,
+      "avg_rating_count": 11.1,
+      "trending_rate": 0.3
+    },
+    "ASA": {
+      "avg_rating": 3.88,
+      "avg_rating_count": 29.7,
+      "trending_rate": 0.2
+    },
+    "Yuvraah": {
+      "avg_rating": 3.79,
+      "avg_rating_count": 22.1,
+      "trending_rate": 0.5
+    },
+    "HZMAN": {
+      "avg_rating": 4.54,
+      "avg_rating_count": 271.4,
+      "trending_rate": 1.0
+    },
+    "Hands Of Tibet": {
+      "avg_rating": 4.24,
+      "avg_rating_count": 33.0,
+      "trending_rate": 0.6
+    },
+    "Rotary13B1": {
+      "avg_rating": 4.81,
+      "avg_rating_count": 96.3,
+      "trending_rate": 1.0
+    },
+    "Coucou": {
+      "avg_rating": 4.19,
+      "avg_rating_count": 12.1,
+      "trending_rate": 0.6
+    },
+    "Roly Poly": {
+      "avg_rating": 3.39,
+      "avg_rating_count": 13.8,
+      "trending_rate": 0.1
+    },
+    "Hilary Radley": {
+      "avg_rating": 4.4,
+      "avg_rating_count": 11.0,
+      "trending_rate": 0.9
+    },
+    "Honbay": {
+      "avg_rating": 4.24,
+      "avg_rating_count": 124.1,
+      "trending_rate": 0.7
+    },
+    "Hush Puppies": {
+      "avg_rating": 4.3,
+      "avg_rating_count": 41.3,
+      "trending_rate": 0.8
+    },
+    "sandy AND ritz": {
+      "avg_rating": 4.15,
+      "avg_rating_count": 6.4,
+      "trending_rate": 0.6
+    },
+    "mincl": {
+      "avg_rating": 4.04,
+      "avg_rating_count": 28.7,
+      "trending_rate": 0.3
+    },
+    "miccostumes": {
+      "avg_rating": 4.32,
+      "avg_rating_count": 71.0,
+      "trending_rate": 0.7
+    }
+  }
+}

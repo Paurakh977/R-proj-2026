@@ -1,0 +1,640 @@
+{
+  "categories": [
+    {
+      "value": "tshirts",
+      "label": "Tshirts",
+      "count": 22625,
+      "trendingRate": 63.7
+    },
+    {
+      "value": "tops",
+      "label": "Tops",
+      "count": 15402,
+      "trendingRate": 50.2
+    },
+    {
+      "value": "dresses",
+      "label": "Dresses",
+      "count": 13449,
+      "trendingRate": 48.5
+    },
+    {
+      "value": "jeans",
+      "label": "Jeans",
+      "count": 13102,
+      "trendingRate": 37.0
+    },
+    {
+      "value": "kurtas",
+      "label": "Kurtas",
+      "count": 11685,
+      "trendingRate": 46.8
+    },
+    {
+      "value": "shirts",
+      "label": "Shirts",
+      "count": 10687,
+      "trendingRate": 55.4
+    },
+    {
+      "value": "trousers",
+      "label": "Trousers",
+      "count": 10009,
+      "trendingRate": 44.7
+    },
+    {
+      "value": "Accessories",
+      "label": "Accessories",
+      "count": 9681,
+      "trendingRate": 60.7
+    },
+    {
+      "value": "kurta-sets",
+      "label": "Kurta Sets",
+      "count": 8789,
+      "trendingRate": 42.1
+    },
+    {
+      "value": "bra",
+      "label": "Bra",
+      "count": 8004,
+      "trendingRate": 54.1
+    },
+    {
+      "value": "track-pants",
+      "label": "Track Pants",
+      "count": 7024,
+      "trendingRate": 43.7
+    },
+    {
+      "value": "Other",
+      "label": "Other",
+      "count": 6716,
+      "trendingRate": 65.4
+    },
+    {
+      "value": "sweatshirts",
+      "label": "Sweatshirts",
+      "count": 6020,
+      "trendingRate": 61.5
+    },
+    {
+      "value": "jackets",
+      "label": "Jackets",
+      "count": 5397,
+      "trendingRate": 54.0
+    },
+    {
+      "value": "shorts",
+      "label": "Shorts",
+      "count": 5264,
+      "trendingRate": 68.1
+    },
+    {
+      "value": "sarees",
+      "label": "Sarees",
+      "count": 5113,
+      "trendingRate": 37.4
+    },
+    {
+      "value": "briefs",
+      "label": "Briefs",
+      "count": 4472,
+      "trendingRate": 67.5
+    },
+    {
+      "value": "night-suits",
+      "label": "Night Suits",
+      "count": 4189,
+      "trendingRate": 62.9
+    },
+    {
+      "value": "sweaters",
+      "label": "Sweaters",
+      "count": 3514,
+      "trendingRate": 62.2
+    },
+    {
+      "value": "T-Shirt",
+      "label": "T Shirt",
+      "count": 2957,
+      "trendingRate": 55.0
+    },
+    {
+      "value": "lounge-pants",
+      "label": "Lounge Pants",
+      "count": 2580,
+      "trendingRate": 54.1
+    },
+    {
+      "value": "nightdress",
+      "label": "Nightdress",
+      "count": 2532,
+      "trendingRate": 59.7
+    },
+    {
+      "value": "Underwear",
+      "label": "Underwear",
+      "count": 2378,
+      "trendingRate": 55.6
+    },
+    {
+      "value": "leggings",
+      "label": "Leggings",
+      "count": 1804,
+      "trendingRate": 67.2
+    },
+    {
+      "value": "skirts",
+      "label": "Skirts",
+      "count": 1681,
+      "trendingRate": 54.3
+    },
+    {
+      "value": "trunk",
+      "label": "Trunk",
+      "count": 1680,
+      "trendingRate": 64.6
+    },
+    {
+      "value": "tights",
+      "label": "Tights",
+      "count": 1658,
+      "trendingRate": 60.4
+    },
+    {
+      "value": "boxers",
+      "label": "Boxers",
+      "count": 1513,
+      "trendingRate": 51.4
+    },
+    {
+      "value": "jumpsuit",
+      "label": "Jumpsuit",
+      "count": 1332,
+      "trendingRate": 49.4
+    },
+    {
+      "value": "socks",
+      "label": "Socks",
+      "count": 1322,
+      "trendingRate": 70.4
+    },
+    {
+      "value": "dupatta",
+      "label": "Dupatta",
+      "count": 1246,
+      "trendingRate": 63.1
+    },
+    {
+      "value": "Dress",
+      "label": "Dress",
+      "count": 1087,
+      "trendingRate": 45.2
+    },
+    {
+      "value": "lounge-shorts",
+      "label": "Lounge Shorts",
+      "count": 1021,
+      "trendingRate": 69.9
+    },
+    {
+      "value": "Shoes",
+      "label": "Shoes",
+      "count": 933,
+      "trendingRate": 56.1
+    },
+    {
+      "value": "innerwear-vests",
+      "label": "Innerwear Vests",
+      "count": 897,
+      "trendingRate": 59.5
+    },
+    {
+      "value": "Shirt",
+      "label": "Shirt",
+      "count": 880,
+      "trendingRate": 57.0
+    },
+    {
+      "value": "palazzos",
+      "label": "Palazzos",
+      "count": 864,
+      "trendingRate": 50.6
+    },
+    {
+      "value": "Pants",
+      "label": "Pants",
+      "count": 861,
+      "trendingRate": 47.9
+    },
+    {
+      "value": "lingerie-set",
+      "label": "Lingerie Set",
+      "count": 751,
+      "trendingRate": 24.4
+    },
+    {
+      "value": "nehru-jackets",
+      "label": "Nehru Jackets",
+      "count": 707,
+      "trendingRate": 39.9
+    },
+    {
+      "value": "lehenga-choli",
+      "label": "Lehenga Choli",
+      "count": 698,
+      "trendingRate": 52.0
+    },
+    {
+      "value": "Socks",
+      "label": "Socks",
+      "count": 697,
+      "trendingRate": 74.3
+    },
+    {
+      "value": "shrug",
+      "label": "Shrug",
+      "count": 695,
+      "trendingRate": 51.8
+    },
+    {
+      "value": "blazers",
+      "label": "Blazers",
+      "count": 639,
+      "trendingRate": 30.2
+    },
+    {
+      "value": "tracksuits",
+      "label": "Tracksuits",
+      "count": 577,
+      "trendingRate": 40.7
+    },
+    {
+      "value": "jeggings",
+      "label": "Jeggings",
+      "count": 554,
+      "trendingRate": 54.0
+    },
+    {
+      "value": "Jacket",
+      "label": "Jacket",
+      "count": 494,
+      "trendingRate": 59.7
+    },
+    {
+      "value": "camisoles",
+      "label": "Camisoles",
+      "count": 484,
+      "trendingRate": 66.1
+    },
+    {
+      "value": "saree-blouse",
+      "label": "Saree Blouse",
+      "count": 474,
+      "trendingRate": 41.1
+    },
+    {
+      "value": "Sweater",
+      "label": "Sweater",
+      "count": 448,
+      "trendingRate": 56.5
+    },
+    {
+      "value": "shapewear",
+      "label": "Shapewear",
+      "count": 412,
+      "trendingRate": 24.8
+    },
+    {
+      "value": "capris",
+      "label": "Capris",
+      "count": 402,
+      "trendingRate": 60.9
+    },
+    {
+      "value": "baby-dolls",
+      "label": "Baby Dolls",
+      "count": 377,
+      "trendingRate": 42.2
+    },
+    {
+      "value": "Shorts",
+      "label": "Shorts",
+      "count": 372,
+      "trendingRate": 54.0
+    },
+    {
+      "value": "lounge-tshirts",
+      "label": "Lounge Tshirts",
+      "count": 334,
+      "trendingRate": 78.4
+    },
+    {
+      "value": "dress-material",
+      "label": "Dress Material",
+      "count": 330,
+      "trendingRate": 40.3
+    },
+    {
+      "value": "kurtis",
+      "label": "Kurtis",
+      "count": 320,
+      "trendingRate": 53.4
+    },
+    {
+      "value": "swimwear",
+      "label": "Swimwear",
+      "count": 296,
+      "trendingRate": 33.4
+    },
+    {
+      "value": "sherwani",
+      "label": "Sherwani",
+      "count": 276,
+      "trendingRate": 15.6
+    },
+    {
+      "value": "coats",
+      "label": "Coats",
+      "count": 256,
+      "trendingRate": 43.4
+    },
+    {
+      "value": "Activewear",
+      "label": "Activewear",
+      "count": 254,
+      "trendingRate": 59.1
+    },
+    {
+      "value": "Jeans",
+      "label": "Jeans",
+      "count": 252,
+      "trendingRate": 54.4
+    },
+    {
+      "value": "dhotis",
+      "label": "Dhotis",
+      "count": 228,
+      "trendingRate": 46.5
+    },
+    {
+      "value": "tunics",
+      "label": "Tunics",
+      "count": 221,
+      "trendingRate": 44.8
+    },
+    {
+      "value": "thermal-tops",
+      "label": "Thermal Tops",
+      "count": 202,
+      "trendingRate": 78.2
+    },
+    {
+      "value": "bath-robe",
+      "label": "Bath Robe",
+      "count": 200,
+      "trendingRate": 44.5
+    },
+    {
+      "value": "pyjamas",
+      "label": "Pyjamas",
+      "count": 198,
+      "trendingRate": 58.6
+    },
+    {
+      "value": "stockings",
+      "label": "Stockings",
+      "count": 131,
+      "trendingRate": 46.6
+    },
+    {
+      "value": "shawl",
+      "label": "Shawl",
+      "count": 118,
+      "trendingRate": 66.1
+    },
+    {
+      "value": "dungarees",
+      "label": "Dungarees",
+      "count": 107,
+      "trendingRate": 56.1
+    },
+    {
+      "value": "churidar",
+      "label": "Churidar",
+      "count": 106,
+      "trendingRate": 51.9
+    },
+    {
+      "value": "Jumpsuit",
+      "label": "Jumpsuit",
+      "count": 105,
+      "trendingRate": 50.5
+    },
+    {
+      "value": "co-ords",
+      "label": "Co Ords",
+      "count": 104,
+      "trendingRate": 47.1
+    },
+    {
+      "value": "Swimwear",
+      "label": "Swimwear",
+      "count": 91,
+      "trendingRate": 40.7
+    },
+    {
+      "value": "thermal-bottoms",
+      "label": "Thermal Bottoms",
+      "count": 90,
+      "trendingRate": 70.0
+    },
+    {
+      "value": "flats",
+      "label": "Flats",
+      "count": 81,
+      "trendingRate": 38.3
+    },
+    {
+      "value": "Skirt",
+      "label": "Skirt",
+      "count": 80,
+      "trendingRate": 37.5
+    },
+    {
+      "value": "stoles",
+      "label": "Stoles",
+      "count": 73,
+      "trendingRate": 60.3
+    },
+    {
+      "value": "sports-sandals",
+      "label": "Sports Sandals",
+      "count": 73,
+      "trendingRate": 53.4
+    },
+    {
+      "value": "patiala",
+      "label": "Patiala",
+      "count": 69,
+      "trendingRate": 60.9
+    },
+    {
+      "value": "salwar",
+      "label": "Salwar",
+      "count": 67,
+      "trendingRate": 61.2
+    },
+    {
+      "value": "earrings",
+      "label": "Earrings",
+      "count": 60,
+      "trendingRate": 68.3
+    },
+    {
+      "value": "robe",
+      "label": "Robe",
+      "count": 56,
+      "trendingRate": 55.4
+    },
+    {
+      "value": "Coat",
+      "label": "Coat",
+      "count": 47,
+      "trendingRate": 63.8
+    },
+    {
+      "value": "waistcoat",
+      "label": "Waistcoat",
+      "count": 46,
+      "trendingRate": 54.3
+    },
+    {
+      "value": "saree-accessories",
+      "label": "Saree Accessories",
+      "count": 44,
+      "trendingRate": 63.6
+    },
+    {
+      "value": "casual-shoes",
+      "label": "Casual Shoes",
+      "count": 40,
+      "trendingRate": 50.0
+    },
+    {
+      "value": "thermal-set",
+      "label": "Thermal Set",
+      "count": 30,
+      "trendingRate": 43.3
+    },
+    {
+      "value": "Kurta",
+      "label": "Kurta",
+      "count": 28,
+      "trendingRate": 17.9
+    },
+    {
+      "value": "patiala-and-dupatta",
+      "label": "Patiala And Dupatta",
+      "count": 27,
+      "trendingRate": 63.0
+    },
+    {
+      "value": "burqas",
+      "label": "Burqas",
+      "count": 21,
+      "trendingRate": 57.1
+    },
+    {
+      "value": "rain-jacket",
+      "label": "Rain Jacket",
+      "count": 16,
+      "trendingRate": 75.0
+    },
+    {
+      "value": "suits",
+      "label": "Suits",
+      "count": 13,
+      "trendingRate": 23.1
+    },
+    {
+      "value": "lingerie-accessories",
+      "label": "Lingerie Accessories",
+      "count": 13,
+      "trendingRate": 69.2
+    },
+    {
+      "value": "slips",
+      "label": "Slips",
+      "count": 12,
+      "trendingRate": 66.7
+    },
+    {
+      "value": "swim-bottoms",
+      "label": "Swim Bottoms",
+      "count": 11,
+      "trendingRate": 0.0
+    },
+    {
+      "value": "clothing-set",
+      "label": "Clothing Set",
+      "count": 10,
+      "trendingRate": 60.0
+    },
+    {
+      "value": "outdoor-masks",
+      "label": "Outdoor Masks",
+      "count": 8,
+      "trendingRate": 87.5
+    },
+    {
+      "value": "salwar-and-dupatta",
+      "label": "Salwar And Dupatta",
+      "count": 8,
+      "trendingRate": 50.0
+    },
+    {
+      "value": "necklace-and-chains",
+      "label": "Necklace And Chains",
+      "count": 5,
+      "trendingRate": 60.0
+    },
+    {
+      "value": "scarves",
+      "label": "Scarves",
+      "count": 5,
+      "trendingRate": 60.0
+    },
+    {
+      "value": "boots",
+      "label": "Boots",
+      "count": 2,
+      "trendingRate": 0.0
+    },
+    {
+      "value": "harem-pants",
+      "label": "Harem Pants",
+      "count": 2,
+      "trendingRate": 50.0
+    },
+    {
+      "value": "hair-accessory",
+      "label": "Hair Accessory",
+      "count": 1,
+      "trendingRate": 0.0
+    },
+    {
+      "value": "heels",
+      "label": "Heels",
+      "count": 1,
+      "trendingRate": 100.0
+    },
+    {
+      "value": "sleepsuit",
+      "label": "Sleepsuit",
+      "count": 1,
+      "trendingRate": 100.0
+    }
+  ]
+}
