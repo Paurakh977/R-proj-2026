@@ -9,9 +9,9 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 const STATS = [
-  { num: 12, suffix: "K+", label: "Trend Predictions", color: "#e84a86" },
-  { num: 98, suffix: "%", label: "Accuracy Rate", color: "#e84a86" },
-  { num: 50, suffix: "+", label: "Fashion Categories", color: "#5a8c42" },
+  { num: 214, suffix: "K+", label: "Products Analyzed", color: "#e84a86" },
+  { num: 106, suffix: "", label: "Fashion Categories", color: "#e84a86" },
+  { num: 700, suffix: "+", label: "Brands Tracked", color: "#5a8c42" },
 ];
 
 function CountUp({

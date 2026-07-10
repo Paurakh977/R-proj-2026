@@ -1,19 +1,13 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Sparkles, Heart, Code, MessageCircle, Camera } from "lucide-react";
+import { Sparkles, Heart, BookOpen, GraduationCap, MapPin } from "lucide-react";
 
 const NAV_LINKS = [
   { label: "About Project", href: "#about" },
   { label: "Methodology", href: "#predictions" },
   { label: "Predictions", href: "#predictions" },
   { label: "Categories", href: "#categories" },
-];
-
-const SOCIAL_LINKS = [
-  { icon: Code, label: "GitHub" },
-  { icon: MessageCircle, label: "Twitter" },
-  { icon: Camera, label: "Instagram" },
 ];
 
 export default function Footer() {
@@ -101,19 +95,9 @@ export default function Footer() {
               animation: "shimmer 6s linear infinite",
             }}
           >
-            Where Data
+            Kathmandu
             <br />
-            Meets Style
-          </p>
-
-          {/* Script accent */}
-          <p
-            className="font-script flex items-center justify-center gap-2 mt-6"
-            style={{ fontSize: 20, color: "#5a8c42" }}
-          >
-            <Sparkles size={14} className="text-pink-400" />
-            Fashion meets intelligence
-            <Sparkles size={14} className="text-pink-400" />
+            University
           </p>
 
           {/* Description */}
@@ -121,13 +105,13 @@ export default function Footer() {
             className="text-gray-400 font-body mx-auto mt-4"
             style={{ fontSize: 14, lineHeight: 1.75, maxWidth: 440 }}
           >
-            An AI-powered fashion prediction platform developed as a university
-            project exploring the intersection of machine learning and style
-            intelligence.
+            An AI-powered fashion trend prediction platform developed as a
+            capstone project by students of Kathmandu University, Department of
+            Computer Science and Engineering.
           </p>
         </motion.div>
 
-        {/* ── Links + Team row ── */}
+        {/* ── Links + University Info row ── */}
         <motion.div
           className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-16"
           initial={{ opacity: 0, y: 30 }}
@@ -171,81 +155,64 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Team */}
+          {/* University Info */}
           <div>
             <h4
               className="font-body font-semibold mb-5"
               style={{ fontSize: 11, letterSpacing: "0.14em", color: "#a3a3a3", textTransform: "uppercase" }}
             >
-              Team & University
+              University
             </h4>
             <div className="flex flex-col gap-4">
-              <div>
-                <p className="font-body font-semibold text-gray-800" style={{ fontSize: 14 }}>
-                  Research Team
-                </p>
-                <p className="text-gray-400 font-body" style={{ fontSize: 13 }}>
-                  Fashion AI Lab · 2026
-                </p>
+              <div className="flex items-start gap-3">
+                <GraduationCap size={16} className="text-pink-400" style={{ marginTop: 2 }} />
+                <div>
+                  <p className="font-body font-semibold text-gray-800" style={{ fontSize: 14 }}>
+                    Kathmandu University
+                  </p>
+                  <p className="text-gray-400 font-body" style={{ fontSize: 13 }}>
+                    Dept. of Computer Science & Engineering
+                  </p>
+                </div>
               </div>
-              <div>
-                <p className="font-body font-semibold text-gray-800" style={{ fontSize: 14 }}>
-                  TEAM 6
-                </p>
-                <p className="text-gray-400 font-body" style={{ fontSize: 13 }}>
-                  Department of Data Science
-                </p>
+              <div className="flex items-start gap-3">
+                <BookOpen size={16} className="text-green-400" style={{ marginTop: 2 }} />
+                <div>
+                  <p className="font-body font-semibold text-gray-800" style={{ fontSize: 14 }}>
+                    Capstone Project
+                  </p>
+                  <p className="text-gray-400 font-body" style={{ fontSize: 13 }}>
+                    Fashion Trend Prediction · 2026
+                  </p>
+                </div>
               </div>
-              <a
-                href="#"
-                className="font-body font-semibold inline-flex items-center gap-1.5 transition-colors duration-250"
-                style={{ fontSize: 13, color: "#e84a86", textDecoration: "none" }}
-              >
-                Contact the Team →
-              </a>
+              <div className="flex items-start gap-3">
+                <MapPin size={16} className="text-gray-400" style={{ marginTop: 2 }} />
+                <div>
+                  <p className="font-body font-semibold text-gray-800" style={{ fontSize: 14 }}>
+                    Dhulikhel, Nepal
+                  </p>
+                  <p className="text-gray-400 font-body" style={{ fontSize: 13 }}>
+                    School of Engineering
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
 
-          {/* Social */}
+          {/* About */}
           <div>
             <h4
               className="font-body font-semibold mb-5"
               style={{ fontSize: 11, letterSpacing: "0.14em", color: "#a3a3a3", textTransform: "uppercase" }}
             >
-              Connect
+              About
             </h4>
-            <div className="flex flex-col gap-3">
-              {SOCIAL_LINKS.map(({ icon: Icon, label }) => (
-                <a
-                  key={label}
-                  href="#"
-                  className="flex items-center gap-3 font-body font-medium text-gray-500 group transition-colors duration-250"
-                  style={{ fontSize: 14, textDecoration: "none" }}
-                  onMouseEnter={(e) => {
-                    (e.currentTarget as HTMLElement).style.color = "#e84a86";
-                  }}
-                  onMouseLeave={(e) => {
-                    (e.currentTarget as HTMLElement).style.color = "#737373";
-                  }}
-                >
-                  <div
-                    style={{
-                      width: 32,
-                      height: 32,
-                      borderRadius: 10,
-                      background: "rgba(0,0,0,0.04)",
-                      display: "flex",
-                      alignItems: "center",
-                      justifyContent: "center",
-                      transition: "all 0.25s ease",
-                    }}
-                  >
-                    <Icon size={15} />
-                  </div>
-                  {label}
-                </a>
-              ))}
-            </div>
+            <p className="text-gray-400 font-body leading-relaxed" style={{ fontSize: 13 }}>
+              TrendSeer is a machine learning platform that predicts fashion
+              product trend potential using listing-time metadata. Built with
+              XGBoost and trained on 214K+ products across 106 categories.
+            </p>
           </div>
         </motion.div>
 
@@ -259,7 +226,7 @@ export default function Footer() {
           <div className="divider-gradient mb-6" />
           <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
             <p className="text-gray-400 font-body" style={{ fontSize: 13 }}>
-              © 2026 TrendSeer · Fashion AI Prediction Platform
+              &copy; 2026 Kathmandu University · Capstone Project
             </p>
             <div className="flex items-center gap-1.5 text-gray-400 font-body" style={{ fontSize: 13 }}>
               Built with
@@ -269,7 +236,7 @@ export default function Footer() {
               >
                 <Heart size={13} className="text-pink-400" fill="rgba(244,114,160,0.7)" />
               </motion.span>
-              for academic excellence
+              by Team 6, Dept. of Mathematics
             </div>
           </div>
         </motion.div>

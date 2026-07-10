@@ -2,7 +2,7 @@
 
 import { useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Loader2, Zap } from "lucide-react";
+import { Sparkles, Loader2, Zap, Shirt, DollarSign, Tag, User, Globe } from "lucide-react";
 import { usePredictionStore } from "@/lib/hooks";
 
 export default function PredictionPanel() {
@@ -21,13 +21,22 @@ export default function PredictionPanel() {
     runPrediction();
   };
 
+  const iconMap: Record<string, React.ReactNode> = {
+    Title: <Shirt size={14} strokeWidth={1.5} />,
+    Price: <DollarSign size={14} strokeWidth={1.5} />,
+    Category: <Tag size={14} strokeWidth={1.5} />,
+    Brand: <Sparkles size={14} strokeWidth={1.5} />,
+    Gender: <User size={14} strokeWidth={1.5} />,
+    Market: <Globe size={14} strokeWidth={1.5} />,
+  };
+
   const summaryItems = [
-    { label: "Product", value: filters.product, icon: "👕" },
-    { label: "Category", value: filters.category, icon: "🏷️" },
-    { label: "Price", value: `Up to $${filters.priceRange}`, icon: "💰" },
-    { label: "Style", value: filters.styleType || "Any", icon: "✨" },
-    { label: "Brand", value: filters.brand || "Any", icon: "🏷️" },
-    { label: "Season", value: filters.season || "All seasons", icon: "🌿" },
+    { label: "Title", value: filters.title || "—" },
+    { label: "Price", value: `$${filters.price.toFixed(2)}` },
+    { label: "Category", value: filters.category },
+    { label: "Brand", value: filters.brand || "Other" },
+    { label: "Gender", value: filters.gender },
+    { label: "Market", value: filters.market === "US" ? "United States" : "India" },
   ];
 
   return (
@@ -83,9 +92,7 @@ export default function PredictionPanel() {
               style={{ padding: "44px 48px", borderRadius: "inherit", position: "relative" }}
             >
               {/* Summary grid */}
-              <div
-                className="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-10"
-              >
+              <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-10">
                 {summaryItems.map((item, i) => (
                   <motion.div
                     key={item.label}
@@ -102,7 +109,7 @@ export default function PredictionPanel() {
                     }}
                   >
                     <div className="flex items-center gap-2 mb-1.5">
-                      <span style={{ fontSize: 14 }}>{item.icon}</span>
+                      <span style={{ color: i % 2 === 0 ? "#e84a86" : "#5a8c42", display: "flex" }}>{iconMap[item.label]}</span>
                       <p
                         className="text-gray-400 uppercase font-body"
                         style={{ fontSize: 10, fontWeight: 600, letterSpacing: "0.10em" }}
@@ -112,12 +119,11 @@ export default function PredictionPanel() {
                     </div>
                     <p
                       className="font-display font-bold text-gray-800"
-                      style={{ fontSize: 15, letterSpacing: "-0.01em" }}
+                      style={{ fontSize: 15, letterSpacing: "-0.01em", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}
                     >
                       {item.value}
                     </p>
 
-                    {/* Bottom accent */}
                     <div
                       className="absolute bottom-0 left-0 right-0"
                       style={{
@@ -158,11 +164,12 @@ export default function PredictionPanel() {
                 </div>
                 <div>
                   <p className="font-body font-semibold text-gray-700" style={{ fontSize: 13 }}>
-                    AI is ready to analyze
+                  Model ready to predict
                   </p>
                   <p className="text-gray-400 font-body" style={{ fontSize: 12, marginTop: 2, lineHeight: 1.6 }}>
-                    Our model will process {filters.product} trends across {filters.category} markets,
-                    factoring in price sensitivity, brand equity, and seasonal demand curves.
+                    The model analyzes {filters.brand || "brand"} {filters.category} products
+                    at ${filters.price.toFixed(2)} price point in {filters.market === "US" ? "US" : "Indian"} market.
+                    Brand is the strongest predictor (17% of model signal).
                   </p>
                 </div>
               </div>
@@ -191,7 +198,6 @@ export default function PredictionPanel() {
                   animation: isLoading ? "none" : "shimmer 3s linear infinite",
                 }}
               >
-                {/* Ripple effects */}
                 {ripples.map((r) => (
                   <motion.span
                     key={r.id}
@@ -213,7 +219,7 @@ export default function PredictionPanel() {
                       exit={{ opacity: 0, y: -8 }}
                     >
                       <Loader2 size={20} className="animate-spin" />
-                      Analyzing Trends...
+                      Running Model...
                     </motion.span>
                   ) : (
                     <motion.span
